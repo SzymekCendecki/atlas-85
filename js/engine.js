@@ -77,7 +77,17 @@ module.exports = __webpack_require__(1);
 "use strict";
 
 
-document.addEventListener("DOMContentLoaded", function () {});
+document.addEventListener("DOMContentLoaded", function () {
+    $.ajax({
+        url: 'https://github.com/SzymekCendecki/atlas-86/json/europa.json',
+        type: 'GET',
+        dataType: 'json'
+    }).done(function (data) {
+        console.log(data);
+    }).fail(function () {
+        console.log("coś nie bangla...");
+    });
+});
 
 /***/ })
 /******/ ]);
