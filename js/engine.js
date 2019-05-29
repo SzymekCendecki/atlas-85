@@ -79,7 +79,7 @@ module.exports = __webpack_require__(1);
 
 document.addEventListener("DOMContentLoaded", function () {
     $.ajax({
-        url: 'https://github.com/SzymekCendecki/atlas-86/json/europa.json',
+        url: 'https://szymekcendecki.github.io/atlas-86/json/europa.json',
         type: 'GET',
         dataType: 'json'
     }).done(function (data) {

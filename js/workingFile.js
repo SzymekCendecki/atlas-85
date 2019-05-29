@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
     $.ajax({
-        url: 'https://github.com/SzymekCendecki/atlas-86/json/europa.json',
+        url: 'https://szymekcendecki.github.io/atlas-86/json/europa.json',
         type: 'GET',
         dataType: 'json'
         }).done((data) => {  

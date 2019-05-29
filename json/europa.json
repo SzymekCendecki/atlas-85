@@ -1,8 +1,8 @@
 {
     "europaDescription": [
         {
-            "position": "położenie",
-            "area": "powierzchnia",
+            "position": "<p><strong>Położenie</strong>: Europa leży na Półkuli Północnej, stanowiąc część kontynentu zwanego Eurazją. Jej najbardziej wysuniętym na północ punktem jest przylądek Nordkyn w Norwegii, na południe - przylądek Marroqui w Hiszpanii, na zachós - przylądek Roca w Portugalii, a na wschód - łańcuch Północnego Uralu.</p>",
+            "area": "<p><strong>Powierzchnia:</strong> 10 537 000 km<sup>2</sup></p>",
             "adminDivision": "podział administracyjny",
             "biggestCities": "Największe city",
             "population": "ludność",
