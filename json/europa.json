@@ -1,26 +1,26 @@
 {
     "europa": [
         {
-            "położenie": "",
-            "powierzchnia": "",
-            "Podział administracyjny": "",
-            "Największe miasta": "",
-            "Ludność": "",
-            "Warunki naturalne":"",
-            "Histroria i zarys polityczny":"",
-            "Gospodarka":""
+            "position": "położenie",
+            "area": "powierzchnia",
+            "adminDivision": "podział administracyjny",
+            "biggestCities": "Największe city",
+            "population": "ludność",
+            "naturalConditions":"Warunki naturalne",
+            "historyPoliticalOutline":"Histroria i zarys polityczny",
+            "Economy": "Gospodarka"
         }
     ],
     "albania": [
         {
-            "położenie": "",
-            "powierzchnia": "",
-            "Podział administracyjny": "",
-            "Największe miasta": "",
-            "Ludność": "",
-            "Warunki naturalne":"",
-            "Histroria i zarys polityczny":"",
-            "Gospodarka":""
+            "position": "położenie",
+            "area": "powierzchnia",
+            "adminDivision": "podział administracyjny",
+            "biggestCities": "Największe city",
+            "population": "ludność",
+            "naturalConditions":"Warunki naturalne",
+            "historyPoliticalOutline":"Histroria i zarys polityczny",
+            "Economy": "Gospodarka"
         }
     ]
 }
