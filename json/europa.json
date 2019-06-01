@@ -47,6 +47,24 @@
             "economy": "<p><strong>Gospodarka:</strong> Podstawą gospodarki Andory jest rolnictwo, handel i turystyka. Do najważniejszych upraw należą zboża, ziemniaki, tytoń i warzywa. Do celów rolniczych wykorzystuje się ok. 4% powierzchni. W Andorze znajdują się złoża żelaza, łupków, ołowiu, ałunu, granitu, marmuru, srebra i kamieni szlachetnych. Ważnym źródłem dochodów jest handel wolnocłowy. (W Andorze nie istnieją przepisy celne ani podatkowe) oraz turystyka. Handel zagraniczny ukierunkowany jest na Hiszpanię i Francję, a przedmiotem eksportu są przede wszystkim artykuły rolne.</p>",
             "map":""
         }
+    ],
+    "austria": [
+        {
+            "title":"<p><strong>AUSTRIA</strong></p>",
+            "subtitle":"<p><strong>Republika Austrii</strong></p><p>Republik &#214;sterreich</p>",
+            "position": "<p><strong>Położenie:</strong> Europa Środkowa, dorzecze górnego Dunaju i jego dopływy</p>",
+            "area": "<p><strong>Powierzchnia:</strong> 83 850 km<sup>2</sup></p>",
+            "adminDivision": "<p><strong>Podział administracyjny:</strong> 9 krajów związkowych</p>",
+            "capitol":"<p><strong>Stolica:</strong> Wiedeń (Wien, 1 700 000 mieszkańców)</p>",
+            "biggestCities": "<p><strong>Inne duże miasta:</strong> Graz (250 000 mieszk.), Linz (205 000 mieszk.), Salzburg (123 000 mieszk.)</p>",
+            "population": "<p><strong>Ludność:</strong> 7 500 000, niemal 97% populacji stanowią Austriacy</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Ok. 3/4 powierzchni pokrywają stoki Wschodnich Alp i inne łańcuchy górskie. Wschodnia część kraju jest nizinna. Klimat jest umiarkowany</p>",
+            "language":"<p><strong>Język urzędowy:</strong> niemiecki</p>",
+            "currency":"<p><strong>Waluta:</strong> Szyling austriacki = 100 groszy</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Republika Austrii powstała w listopadzie 1918 r. po klęsce monarchii austro - węgierskiej w I wojnie światowej i jej rozpadzie. W 1938 r. do Austrii wkroczyły wojska hitlerowskie (tzw. Anschluss). Hitler włączył ten kraj do &bdquo;Rzeszy wielkoniemieckiej&rdquo;. Decydującą rolę w wyzwoleniu Austrii spod jarzma faszyzmu odegrała Armia Radziecka, która w kwietniu 1945 r. wyzwoliła Wiedeń i większość terytorium austriackiego. W 1945 r. Austria została podzielona na cztery strefy okupacyjne - radziecką, amerykańską, brytyjską i francuską. W kraju powstał rząd tymczasowy. 15 maja 1955 r. przedstawiciele ZSRR, USA, Wielkiej Brytanii, Francji i Austrii podpisali w Wiedniu Traktat Państwowy o przywróceniu niezależnej i demokratycznej Austrii. 26 października 1955 r. parlament austriacki uchwalił ustawę o wieczystej neutralności.<p>Austria jest republiką związkową. Każdy z 9 krajów (jeden kraj stanowi stolica Wiedeń) ma własną konstytucję, sejm krajowy i rząd. Głową państwa austriackiego jest prezydent związkowy, sprawujący władzę wykonawczą wraz ze związkowym rządem z kanclerzem na czele. Najwyższym organem ustawodwaczym jest dwuizbowy parlament. Co cztery lata ludność wybiera 183 posłów do Rady Narodowej (izby niższej), a sejmy krajowe mianują 50 członków Rady Związków (izby wyższej parlamentu).</p></p>",
+            "economy": "<p><strong>Gospodarka:</strong> Kapitalistyczna Austria jest rozwiniętym krajem przemysłowo - rolniczym. Ma wiele bogactw naturalnych, zwłaszcza rudę żelaza, ropę naftową, gaz ziemny, węgiel brunatny, magnezyt, sól i niektóre metale niezależne. Do głównych gałęzi przemysłu należy hutnictwo żelaza, przemysł maszynowy, naftowy, wydobywczy, elektrotechniczny, elektroenergetyczny i chemiczny. Obok prywatnych monopoli określoną pozycję w produkcji przemysłowej zajmuje sektor państwowy, który kontroluje przede wszystkim przemysł ciężki. Większość ziemi uprawnej znajduje się w rękach obszarników. Produkcja rolna w zasadzie zaspokaja potrzeby wewnętrzne. Główną gałęzią jest produkcja zwierzęca, przede wszystkim wyrób mleka i serów. Uprawia się głównie ziemniak, buraki cukrowe, pszenicę i jęczmień.<p>Głównymi partnerami handlowymi Austrii są RFN, Szwajcaria, Włochy i Wielka Brytania.</p></p>",
+            "map":"<div id='map'><img src='maps/austria.jpg' alt='Austria map'></div>"
+        }
     ]
 
 }

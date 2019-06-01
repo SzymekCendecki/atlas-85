@@ -79,13 +79,13 @@ module.exports = __webpack_require__(1);
 
 document.addEventListener("DOMContentLoaded", function () {
     $.ajax({
-        url: 'https://szymekcendecki.github.io/atlas-86/json/europa.json',
+        url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
         type: 'GET',
         dataType: 'json'
     }).done(function (data) {
         console.log(data);
 
-        $("#mainContainer").append(data.albania[0].title, data.albania[0].subtitle, data.albania[0].position, data.albania[0].area, data.albania[0].adminDivision, data.europaDescription[0].biggestCities, data.europaDescription[0].population, data.europaDescription[0].naturalConditions, data.europaDescription[0].historyPoliticalOutline, data.europaDescription[0].Economy);
+        $("#mainContainer").append(data.austria[0].title, data.austria[0].subtitle, data.austria[0].position, data.austria[0].area, data.austria[0].adminDivision, data.austria[0].biggestCities, data.austria[0].population, data.austria[0].naturalConditions, data.austria[0].historyPoliticalOutline, data.austria[0].Economy, data.austria[0].map);
     }).fail(function () {
         console.log("coś nie bangla...");
     });

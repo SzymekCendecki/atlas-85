@@ -26,3 +26,16 @@ h1{
 footer{
   font-family: 'Coiny', cursive;
 }
+
+#map{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+
+}
+
+img{
+  max-width: 80%;
+  height: auto;
+}
