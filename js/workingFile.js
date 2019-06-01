@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }).done((data) => {  
         console.log(data);
 
-        $("#mainContainer").append(data.europaDescription[0].position, data.europaDescription[0].area, data.europaDescription[0].adminDivision, data.europaDescription[0].biggestCities, data.europaDescription[0].population, data.europaDescription[0].naturalConditions, data.europaDescription[0].historyPoliticalOutline, data.europaDescription[0].Economy)
+        $("#mainContainer").append(data.albania[0].title, data.albania[0].subtitle, data.albania[0].position, data.albania[0].area, data.albania[0].adminDivision, data.europaDescription[0].biggestCities, data.europaDescription[0].population, data.europaDescription[0].naturalConditions, data.europaDescription[0].historyPoliticalOutline, data.europaDescription[0].Economy)
     }).fail(()=>{ 
         console.log("coś nie bangla..."); 
     });  
