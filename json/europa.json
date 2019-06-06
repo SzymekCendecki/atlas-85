@@ -39,7 +39,7 @@
             "area": "<p><strong>Powierzchnia:</strong> 453 km<sup>2</sup></p>",
             "adminDivision": "<p><strong>Podział administracyjny:</strong> 6 parroquies (parafii)</p>",
             "capitol":"<p><strong>Stolica:</strong> Andorra la Vella (11 000 mieszkańców)</p>",
-            "biggestCities": "<p><strong>Największe miasta:</strong></p>",
+            "biggestCities": "<p><strong>Inne duże miasta:</strong></p>",
             "population": "<p><strong>Ludność:</strong> 29 000, w większości Katalończycy</p>",
             "naturalConditions":"<p><strong>Warunki naturalne:</strong> Klimat podobny jak w sąsiednich regionach Hiszpanii i Francji</p>",
             "language":"<p><strong>Język urzędowy:</strong> kataloński i francuski</p>",
@@ -76,7 +76,7 @@
             "area": "<p><strong>Powierzchnia:</strong> 30 513 km<sup>2</sup></p>",
             "adminDivision": "<p><strong>Podział administracyjny:</strong> 9 prowincji</p>",
             "capitol":"<p><strong>Stolica:</strong> Bruksela (Bruxells, 2 000 000 mieszkańców)</p>",
-            "biggestCities": "<p><strong>Największe miasta:</strong> Antwerpia (Antwerpen, 620 000 mieszk.) Li&#232;ge (496 000 mieszk.)</p>",
+            "biggestCities": "<p><strong>Inne duże miasta:</strong> Antwerpia (Antwerpen, 620 000 mieszk.) Li&#232;ge (496 000 mieszk.)</p>",
             "population": "<p><strong>Ludność:</strong> 9 900 000, z tego 46% stanowią francuskojęzyczni Walonowie mieszkający w południowej części kraju, a 54% germańscy Flamandowie żyjący w części pólnocnej</p>",
             "naturalConditions":"<p><strong>Warunki naturalne:</strong> Większość powierzchni nizinna, tylko na wschodzie i południu tereny górzyste. Klimat umiarkowany, morski</p>",
             "language":"<p><strong>Język urzędowy:</strong> francuski, flamandzki i niemiecki</p>",
@@ -95,7 +95,7 @@
             "area": "<p><strong>Powierzchnia:</strong> 480 km<sup>2</sup></p>",
             "adminDivision": "<p><strong>Podział administracyjny:</strong> 12 okręgów miejskich</p>",
             "capitol":"<p><strong>Stolica:</strong></p>",
-            "biggestCities": "<p><strong>Największe miasta:</strong></p>",
+            "biggestCities": "<p><strong>Inne duże miasta:</strong></p>",
             "population": "<p><strong>Ludność:</strong> 1 900 000 w większości Niemcy. W Berlinie Zachodnim przebywa wielu robotników zagranicznych, przeważnie z Turcji i zachodnioeuropejskiego Południa</p>",
             "naturalConditions":"<p><strong>Warunki naturalne:</strong> Leży na nizinie w widłach Sprewy i Haweli</p>",
             "language":"<p><strong>Język urzędowy:</strong> niemiecki</p>",
@@ -114,7 +114,7 @@
             "area": "<p><strong>Powierzchnia:</strong> 110 912 km<sup>2</sup></p>",
             "adminDivision": "<p><strong>Podział administracyjny:</strong> 28 okręgów</p>",
             "capitol":"<p><strong>Stolica:</strong> Sofia (Sofiaj, 1 000 000 mieszkańców)</p>",
-            "biggestCities": "<p><strong>Największe miasta:</strong> Płowdiw (305 000 mieszk.), Warna (270 000 mieszk.)</p>",
+            "biggestCities": "<p><strong>Inne duże miasta:</strong> Płowdiw (305 000 mieszk.), Warna (270 000 mieszk.)</p>",
             "population": "<p><strong>Ludność:</strong> 8 800 000, przeważnie Bułgarzy</p>",
             "naturalConditions":"<p><strong>Warunki naturalne:</strong> Klimat umiarkowany, kontynentalny, na wybrzeżu zbliżony do śródziemnomorskiego</p>",
             "language":"<p><strong>Język urzędowy:</strong> bułgarski</p>",
@@ -125,7 +125,7 @@
         }
     ],
 
-    "czechoslovakia ": [
+    "czechoslovakia": [
         {
             "title":"<p><strong>CZECHOSŁOWACJA</strong></p>",
             "subtitle":"<p><strong>Czechosłowacka Republika Socjalistyczna</strong></p><p>&#268;eskoslovenska Socialistick&#225; Republika</p>",
@@ -133,7 +133,7 @@
             "area": "<p><strong>Powierzchnia:</strong> 127 876 km<sup>2</sup></p>",
             "adminDivision": "<p><strong>Podział administracyjny:</strong> 2 republiki socjalistyczne, CRS (7 województw i stolica Praga na prawach województwa) i SRS (3 województwa i stolica SRS Bratysława na prawach województwa)</p>",
             "capitol":"<p><strong>Stolica:</strong> Praga (Praha, 1 180 000 mieszkańców)</p>",
-            "biggestCities": "<p><strong>Największe miasta:</strong> Brno (365 837 mieszk.), Bratysława (Bratislava, 365 461 mieszk.)</p>",
+            "biggestCities": "<p><strong>Inne duże miasta:</strong> Brno (365 837 mieszk.), Bratysława (Bratislava, 365 461 mieszk.)</p>",
             "population": "<p><strong>Ludność:</strong> 15 000 000, przeważnie Czesi i Słowacy, ponato ludność narodowości węgierskiej (4%), polskiej (0,5%), niemieckiej (0,5%), ukraińskiej (0,3%), rosyjskiej (0,1%) i innych narodowości</p>",
             "naturalConditions":"<p><strong>Warunki naturalne:</strong> Tereny przeważnie górzyste, większe niziny tylko w południowej Słowacji. Klimat umiarkowany</p>",
             "language":"<p><strong>Język urzędowy:</strong> czeski i słowacki</p>",
@@ -141,6 +141,25 @@
             "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Począrtki osadnictwa słowiańskiego na terenach dzisiejszej Czechosłowacji sięgają V - VI w.n.e. Pierwsza organizacja państwowa powstała na tych terenach w 623 r. Pierwszym wielkim i dobrze zorganizowanym państwem typu wczesnofeudalnego było jednak dopiero Państwo Wielkomorawskie w IX w. W X w. powstaje państwo Przemyślidów w Pradze, które największy rozkwit osiągnęło w okresie władzy Przemysława Otokara II w latach 1253-1278. W 1310 r. rozpoczyna się okres władzy Luksemburgów w Czechach. Dochodzi wówczas do kryzysu ustroju feudalnego, czego przejawem jest husycki ruch rewolucyjny (1419-1434), mający istotny wpływ na ogólny rozwój historii europejskiej. W 1526 r. ziemie czeskie znalazły się pod panowaniem Habsburgów. W latach 1618-1620 wybuchło powstanie wymierzone przeciwko ich absolutyzmowi. Po bitwie pod Białą Górą i wojnie trzydziestoletniej Habsburgowie wzmagają ucisk narodowo-społeczny w Czechach. Dla narodu czeskiego rozpoczął się trzystuletniej niewoli habsburgskiej. W czasie I wojny światowej rozwinął się ruch narodowowyzwoleńczy, na co wpływ miało zwycięśtwo Rewolucji Październikowej w Rosji (strajk styczniowy w 1918 r., strajk generalny 14 października 1918 r.). Po rozpadzie monarchii austro-węgierskiej 28 października 1918 r. zostało proklamowane samodzielne państwo czechosłowackie. Nie spełnily się jednak nadzieje mas ludowych, związane z jego powstaniem. Międzywojenna Republika Czechosłowacka była państwem burżuajyjnym, w którym całą władzę skupiła w swych rękach czeska burżuazja, dążąca do ścisłych związków z mocarstwami zachodnimi, zwłasszcza z Farncją i Wielką Brytanią. Po monachijskiej zdradzie mocarstw zachodnich jesienią 1938 r. Czechosłowacja utraciła tereny pograniczne na rzecz hitlerowskich Niemiec, co umożliwiło im zajęcie całego kraju w marcu 1939 r. W okresie okupacji hitlerowskiej w Czechosłowacji rozwinął się ruch oporu kierowny przez KPCz.</p><p>Po wyzwoleniu Czechosłowacji przez Armię Radziecką w maju 1945 r. została wprowadzona władza ludowo-demokratyczna. Czeska i słowacka burżuazja definitywnie utraciła swą silną pozycję w lutym 1948 r., gdy masy pracujące z Komunistyczną  Partą Czechosłowacji na czele udaremniły rakcyjną próbę restauracji kapitalizmu. W lipcu 1960 r. została uroczyście proklamowana Czechosłowacka Republika Socjalistyczna, będąca od 1 stycznia 1969 r. państwem federacyjnym dwóch republik socjalistycznych - Czeskiej Republiki Socjalistycznej i Słowackiej Republiki Socjalistycznej. Najwyższym organem ustawodawczym CSRS jest dwuizbowe Zgromadzenie Federalne, składające się z Izby Ludu i Izby Narodów. Zgromadzenie Federalne wybiera głowę państwa, prezydenta, który mianuje członków rządu CSRS - najwyższego organu wykonawczego. Najwyższym organem władzy państwowej w CRS jest Czeska Rada Narodowa, a w SRS - Słowacka Rada Narodowa. Czechosłowacka Republika Socjalistyczna jest niezawodnym ogniwem obronnej organizacji krajów socjalistycznych - Układu Warszawskiego, a także Rady Wzajemnej Pomocy Gospodarczej. Kierowniczą siła polityczną w CSRS jest Komunistyczna Partia Czechosłowacji.</p>",
             "economy": "<p><strong>Gospodarka:</strong> CSRS jest karjem socjalistycznym o wysoko rozwiniętym przemyśle i rolnictwie. Udział przemysłu (łącznie z budownictwem) w tworzeniu dochodu narodowego brutto wynosi 72,6% a rolnictwa i gospodarki leśnej - 11,7%. CSRS zajmuje jedno z czołowych miejsc na świecie w wydobyciu węgla brunatnego, w produkcji surówki, stali, energii elektrycznej, ziemniaków, tkanin bawełnianych i wełnianych. Z bogactw naturalnych Czechosłowacja ma przede wszystkim złoża węgla kamiennego i brunatnego, rudy żelaza i niektórych innych metali - manganu, ołowiu, cynku, miedzi, bizmutu, uranu i wolframu. Większość surowców na potrzeby gospodarki narodowej trzeba jednak importować. Do najbardziej rozwiniętych gałęzi należy przemysł maszynowy, a także chemiczny, przemysł materiałów budowlanych, drzewny i papierniczy, włókienniczy, garbarski i obuwniczy, przemysł spożywczy, szklarski, ceramiczny i in. Rolnicwto czechosłowackie specjalizuje się w produkcji zbóż, buraków cukrowych i ziemniaków. Na produkcję zwierzęcą przypada aż 55% wartości produkcji rolnej brutto. CSRS należy także do światowych producentów i eksporterów chmielu.</p><p>Czechosłowacja utrzymuje stosunki handlowe z ponad 70 krajami świata. Do jej najważniejszych partnerów handlowych należą Związek Radziecki, Niemiecka Republika Demokratyczna, Polska i inne kraje RWPG, a spośród krajów kapitalistycznych - RFN i Austria. Głównym towarem eksportowym są wyroby przemysłu maszynowego, a w imporcie czołowe miejsce zajmują surowce i paliwa.</p>",
             "map":"<div id='map'><img src='maps/czechoslovakia.jpg' alt='Czechoslovakia map'></div>"            
+        }
+    ],
+
+    "denmark": [
+        {
+            "title":"<p><strong>DANIA</strong></p>",
+            "subtitle":"<p><strong>Królestwo Danii</strong></p><p>Kongeriget Danmark</p>",
+            "position": "<p><strong>Położenie:</strong> Półwysep Jutlandzki i ok. 500 wysp w cieśninach między Morzem Północnym a Bałtyckim, z których największe to Sjaelland, Fyn, lolland i Bornholm</p>",
+            "area": "<p><strong>Powierzchnia:</strong> 43 044 km<sup>2</sup></p>",
+            "adminDivision": "<p><strong>Podział administracyjny:</strong> 14 okręgów administracyjnych</p>",
+            "capitol":"<p><strong>Stolica:</strong> Kopenhaga (K&#248;benhavn 1 200 000 mieszkańców)</p>",
+            "biggestCities": "<p><strong>Inne duże miasta:</strong> &#197;rhus (233 000 mieszk.), Odense (164 000 mieszk.)</p>",
+            "population": "<p><strong>Ludność:</strong> 5 100 000 przeważnie Duńczycy</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Tereny nizinne, klimat morski, umiarkowany</p>",
+            "language":"<p><strong>Język urzędowy:</strong> duński</p>",
+            "currency":"<p><strong>Waluta:</strong> Korona duńska = 100 &#246;re</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Państwo duńskie powstało w IX w. n.e. E rewolucyjnym okresie lat 1848 - 1849 została wydana pierwsza duńska konstytucja i kraj stał się monarchią konstytucyjną. W czasie I wojny światowej Dania pozostała neutralna, co miało znaczny wpływ na jej szybki rozwój gospodarczy. W czasi II wojny światowej kraj znalazł się od 1o kwietnia 1940 r. pod okupacją hitlerowską. Przeciwko okupantom i własnemu marionetkowemu rządowi powstał silny ruch oporu, w którym decydującą rolę odegrali komuniści duńscy. Kraj został wyzwolony z jarzma faszystowskiego 5 maja 1945r. Polityk powojennych rządów duńskich orientowała się wyłącznie na mocarstwa zachodnie. Od 1949 r. Dania jest członkiem paktu NATO.</p><p>Głową  państwa duńskiego jest król, który musi być członkiem Kościoła ewangelicko - luterańskiego. Władzę ustawodawczą sprawuje monarcha wraz z jednoizbowym parlamentem (Folketing). Posłowie wybierani są na cztery lata w systemie przedstawicielstwa proporcjalnego.</p>",
+            "economy": "<p><strong>Gospodarka:</strong> Dania jest wysoko rozwiniętym kapitalistycznym krajem przemysłowo - rolniczym. Brak większych bogactw naturalnych, znajdują się tam tylko niewielkie złoża węgla brunatnego, kaolinu i kamienia budowlanego. Większość surowców trzeba importować.</p><p>Najlepiej rozwinięty jest przemysl maszynowy, produkcja statków i innych środków transportu, przemysł spożywczy, farmaceutyczny i chemiczny. Istotną rolę w duńskiej gospodarce narodowej odgrywają monopole zagraniczne, zwłaszcza koncerny amerykańskie, które w ostatnim dziesięcioleciu objęły kontrolą szereg gałęzi przemysłu, takich jak elektronika, chemia, przemysł farmaceutyczny czy spożywczy. Tradycyjną gałęzią gospodarki duńskiej jest rolnicwto. Grunty orne zajmują 63,8% powierzchni kraju. Uprawia się głównie pasze zielone (jęczmień paszowy). Udział produkcji zwierzęcej w całej produkcji rolnej wynosi 89%. Słonina, masło, ser i jaja stanowią mniej więcej połowę całego eksportu.</p><p>Głównymi partnerami handlowymi Danii sa państwa EWG.</p>",
+            "map":"<div id='map'><img src='maps/denmark.jpg' alt='Denmark map'></div>"     
         }
     ]
 }
