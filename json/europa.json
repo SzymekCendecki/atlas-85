@@ -199,6 +199,44 @@
             "economy": "<p><strong>Gospodarka:</strong> Frnacja jest kapitalistycznym krajem przemysłowym o rozwiniętym rolnictwie. Jest jednym z głównych członkó Europejskiej Wspólnoty Gospodarczej, pod względem produkcji przemysłowej zajmuje 5 miejsce w świecei kapitalistycznym po USA, Japonii, RFN i Wielkiej Brytanii. Kluczowe pozycje w gospodarce pozostają w rękach kapitału prywatnego skupionego w kilku potężnych grupach finansowo - przymysłowych. Francja ma wiele bogactw naturalnych. Wydobywa się tu rudę żelaza, węgiel kamienny, boksyty, gaz ziemny, rudę uranową, sole potasowe i inne surowce. Do głónych gałęzi przemysłu należy hutnictwo, wydobycie rud, przemysł amszynowy, motoryzacyjny, elektrotechniczny, chemiczny, włokienniczy i stoczniowy. Pod względem wielkości produkcji rolniczej Francja zajmuje pierwsze miejsce w kapitalistycznej Europie i trzecie miejsce w kapitalistycznej części świata. Rolnictwo opiera się przede wszystkim na produkcji zwierzęcej ,uprawie zbóż, roślin okopowych, owowców, warzyw i winorośli. Istotną rolę odgrywa także rybołóstwo.</p><p>Do głównych partnerów handlowych Farncji mależą kraje EWG, rozszerzają się także na kontakty z krajami współnoty socjalistycznej.</p>",
             "map":"<div id='map'><img src='maps/france.jpg' alt='France map'></div>" 
         }
+    ],
+
+    "gibraltar": [
+        {
+            "title":"<p><strong>GIBRALTAR</strong></p>",
+            "subtitle":"<p><strong></strong>Gibraltar</p><p>Gibraltar</p><p>(dominium brytyjskie na pograniczu Europy)</p>",
+            "position": "<p><strong>Położenie:</strong> Najbardziej na południe wysunięta część Półwyspu Pirenejskiego</p>",
+            "area": "<p><strong>Powierzchnia:</strong> 6 km<sup>2</sup></p>",
+            "adminDivision": "<p><strong>Podział administracyjny:</strong> jedna jednsostka administracyjna</p>",
+            "capitol":"<p><strong>Stolica:</strong></p>",
+            "biggestCities": "<p><strong>Inne duże miasta:</strong></p>",
+            "population": "<p><strong>Ludność:</strong> 28 000, absolutną większość stanowią Włosi, Hiszpanie i Portugalczycy.</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Gibraltar jest półwyspem na skale wapiennej o wysokości 425 m., liczącej 4,8 km długości i 1,2 km szerokości. Klimat śródziemnomorski</p>",
+            "language":"<p><strong>Język urzędowy:</strong> angielski (ludność przeważnie mówi po hiszpańsku)</p>",
+            "currency":"<p><strong>Waluta:</strong> Funt gibraltarski = 100 pensów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> W czasie wojny o tzw. sukcesję hiszpańską Gibraltar został w 1704 r. zdobyty przez flotę brytyjsko - niderlandzką. W 1713 r. na mocy pokoju w Utrechcie został przyłączony do Wielkiej Brytanii jako dominium. W 1969 r. uzyskał ograniczoną samorządność. Na czele administracji miejscowej stoi gubernator, mianowany przez królową brytyjską, którego organem jest doradczym jest Rada Gibraltarska (parlament). Władzę wykonawczą sprawuje rada ministrów.</p><p>Hiszpania już od XVIII w. kwestionuje brytyjskie prawa do Gibraltaru, dotychczas jednak wszystkie rozmowy na ten temat między madrytem a Londynem nie przyniosły żadnych rezultatów.</p><p>Gibraltar jest ważną brytyjską  bazą wojskową i morską, a w ostatnich latach sł€ży również jako punkt oparcia dla NATO</p>",
+            "economy": "<p><strong>Gospodarka:</strong>Ze względu na swe wyjątkowe położenie geograficzne Gibraltar stał się ruchliwym portem, do którego zawija co roku ponad 4 tys. statków handlowych i pasażerskich. Obsługa statków i dochody z handlu tranzytowego stanowią podstawę gospodarki Gibraltaru. Niemałą rolę odgrywają także dochody z turystyki. Działa tam kilka niewielkich przedsiębiorstw przetwarzających tytoń, kawę, ryby, produkujących napoje itp. Rolnictwo nie istnieje.</p>",
+            "map":""
+        }
+    ],
+
+    "greece": [
+        {
+            "title":"<p><strong></strong>GRECJA</p>",
+            "subtitle":"<p><strong></strong>Republika Grecka</p><p>Eliniki Demokratia</p>",
+            "position": "<p><strong>Położenie:</strong> Południowa część Półyspu Bałkańskiego, oraz ok. 100 wysp na Morzu Jońskim, Egejskim i Śródziemnym</p>",
+            "area": "<p><strong>Powierzchnia:</strong> 131 944 km<sup>2</sup></p>",
+            "adminDivision": "<p><strong>Podział administracyjny:</strong> 9 prowincji</p>",
+            "capitol":"<p><strong>Stolica:</strong> Ateny (Athenai, 2 100 000 mieszkańców)</p>",
+            "biggestCities": "<p><strong>Inne duże miasta:</strong> Saloniki (Thessalonik&#233;, 557 000 mieszk.), Pireus (440 000 mieszk.)</p>",
+            "population": "<p><strong>Ludność:</strong> 9 200 000, 90% populacji stanowią Grecy, następnie Macedończycy, Turcy i Albańczycy</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Grecja jest krajem przeważnie górzystym z nielicznymi nizinami: klimat śródziemnomorski</p>",
+            "language":"<p><strong>Język urzędowy:</strong> nowogrecki</p>",
+            "currency":"<p><strong>Waluta:</strong> Drachma = 100 leptów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Starożytna Grecja, jedno z najstarszych państw w wysokiej kulturze, przez długie wieki wywierała wpływ na całą Europę. Historia Grecji nowożytnej zaczyna się w 1827 r., gdy po długiej niewoli osmańskiej została uchwalona konstytucja republikańska. Mocarstwa potwierdził niepodległość tego kraju dopiero w 1830 r. W ciągu XIX w. Grecja ze względu na swe dogodne położenie strategiczne znajdowała się w centrum uwagi Wielkiej Brytanii, Francji, Rosji carskiej, Włoch, Turcji, Niemiec i Austro - Węgier, które interseowały cieśniny czarnomorskie i Morze Śródziemne. W okresie I wojny światowej w kraju wytworzyła się paradoksalna sytuacja - król grecki stanął po stronie Niemiec, zaś burżuazja krajowa popierała aliantóe. W 1917 r. Grecja włączyła sie dow wojny po stronie aliantów i w ich interesie wypowiedziała wojnę z Turcją Kemala Paszy. Mimo sprzeciwu mas ludowych wzięła też udział w interwencji przeciwko młodemu państwu radzieckiemu. W okresie międzywojennym ścierają się interesy francuskie i niemieckie, wskutek czego  w 1935 r. dochodzi do puczu monarchistyczno - faszystowskiego, w rezultacie którego Grecja nawiązał ścisłe stosunki z Niemcami hitlerowskimi. W czasie II wojny światowej Grecja ogłosiła neutralność, Mimo to w 1940 r. na jej terytoriumwtargnęły wojska włoskie, a w kwietniu nastęnego roku znalazła się pod okupacją hitlerowską. W latach 1940 - 1944 rozwinął się w Grecji ruch oporu pod kierownictwem komunistów i patriotów greckich, który wyzwolił kraj praktycznie jeszcze przed wkroczeniem wojsk sojuszniczych. Po wyzwoleniu reakcja grecka przy poparciu imperializmu brytyjskiego wszczęła okrutne prześladowania wszystkich sił postępowych i demokratycznych, co wywołało wojnę domową trwającą do 1949 r. W tym czasie król grecki i koła reakcyjne nawiązały ścisłą współpracę z krajami kapitalistycznymi, zwłaszcza z USA, które zaczęły tworzyć w Grecji swe bazy wojskowe. W 1952 r. Grecja przystąpiła do agresywnego paktu wojskowego NATO. W latach 1967 - 1974 władzę sprawowała faszystowska junta wojsokowa, ltóra pod naciskiem mas ludowych i w związku z wydarzniami na Cyprze była zmuszona przekazać władzę rządowi cywilnemu w lipcu 1974 r. W myśl konstytucji z 11 czerwca 1975 r. głową Reubliki Greckiej jest prezydent z szerokimi uprawnieniami, wybierany przez parlament. Organizmem ustawodawczym jest jednoizbowe Zgromadzenie Narodowe, władzę wykonawczą sprawuje rząd.</p>",
+            "economy": "<p><strong>Gospodarka:</strong> Grecję można scharakteryzować jako kraj głównie rolniczy o stosunkowo rozwiniętym przemyśle, znajdującym się jednak pod wpływem kapitału obcego. Spółki zagraniczne korzystają również z greckich bogactw naturalnych. Są to złoża azbestu, niklu, boksytów, magnezytuy oraz rudy ołowiu, cynku, żelaza i chromu.</p><p>20% ludności w wieku produkcyjnym pracuje w tradycyjnych gałęziach przemysłu, w przemyśle włókienniczym, spożywczym, chemicznym, i górniczym, Rolnicwto zatrudnia 50% ludności zdolnej do pracy dostarczając jedynie 25% produktu narodowego brutto. Do głównych upraw należy pszenica, jęczmień, kukurydza, bawełna, tytoń, oliwki, owoce cytrusowe i winorośl. Ważną rolę w gospodarce greckiej pełni morska flota handlowa - ponad 3000 statków o tonażu ok 23 mln BRT pływających pod tzw. tanimi banderami, czyli flagami państw o dogodnym systemie podatkowym.</p><p>Do głównych partnerów handlowych Grecjii należą RFN, Włochy, USA, Francja i Holandia.</p>",
+            "map":"<div id='map'><img src='maps/greece.jpg' alt='Greece map'></div>" 
+        }
     ]
 
 }
