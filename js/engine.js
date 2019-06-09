@@ -88,7 +88,7 @@ document.addEventListener("DOMContentLoaded", function () {
         type: 'GET',
         dataType: 'json'
     }).done(function (data) {
-        showCountry(data.austria[0]);
+        showCountry(data.ireland[0]);
     }).fail(function () {
         console.log("coś nie bangla...");
     });

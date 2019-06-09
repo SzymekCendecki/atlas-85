@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
         type: 'GET',
         dataType: 'json'
     }).done((data) => {  
-         showCountry(data.austria[0]);
+         showCountry(data.ireland[0]);
     }).fail(()=>{ 
         console.log("coś nie bangla..."); 
     });  

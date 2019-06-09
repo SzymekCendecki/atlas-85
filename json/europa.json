@@ -294,6 +294,25 @@
             "economy":"<p><strong>Gospodarka:</strong> Irlandia jest krajem przemysłowo - rolniczym. Do najważniejszych gałęzi należu przemsył spożywczy, włókienniczy i skórzany. W Irlandii znajduję się bogate złoża węgla kamiennego, żelaa, rudy manganu, miedzi i ołowiu, ale przemysł wydobywczy nie jest rozwinięty. Irlandia zajmuje drugie miejsce na świecie pod względem zasobów torfu. Główną gałęzią rolnictwa jest produkcja zwierzęca, ponadto uprawia się pszenicę, jęczmień i owies, a także buraki i ziemniaki. Rolnictwo wytwarza ok. 20% produktu narodowego, a jego udział w eksporcie wynosi 60%. Od 1 stycznia 1973 r. Irlandia jest członkiem Europejskiej Wspólnoty Gospodarczej.</p><p>W dziedzinie handlu zagranicznego Irlandia uzależniona jest całkowicie od Wielkiej Brytanii.</p>",
             "map":"<div id='map'><img src='maps/ireland.jpg' alt='Ireland map'></div>" 
         }
+    ],
+
+    "iceland": [
+        {
+            "title":"<p><strong>ISLANDIA</strong></p>",
+            "subtitle":"<p><strong>Republika Islandii</strong></p><p>L&#253;dheldidh &#205;sland</p>",
+            "position":"<p><strong>Położenie:</strong> Wyspa Islandia w płn. części Oceanu Atlantyckiego</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 103 000 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 23 okręgi i 14 samorządowych gmin</p>",
+            "capitol":"<p><strong>Stolica:</strong> Reykjavik (97 000 mieszk.)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Akureyri (12 000 mieszk.)</p>",
+            "population": "<p><strong>Ludność:</strong> 220 000, przeważnie Islandczycy, ponadto Norwegowie i Duńczycy</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Większość powierzchni zajmuje równina, na której wznoszą się poszczególne łańcuchy górskie. Na wyspie jest 140 wulkanów, w tym ok. 30 czynnych. Ok. 14% powierzchni pokrywają lodowce. Klimat pozostaje pod wpływem Prądu Zatokowego</p>",
+            "language":"<p><strong>Język urzędowy:</strong> islandzki</p>",
+            "currency":"<p><strong>Waluta:</strong> Korona islandzka = 100 auranów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Pod koniec IX w. na wyspie zaczęli osiedlać się norwescy Wikingowie. W XIII w. admonistracyjnie podlegała Norwegii i wraz z nią w 1380 r. została podbita przez Danię.</p><p>W minionych wiekach na Islandii zaczął się stopniowo ksztaltować ruch narodowowyzwoleńczy, w wyniku czego w - 1918 r. Kopenhaga zmuszona była przyznać niepodległość Islandii w ramach unii personalnej z Danią. W czasie II wojny światowej po zajęciu Danii przez wojska hitlerowski (w 1940 r.) na Islandii wylądowały wojska brytyjski, zastąpione przez w 1941 r. przez jednostki amerykańskie. 17 czerwca 1944 r. została proklamowana niepodległa republika, która jednak w znaczym stopniu uzależniła się od USA. W 1946 r. ESA uzyskały prawo do zbudowania bazy lotniczej w Keflavik. Dziś jest to formalnie wojskowa baza paktu NATO, którego członkiem Islandia stała się w 1949 r.</p><p>Głową państwa jest prezydent, władzę ustawodawczą sprawuje Althing (parlament), a wykonawczą - rząd.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Islandia jest krajem przemysłowo - rolniczy. Posiada stosunkowo mało bogactw naturalnych, znajdują się tu jednak największe na świecie zasoby diatomitu (krzemionkowy materiał absorbcyjny i termoizolacyjny). Główną gałęzią gospodarki jest rybołóstwo i przetwórstwo rybne. W stosunku do liczby ludności Islandia zajmuje pierwsze miejsce na świecie w rybołóstwie (600 ton na 1 mieszkańca rocznie), a przetwory rybne stanowią ok. 95% całego eksportu, stąd też wykorzystywanie islandzkich przybrzeżnych stref połowowych przez zachodnie floty rybackie zagrażało istnieniu kraju i doprowadziło do konfliktu między Islandią a kapitalistycznymi krajami Europy Zachodniej, zwanego wojną dorszową. Oprócz zakładów przetwórstwa rybnego na Islandii znajdują się małe stocznie, zakłady przemysłu chemicznego, maszynowego i zpożywczego oraz huta aluminium. Rolnictwo nastawione jest na szklarniową uprawę warzyw i produkcję zwierzęcą. Głównymi partnerami handlowymi Islandii są Wielka Brytania, USA i RFN, skąd ten wyspiarski kraj importuje paliwa , żywność, urządzenia przemysłowe, wyroby tekstylne i inne.</p>",
+            "map":"<div id='map'><img src='maps/iceland.jpg' alt='Iceland map'></div>" 
+        }
     ]
 
 }
