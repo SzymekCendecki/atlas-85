@@ -370,7 +370,62 @@
             "economy":"<p><strong>Gospodarka:</strong> Luksemburg jest wyokouprzemysłowionym krajem o rozwiniętym systemie monopolu państwowego. Charakterystyczna jest koncentracja produkcji i kapitału w rękach monopoli ponadnarodowych i ściśle powiązana z koncernami belgijskimi, francuskimi i północno - amerykańskimi. Jednym bogactwem naturalnym są duże złoża rudy żelaza. Podstawę gospodarki narodowej stanowi nowoczesne wielkie hutnictwo żelaza i stali. (Pod względem produkcji żelaza i stali na głowę ludności kraj zajmuje pierwsze miejsce na świecie.) Produkcję stali w 90% kontroluje wielonarodowy koncern ARBED. Rozwinięty jest także przemysł chemiczny (kapitał amerykański) i maszynowy.</p><p>Rolnictwo ma znaczenie drugorzędne. Nastawione jest przede wszystkim na produkcję zwierzęcą, uprawę warzyw i winorośli. 2/3 luksembrurskiego eksportu stanowi stal; importuje się zboże, żywność, paliwa, maszyny itp. Do najważniejszych partnerów handlowych Luksemburga zaliczają się kraje EWG zwłaszcza RFN, Francja i Belgia.</p>",
             "map":"<div id='map'><img src='maps/luksemburg.jpg' alt='Luksemburg map'></div>" 
         }
+    ],
+
+    "malta": [
+        {
+            "title":"<p><strong>MALTA</strong></p>",
+            "subtitle":"<p><strong></strong>Republika Maltańska</p>?<p>Repubblika ta&#700; Malta</p><p>Republic of Malta</p>",
+            "position":"<p><strong>Położenie:</strong> Grupa wysp w środkowej części Morza Śródziemnego, z których największa jest wyspa Malta</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 316 km<sup>2</sup> (Malta - 246 km<sup>2</sup>)</p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 6 okręgów</p>",
+            "capitol":"<p><strong>Stolica:</strong> La Valletta (192 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Sliema (21 000 mieszk.), Birkirkara (17 000 mieszk.)</p>",
+            "population":"<p><strong>Ludność:</strong> 330 000,w większości Maltańczycy (mieszańcy Włochów, Arabów i innych narodów śródziemnomorskich)</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Powierzchnię Malty stanowi płaskowyż wapienny o wysokości sięgającej 245 m. Pozostałe wyspy są również skaliste, pochodzenia wapiennego. Klimat śródziemnomorski.</p>",
+            "language":"<p><strong>Język urzędowy:</strong> maltański i angielski</p>",
+            "currency":"<p><strong>Waluta:</strong> Funt maltański = 100 centów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Ze względu na swe dogodne położenie strategiczne na Morzu Śródziemnym Malta już w starożytności stanowiła przedmiot zainteresowań wielkich mocarstw. Należała kolejno do Fenicji, Grecji, Kartaginy i Rzymu, w 454 r. n. e. podbili ją Wandalowie, w 494 r. - Ostrogoci, a w 533 r. - Bizantyjczycy. Od XII w. należała do Królestwa Obojga Sycylii. W 1530 r. Karol V oddał ją w lenno zakonowi joannitów (rycerze maltańscy). Na początku XIX w. stala się kolonią brytyjską. W czasie II wojny światowej Malta była ważna bazą wojskową koalicji antyhitlerowskiej. W okresie powojennym stała się bazą morską i lotniczą Paktu Północnoatlantyckiego. Jednocześnie jednak przybierały na sile niepodległościowe dążenia mniejscowej ludności, ukoronowane w 1964 r. proklamowaniem niezawisłści państwa maltańskiego.</p><p>W 1974 r. Malta została ogłoszona republiką. Głową państwa jest prezydent, a najwyższym organem ustawodawczym - sześćdziesięcioosobowa Izba Reprezentantów; władzę wykonawczą sprawuje rząd.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Dominującą pozycję zajmuje kapitał zagraniczny, głównie brytyjski. Najbardziej rozwiniętą gałęzią miejscowego przemysłu jest przemysł stoczniowy, stosunkowo dobrze rozwinięta jest także produkcja artykułów konsupcyjnych. Rolnictwo nastawione jest na uprawę przenicy, ziemniaków, winorośli i owoców południowych. Najważniejszymi partnerami handlowymi Malty są Wielka Brytania i częściowo RFN.</p>",
+            "map":"<div id='map'><img src='maps/malta.jpg' alt='Malta map'></div>" 
+        }
+    ],
+
+    "monaco": [
+        {
+            "title":"<p><strong>MONAKO</strong></p>",
+            "subtitle":"<p><strong>Księstwo Monako</strong></p><p>Principaut&#233; de Monaco</p>",
+            "position":"<p><strong>Położenie:</strong> Wybrzeże Morza Śródziemnego</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 1,49 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> jedna jednostka administracyjna</p>",
+            "capitol":"<p><strong>Stolica:</strong> Monako (Monaco, 26 000 mieszkańców, stanowiąca całość z miastami Monte Carlo i La Condamine)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+            "population":"<p><strong>Ludność:</strong> 26 000 mieszkańców, w większości pochodzenia francuskiego i włoskiego</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Obejmuje skalistyy cypel o wysokości 65 m i wybrzeże morskie pod nim. Klimat śródziemnomorski</p>",
+            "language":"<p><strong>Język urzędowy:</strong> francuski</p>",
+            "currency":"<p><strong>Waluta:</strong> Frank francuski - 180 centymów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> W starożytności na obszarze obecnego księstwa istniała osada fenicka, w której w VII - Vi w. p. n. e. osiedlili się Grecy. Od X w. własność genueńskiego rodu Grimaldich. W 1927 r. zostało utworzone księstwo. W 1918 r. r. Moanko zawarło umowę z Francją o opiece, na podstawie której Paryż przejął również reprezentację zagraniczną Księstwa Monako. W myśl konstytucji z 1962 r. jest to monarchia konstytucyjna, głową państwa jest panujący książe, władzę ustawodawczą sprawuje osiemnastoosobowa Rada Narodowa, a władzę wykonawczą - rząd.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Podstawą gospodarki jest turystyka przyjazdowa i dochody z gier hazardowych (kasyna w Monte Carlo). W kraju działa tylki kilka małych zakładów produkujacych perfumy, wyroby włókiennicze i artykuły spożywcze, a także montujących sprżet elektryczny. Handel zagraniczny nastawiony jest na Francję, z którą Monako powiązane jest także unią celną i walutową.</p>",
+            "map":""
+        }
+    ],
+
+    "nrd": [
+        {
+            "title":"<p><strong>NIEMIECKA REPUBLIKA DEMOKRATYCZNA</strong></p>",
+            "subtitle":"<p><strong></strong>Niemiecka Republika Demokratyczna</p><p>Deutche Demokratische Republik</p>",
+            "position":"<p><strong>Położenie:</strong> Europa środkowa, na północy graniczy z Morzem Bałtyckim</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 108 178 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 14 okręgów i stolica jako miasto wydzielone</p>",
+            "capitol":"<p><strong>Stolica:</strong> Berlin (1 200 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Lipsk (Leipzig, 580 000 mieszk.), Drezno (Dresden, 513 000 mieszk.)</p>",
+            "population":"<p><strong>Ludność:</strong> 16 900 000, w większości Niemcy</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Powierzchnia przeważnie nizinna, tylko na południu i południowym zachodzie tereny górzyste. Klimat umiarkowany</p>",
+            "language":"<p><strong>Język urzędowy:</strong> niemiecki</p>",
+            "currency":"<p><strong>Waluta:</strong> Marka = 100 fenigów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Powstanie i rozwój Niemieckiej Republiki Demokratycznej nierozerwalnie zwązane są ze współnotą krajów socjalistycznych. Z chwilą powstania Niemieckiej Republiki Demokratycznej 7 października 1949 r. jej naród wybrał drogę u boku Związku Radzieckiego i innych państw wspólnoty socjalistycznej. Ta historyczna decyzja odpowiadała przemianom, które nastąpiły w wyniku zwycięstwa Armii Radzieckiej i jej sojuszników nad faszyzmem w maju 1945 r.</p><p>Klęska zadana przez Arimę Radziecką hitlerowskiemu faszyzmowi umożliwiła narodowi niemieckiemu rozpoczęcie nowego życia. Na obszarze dzisiejszej NRD miał miejsce głęboki proces odnowy antyfaszystowskiej i demokratycznej, w którym zostały konsekwentnie wyrwane polityczne, gospodarcze i ideowe korzenie faszyzmu, militaryzmu i antykomunizmu. Decydującą rolę w procesie wkraczania na drogę podstawowych przemian społecznych odegrała jedność klasy robotniczej. W kwietniu 1946 r. partie komunistyczna i socjal - demokratyczna połąćzyły się tworząc marksistowsko - leninowską Niemiecką Socjalistyczną Partę Jedności (NSPJ, niem. SED.) Pod jej kierownictwem położono podwaliny Niemieckiej Republiki Demokratycznej i zapoczątkowano budowę socjalizmu w tym kraju. Niemiecka Republika Demokratyczna jest mocnym ogniwem wspólnoty krajów socjalistycznych. Jest członkiem Układu Warszawskiego i Rady Wzajemnej Pomocy Gospodarczej. Dzięki swej konstruktywnej okojowej polityce zyskała międzynarodowy prestiż i autorytet. Od 1973 r. jest równoprawnym członkiem ONZ, działając w szeregu jej wyspecjalizowanych agend. Najwyższym organem władzy państwowej jest Izba Ludowa wybierana na 4 lata, która z kolei wybuera Radę Państwa i zatweirdza rząd, będący najwyższym organem władzy wykonawczej. Kierowniczą siłą polityczną w Niemieckiej republice Demokratycznej jest Niemiecka Socjalistyczna Partia Jedności.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Niemiecka Republika DDemokratyczna jest krajem o wysoko rozwiniętej gospodarce. Pod względem wielkości produkcji przemysłwoej należy do 10 najbardziej rozwiniętych krajów świata. NRD ma stosunkowo niewiele bogactw naturalnych i większość surowców niezbędnych dla gospodarki narodowej musi importować. Najważniejszym bogactwem naturalnym sa rozległe złoża węgla brunatnego, w którego wydobyciu zajmuje pierwsze miejsce na świecie (253,7 mln ton w 1977 r.). Ma również zasoby soli potasowych, a w produkcji czystego potasu zajmuje czwarte miejsce na świecie.</p><p>Najważniejszą gałęzią przemysłu NRD jest przemysł maszynowy; ważne miejsce w gospodarce narodowej zajmuje także przemysł chemiczny, mechanika precyzyjna, optyka, następnie dynamicznie rozwijająca się petrochemia, energetyka, hutnictwo, elektrotechnika, elektronika, przemysł stoczniowy, jak również przemysł spożywczy i produkcja artykułów konsumpcyjnych. Rolnictwo osiągnęło wysoki poziom rozwoju. Uprawia się pszenicę i inne zboża, ziemniak, buraki cukrowe i niektóre rośliny przemysłowe, jak np. len. Wysoko rozwinięta jest także produkcja zwierzęca. Głównym partnerem handlu zagranicznego NRD jest Związek Radziecki, równocześnie jednak nieustannie rozwijają się i pogłębiają kontakty handlowe i gospodarcze z pozostałymi krajami członkowskimi RWPG.</p>",
+            "map":"<div id='map'><img src='maps/nrd.jpg' alt='German Democratic Republic map'></div>" 
+        }
     ]
-
-
 }
