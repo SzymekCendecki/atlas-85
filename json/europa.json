@@ -484,5 +484,62 @@
             "economy":"<p><strong>Gospodarka:</strong> Pod względem gospodarczym Portugalia jest jednym z najbardziej zacofanych krajów kapitalistycznych. Ma wprawdzie wielkie bogactwa naturalne, ale przemysł jest słabo rozwinięty, a główne znaczenie w gospodarce ma produkcja rolna.</p><p>W Portugalii wydobywa się przede wszystkim wolfram, piryt, cynę, miedź, ołów, marmur i kaolin. Zasoby węgla i rud żelaza są niewielkie. Do głównych gałęzi przemysłu zalicza się wydobycie rudy, przemysł włokienniczy, spożywczy i drzewny. Rozwija się przemysł maszynowy, elektrotechinczny i stoczniowy. W rolnictwie przeważaprodukcja roślinna. W Portugalii doskonale rozwinęło się winiarstwo, ale bardzo niska jest produkcja podstawowych płodów rolnych, takich jak kukurydza, pszenica, żyto czy ziemniaki oraz produkcja mięsa i cukru. Duże znaczenie ma rybołówstwo i produkcja konserw. W produkcji korku Portugalia zajmuje pierwsze miejsce na świecie.</p><p>Do jej najważniejszych parnerów w handlu zagranicznym należą Wielka Brytania, RFN, USA, Francja i Włochy.</p>",
             "map":"<div id='map'><img src='maps/portugal.jpg' alt='Portugal map'></div>" 
         }
+    ],
+
+    "rfn": [
+        {
+            "title":"<p><strong>REPUBLIKA FEDERALNA NIEMIEC</strong></p>",
+            "subtitle":"<p><strong>Republika Federalna Niemiec</strong></p><p>Bundesrepublik Deutschland</p>",
+            "position":"<p><strong>Położenie:</strong> Europa zachodnia</p>",
+            "area":"<p><strong>Powierzchnia:</strong>248 097 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 10 krajów związkowych</p>",
+            "capitol":"<p><strong>Stolica:</strong> Bonn (284 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Hamburg (1 800 000 mieszk.), Monachium (M&#252;nchen, 1 300 000 mieszk.)</p>",
+            "population":"<p><strong>Ludność:</strong> 60 000 000, ok. 99% populacji stanowią Niemcy z RFN, mieszkają tam także niewielkie mniejszości Duńczyków i Holendrów</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Na północy kraju rozciąga się Nizina Północnoniemiecka, przechodząca w niskie tereny górzyste, na samym południu - Alpy Bawarskie. Klimat umiarkwoany, na wybrzeżu - morski</p>",
+            "language":"<p><strong>Język urzędowy:</strong> niemiecki</p>",
+            "currency":"<p><strong>Waluta:</strong> Marka = 100 fenigów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Republika federalna Niemiec powstała 7 września 1949 r. na obszarze amerykańskiej, brytyjskiej i francuskiej strefy okupacyjnej Niemiec wbrew uchwałom Konferencji Poczdamskiej zwycięskich mocarstw koalicji antyhitlerowskiej z 1945 r. Jej utworzenie było jednym z przejawów &bdquo;zimnej wojny&rdquo;, dlatego też państwo to od pierwszych chwil swego istnienia aktywnie włączało się do wszystkich akcji sił międzynarodowego imperializmu wymierzonych przeciwko krajom współnoty socjalistycznej. Pewna zmiana nastąpiła po wyborach do parlamentu federalnego 29 września 1969 r., gdy większość mandatów uzyskały partie SPD i FDP. Utworzyły wówczas rząd z kanclerzem Willy Brandtem na czele bardziej realistycznie podchodził do spraw międzynarodowych niż gabinety poprzednie, w których 20 lat kluczowe stanowiska zajmowali przedstawiciele prawicowejj koalicji CDU/CSU. W polityce zagranicznej rząd Brandta dążył do m. in. do poprawy stosunków RFN z krajami socjalistycznymi. Wyrazem tego są układy, które RFN podpisała w latach 1970 - 1973 ze Związkiem Radzieckim, POlską, NRD i CSRS.</p><p>RFN jest państwem fedracyjnym składającym się z dziesięciu krajów związkowych, z których każdy ma własną konstytucję, parlament (Landtag) i rząd. Najważniejszym organem ustawodawczym Republiki Federalnej Niemiec jest dwuizbowy parlament złożony z Bundestagu (izba niższa) i Bundesratu (izby wyższej). Bundestag wybierany jest na cztery lata; Bundesrat składa sie z przedstawicieli rządów krajów związkowych, które delegują na cztery lata 3 - 5 swych przedstawicieli zależnie od liczby ludności. Władzę wykonawczą sprawuje rząd z kanclerzem na czele. Głową państwa jest prezydent.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> RFN zajmuje czołówą pozycję w gospodarce burżuazyjnej Europy Zachodniej. Pod Względem wielkości produkcji przemysłowej zajmuje trzecie miejsce w świecie kapitalistycznym po USA i Japonii. Do najbardziej rozwiniętych gałęzi należy hutnictwo, przemysł maszynowy, chemiczny, energetyka, górnictwo węglowe, produkcja samochodów, przemysł stoczniowy, włókienniczy i spożywczy, elektrotechnika, mechanika precyzyjna i optyka. Czołową pozycję w gospodarce państwa bońskiego zajmują wielkie koncerny i banki. Większośc kapitału finansowego skupiona jest w trzech bankach Dresden Bank, Komerzbank i Deutsche Bank. Produkcję przemysłową niemal w całości opanowały koncerny Thyssena, Siemensa, Flicka, Kruppa, a także AEG - Telefunken, Mannesmann, Rheinmetall, Bosh i Daimler - Benz. Rozwinięte jest także rolnictwo, zaspokające ok. 75% krajowego zapotrzebowania na żywność. Główną gałęzią rolnictwa jest produkcja roślinna: uprawia się przede wszystkim pszenicę, żyto, ziemniaki i buraki cukrowe.</p><p>Pod względem wysokości obrotów handlu zagranicznego RFN zajmuje drugie miejsce w świecie kapitalistycznym po USA. Do głównych jej partnerów należą kraje EWG i USA. Eksportuje przede wszystkim wyroby maszynowe, środki transportu, metale, produkty chemiczne, importuje zaś głównie surowce i artukuły żywnościowe.</p>",
+            "map":"<div id='map'><img src='maps/rfn-min.jpg' alt='Federal Republic of Germany map'></div>" 
+        }
+    ],
+
+    "romania": [
+        {
+            "title":"<p><strong>RUMUNIA</strong></p>",
+            "subtitle":"<p><strong>Socjalistyczna Republika Rumunii</strong></p><p>Republica Socialist&#462; Rom&#226;nia</p>",
+            "position":"<p><strong>Położenie:</strong> Południowo - wschodnia Europa</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 237 500 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 39 okręgów i stolica</p>",
+            "capitol":"<p><strong>Stolica:</strong> Bukareszt (Bucare&#537;ti 1 800 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Timi&#537;oara (269 000 mieszk.), Kluż (Cluj, 262 000 mieszk.)</p>",
+            "population":"<p><strong>Ludność:</strong> 21 400 000, w tym 86% Rumunów, ponadto w kraju mieszkają obywatele narodowości węgierskiej, niemieckiej i in.</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> 2/3 terytorium pokrywają góry i wyżyny. Klimat umiarkowany, kontynentalny</p>",
+            "language":"<p><strong>Język urzędowy:</strong> rumuński</p>",
+            "currency":"<p><strong>Waluta:</strong> Lei = 100 banów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Państwo rumuńskie, które powstało w 1859 r. uzyskało niepodległość w latach 1877 - 1878 po zwycięstwach wojsk rumuńskich walczących u boku armii rosyjskiej w wojnie rosyjsko - tureckiej. Po I wojnie światowej i rozpadzie Austro - Węgier do Rumunii został przyłąćzony siedmiogród, część Banatu, Crisana, Maramures i Bukovina. W czasie II wojny światowej Rumunia z winy kół reakcyjnych stanęła po stronie NIemiec hitlerowskich i w 1941 r. wzięła udział w agresji przeciwko Związkowi Radzieckiemu. Postępowe siły pod kierownictwem partii komunistycznej wykorzystały zwycięską ofensywę Armii Radzieckiej wzniecając 23 sierpnia 1944 r. powstanie zbrojne, które obaliło dyktaturę faszystowską i spowodowało właczenie się kraju do koalicji antyfaszystowskiej. Była to przełowmowa data w życiu narodu rumuńskiego, oznaczająca początek rewolucji ludowej, która stopniowo przerodziła się w rewolucję socjalistyczną. Socjalistyczna Republika Rumunii jest członkiem Rady Wzajemnej Pomocy Gospodarczej i Układu Warszawskiego. Kierowniczą siłą polityczną jest Rumuńska Partia Komunistyczna. Najwyższym organem władzy państwowej jest Wielkie Zgromadzenie Narodowe, którego funkcje w okresie między posiedzeniami pełni Rada Państwa. Głową państwa jest prezydent. Najwyższym organem władzy wykonawczej i administracji państwowej jest rada ministrów.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Socjalistyczna Rumunia jest rozwniętym krajem przemysłowo - rolniczym, mającym znaczne gogactwa naturalne. Pod względem zasobów ropy naftowej i gazu ziemnego zajjmuje drugie miejsce w Europie po Związku Radzieckim. Są tu też bogate złoża węgla, cynku, ołowiu, rudy manganu, boksytó, złota, srebra, rudy uranowej i in.</p><p>Najważniejszą gałęzią przemysłową jest przemysł paliwowy, następnie maszynowy, spożywczy i włókienniczy. W ostatnich latach szybko rozwija się energetyka, hutnictwo i przemysł chemiczny. Rumunia produkuje i eksportuje urządzenia dla przemysłu petrochemicznego, chemicznego, naftowego i włókienniczego, statki, wagony, lokomotywy, samochody osobowe i ciężarowe, silniki elektryczne. Udział rolnictwa w dochodzie narodowym wynosi ok. 30% Przeważa produkcja roślinna, zwłaszcza kukurydzy (drugie miejse w Europie i czwarte na świecie), pszenicy, słoneczników, buraków cukrowych, tytoniu, winorośli, owocó itp. Najważniejszym partnerem handlowym Rumunii jest Związek Radziecki, a następnie RFN, NRD i CSRS.</p>",
+            "map":"<div id='map'><img src='maps/rumunia-min.jpg' alt='Romania map'></div>" 
+        }
+    ],
+
+    "sanmarino": [
+        {
+            "title":"<p><strong>SAN MARINO</strong></p>",
+            "subtitle":"<p><strong>Republika San Marino</strong></p><p>La Serenissima Repubblica di San Marino</p>",
+            "position":"<p><strong>Położenie:</strong> Półwysep Apeniński; kraj otoczony terytorium włoskim</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 61 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 14 gmin</p>",
+            "capitol":"<p><strong>Stolica:</strong> San Marino (4 400 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+            "population":"<p><strong>Ludność:</strong> 20 000, przeważnie pochodzenia włoskiego</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Terytorium San Marino rozciąga się w środkowej części Półwyspu Apenińskiego wokół góry Monte Titano o wysokości 750 m. Klimat śródziemnomorski.</p>",
+            "language":"<p><strong>Język urzędowy:</strong> włoski</p>",
+            "currency":"<p><strong>Waluta:</strong> Lir = 100 centesimów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Legenda głosi, iż San Marino jest najstarszą europejską republiką parlamentarną, która powstała w 301 r. n. e. Najwyższym organem ustawodawczym jest sześćdziesięcioosobowa Wielka Rada Generalna wybierana na pięć lat. Wielka rada Generalna wybiera spośród swych członków rzad (Congressio di Stato) sprawujący władzę wykonawczą wraz z dwoma kapitanami - regentami wybieranymi na sześć miesięcy.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> San Marino wiążą ścisłe stosunki gopodarcze i handlowe z Włochami, z którymi łaczy je od 1862 r. unia celna. Podstawą gospodarki jest rolnictwo. Na 450 ha gruntów ornych uprawia się pszenicę, winorośl, kukurydzę i owoce. Wysoki poziom osiągnęła hodowla bydła. Przemysł reprezentują małe zakłady włókiennicze i spożywcze oraz produkcja ceramiki. Najważniejszym źródłem dochodów państwa jest turystyka i emisja znaczków pocztowych, Do głównych pozycji eksportowych należą wyroby włókiennicze, wino i ceramika. Najważniejszym partnerem handlowym San Marino są Włochy.</p>",
+            "map":"<div id='map'><img src='maps/sanmarino-min.jpg' alt='San Marino map'></div>" 
+        }
     ]
 }
