@@ -541,5 +541,24 @@
             "economy":"<p><strong>Gospodarka:</strong> San Marino wiążą ścisłe stosunki gopodarcze i handlowe z Włochami, z którymi łaczy je od 1862 r. unia celna. Podstawą gospodarki jest rolnictwo. Na 450 ha gruntów ornych uprawia się pszenicę, winorośl, kukurydzę i owoce. Wysoki poziom osiągnęła hodowla bydła. Przemysł reprezentują małe zakłady włókiennicze i spożywcze oraz produkcja ceramiki. Najważniejszym źródłem dochodów państwa jest turystyka i emisja znaczków pocztowych, Do głównych pozycji eksportowych należą wyroby włókiennicze, wino i ceramika. Najważniejszym partnerem handlowym San Marino są Włochy.</p>",
             "map":"<div id='map'><img src='maps/sanmarino-min.jpg' alt='San Marino map'></div>" 
         }
+    ],
+
+    "switzerland": [
+        {
+            "title":"<p><strong>SZWAJCARIA</strong></p>",
+            "subtitle":"<p><strong></strong>Schweizerische Eidgenossenschaft</p><p>Conf&#233;d&#233;ration Suisse</p><p>Confederazione Svizzera</p><p>Confederazium Svizera</p>",
+            "position":"<p><strong>Położenie:</strong> Europa środkowa, górzyste tereny Alp</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 41 293 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 26 kantonów</p>",
+            "capitol":"<p><strong>Stolica:</strong> Brno ((Bern, Berne, 280 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Zurych (Z&#252;rich 700 000 mieszk.), Bazylea (Basel. 368 000 mieszk.)</p>",
+            "population":"<p><strong>Ludność:</strong> 6 300 000</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Ponad połowę terytrorium zajmują Alpy. Klimat - zależny od wysokości nad poziomem morza</p>",
+            "language":"<p><strong>Język urzędowy:</strong> niemiecki, francuski, włoski i retoromański</p>",
+            "currency":"<p><strong>Waluta:</strong> Frank szwajcarski = 100 rappów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Za datę powstania niepodległego państwa szwajcarskiego przyjmuje się 1 sierpnia 1291 r., gdy został utworzony związek obronny trzech prokantonów - Uri, Schwyz i Unterwalden, będący fundamentem przyszłej konfederacji, której obszar stopniowo rozszerzał się aż do XVIII w. Po raz pierwszy nipodległość Szwajcarii została prawnie potwierdzona w tzw. pokoju westfalskim po wojnie trzydziestoletniej. Na Kongresie Wiedeńskim w 1815 r. ponownie potwierdzono suwerenność Szwajcarii. Równocześnie proklamowano jej &bdquo;wieczystą neutralność&rdquo;. Od drugiej połowy XIX w. Szwajcaria szybko rozwija się, stając się dobrze prosperującym pańswtem kapitalistycznym. W czasie I i II wojny światowej zachowała neutralność nie naruszoną przez strony walczące, która przyniosła temu alpejskiemu krajowi znaczne korzyści polityczne, a zwłaszcza gospodarcze.</p><p>Szwajcaria jest państwem federacyjnym, składającym się z 26 kantonów. Władzę ustawodawczę sprawuje Zgromadzenie Związkowe (parlament) składające się z Rady Narodowej i rady Kantonów. Władza wykonawcza należy do rządu związkowego, w którym zasiada tzw. radców federalnych. Głową państwa i szefem rządu jest prezydent Konfederacji Szwajcarskiej wybierany na jeden rok.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Szwajcari jest rozwiniętym krajem kapitalistycznym o wysokiej koncentracji kapitału. Jest jednym z największych ośrodków finansowych i bankowych świata kapitalistycznego.</p><p>Nie posiada właściwie żadnych ważniejszych surowców, mimo to pod względem wysokości dochodu narodowego i wysokości produkcji przemysłowej na głowę ludności należy do najbardziej rozwiniętych krajów świata kapitalistycznego. Do głównych gałęzi przemysłu zalicza się przemysł metalowy i maszynowy, zwłaszcza produkcję urządzeń elektrycznych, chemię i przemysł farmaceutyczny, produkcję barwników, przemysł spożywczy i włokienniczy. Najważniejszą gałęzią jest produkcja światowej sławy zegarków. Część produktów spożywczych trzeba importować. Uprawia się zboża, buraki cukrowe, tytoń, warzywa i winorośl. Większe znaczenie niż produkcja roślinna ma produkcja zwierzęca - mięso, mleko i sery.</p><p>Do głównych partnerów handlowych Szwajcarii należą kraje EWG, a zwłaszcza RFN.</p>",
+            "map":""
+        }
     ]
 }
