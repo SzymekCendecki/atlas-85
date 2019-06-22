@@ -1,0 +1,53 @@
+{
+"northAmericaDescription": [
+        {
+            "title":"<p><strong>Ameryka Północna</strong></p><p>(Ogólna charakterystyka polityczno-gospodarcza)</p>",
+            "position":"<p><strong>Położenie:</strong> Ameryka Północna leży na Pólkuli Zachodniej; jej najbardziej wysuniętym na północ punktem jest przylądek Murchisona (71&#730; 50&#700; szerokości północnej), a za południową granicą uważa się rzekę Rio Grande, która oddziela ją od obszaru Ameryki Łacińskiej. (Granica geograficzna między Ameryką Północną a kontynentem południowamerykańskim przebiega wzdłuż przesmyku panamskiego.) Od wschodu Ameryka Północna przylega do Oceanu Atlantyckiego, od zachodu - do Oceanu Spokojnego. Do Ameryki Północnej należy również wyspa Grenlandia</p>",
+            "area":"<p><strong>Powierzchnia:</strong> Ok. 21 500 000 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 2 państwa niepodległe (USA i Kanada), 1 terytorium zamorskie (Grenlandia) i 2 kolonie - Bermudy (bryt.) i Saint Pierre i Miquelon (departament zamorski Francji). (Pozostałe kraje, należące co prawda pod względem geograficznym do Ameryki Północnej, ze względu na ich rozwój historyczny i polityczny włączyliśmy do rozdziału poświęconego Ameryce Łacińskiej.)</p>",
+            "biggestCities":"<p><strong>Największe miasta:</strong> Nowy Jork (9 800 000 mieszk.), Chicago (7 000 000 mieszk.), Los Angeles (8 400 000 mieszk.), Montreal (2 700 000 mieszk.)</p>",
+            "population":"<p><strong>Ludność:</strong> Ok. 250 000 000. Najgęścij zaludnionym państwem są USA</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne</strong> Ze względu na rozwój geologiczny Ameryka Północna ma dość urozmaicone ukształtowanie pionowe. Jej powierzchnię ksztłtują ciągnące się w kierunku południkowym wysokogórskie łańcuchy Kordylierów przedzielone na zachodzie kontynentu śródgórskich wyżynami, na wschodzie zaś - Płaskowyż Lauretański i Appalachy, opadające ku nadmorskim nizinom nad Oceanem Atlantyckim i Zatoką Meksykańską. Najwyższym szczytem jest Mout McKinley (6 194 m) na Alasce, najniższym punktem - wklęsłość Deatch Valley (Dolina Śmierci) w Kaliforni (-85 m). Większość wód kontynentu należy do zlewiska Oceanu Atlantyckiego, do którego wody Ameryki Północnej odprowadzają Missisipi i rzeka św. Wawrzyńca</p>",
+            "historyPoliticalOutline":"<p><strong>Historia i zarys polityczny:</strong> Europejska kolonizacja obecnych państw Ameryki Północnej - USA i Kanady - rozpoczyła się w XVI w. Największy udział mieli w niej Francuzi, a zwłaszcza Brytyjczycy. Stany Zjednoczone Ameryki powstały w wyniku wojen niepodległościowych prowadzonych przez kolonie brytyjskie w Ameryce Północnej, a zakończonych w 1783 r. podpisaniem traktatu paryskiego. Kanada aż do r. 1850 r., w którym Londyn przyznał jej prawo do własnego rządu, była uzleżniona od Wielkiej Brytanii.</p><p>Satny Zjednoczone Ameryki i Kanada z biegiem czasu przekształciły się w rozwinięte kraje przemysłowe; w chwili obecnej USA są najpotężniejszym państwem kapitalistycznym na świecie.</p>",
+            "economy":"<p><strong>Gospodarka:</strong>USA i Kanada są wysoko rozwiniętymi przemysłwoymi krajami kapitalistycznymi o rozwiniętej produkcji rolnej. Dysponują znacznymi bogactwami naturalnymi. USA wytwarzają 40,6% produkcji przemysłowej świata kapitalistycznego, a Kanada 3,2%. Na Stany Zjednoczone przypada ok. 15% obrotów handlu zagranicznego, zaś na Kanadę - ok. 5%.</p>",
+            "map":"<div id='map'></div>"
+        }
+    ],
+	"bermudas": [
+        {
+            "title":"<p><strong></strong>BERMUDY</p>",
+            "subtitle":"<p><strong>Bermudy</strong></p><p>Bermuda</p><p>(Kolonia brytyjska w zachodniej części Oceanu Atlantyckiego)</p>",
+            "position":"<p><strong>Położenie:</strong> Archipelag leży w zachodniej części Oceanu Atlantyckiego, na wschód od wybrzeży USA. Tworzy go 360 wysp koralowych, z których tylko 22 są zamieszkałe</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 53 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> Jedna całość administracyjna</p><p><strong>Ośrodek administracyjny:</strong> Hamilton (3500 mieszkańców)</p>",
+            "capitol":"<p><strong>Stolica:</strong> </p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> North Village, Somerset, Town Hill</p>",
+            "population":"<p><strong>Ludność:</strong> 62 000, w tym 50% to potomkowie Afrykanów i Mulaci, pozostali to potomkowie Europejczyków</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Powierzchnia wysp płaska, z wieloma lagunami. Klimat kształtuje się pod wpływem Prądu Zatokowego, łagodny</p>",
+			"language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+            "currency":"<p><strong>Waluta:</strong> Dolar bermudzki = 100 centów</p>",
+            "historyPoliticalSystem":"<p> Archipelag został odkryty w r. 1515 przez hiszpańskiego żeglarza J. Bermudeza. Od 1684 r. kolonia beytyjska. Bermudami zarządza gubernator mianowany przez królową brytyjską. Władzę ustawodawczą sprawuje dwuizbowy parlament (40 - osobowa Izba Gmin i 11 - osobowa Rada Ustawodawcza). Na bermudach znajdują się amerykańskie bazy wojskowe.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Najważniejszą gałęzią gospodarki jest turystyka, która dostarcza 90% wszytskich dochodów państwowych. W ostatnich latach dzięki korzystnemu ustawodawstwu podatkowemu Bermudy stały się ośrodkiem międzynarodowego kapitału finansowego.</p><p>Ludność zajmuje się rolnictwem (uprawa warzyw, bananów i kwiatów na eksport) oraz rybołówstwem. Przemysł praktycznie nie istnieje, w kraju są wyłącznie warszty rzemieślnicze.</p><p>Handel zagraniczny zorientowany jest na Wielką Brytanię i USA; wszelkie towary przemysłowe, paliwa oraz podstawowe artykuły spożywcze sprowadzane są z zagranicy.</p>",
+            "map":"" 
+        }
+    ],
+	"greenland ": [
+        {
+            "title":"<p><strong>GRENLANDIA</strong></p>",
+            "subtitle":"<p><strong>Grenlandia</strong></p><p>Gr&#246;nland</p><p>(Część Królstwa Danii, posiadająca samorząd lokalny)</p>",
+            "position":"<p><strong>Położenie:</strong>Leży na północny wschód od kontynentu amerykańskiego, otoczona Oceanem Atlantyckim i Morzem Arktycznym</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 2 175 600 km<sup>2</sup>, największa wyspa na świecie</p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 3 prowincje dzielące się na 16 powiatów</p><p><strong>Ośrodek administracyjny:</strong> Godth&#229;b (10 000 mieszkańców)</p>",
+            "capitol":"<p><strong>Stolica:</strong> </p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Frederiksh&#229b, Skjoldungen</p>",
+            "population":"<p><strong>Ludność:</strong> 51 000, przede wszystkim Eskimosi i Duńczyczy</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wybrzeże wyspy jest bardzo urozmaicone, z licznymi zatokami i drobnymi wysepkami. Wnętrze kraju w trzech czwartych pokryte lodowcem. Klimat zimny i suchy</p>",
+			"language":"<p><strong>Język urzędowy:</strong> grenlandzki</p>",
+            "currency":"<p><strong>Waluta:</strong> Korona duńska = 100 &#246;re</p>",
+            "historyPoliticalSystem":"<p> W X w. skolonizowana przez Islandczyków. Od 1814 r. kolonia duńska, w 1953 r. uznana za terytorium zamorskie Danii. W 1978 r. mieszkańcy Grenlandii wywalczyli w ramach Królestwa Danii pewną autonomię. 1 maja 1979 r. wyspa uzyskała samorząd lokalny; organem ustawodawczym jest Rada Krajowa. Od II wojny światowej na Grenlandii znajdują się bazy wojskowe USA.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Najważniejszą rolę odgrywa rybołówstwo, połów fok, morsów i zwierząt futerkowych. Wyspa ma dość znaczne bogactwa naturalne: wydobywa się kryolit, węgiel kamienny i granit, znajdują się tu również złoża ołowiu, cynku i uranu. Handel zagraniczny jest nastawiony przede wszystkim na Danię; eksport obejmuje surowce i futra, import - artykuły konsumpcyjne i przemysłowe.</p>",
+            "map":"<div id='map'><img src='maps/grenlandia-min.jpg' alt='Grenlandia map'></div>"
+        }
+    ]
+}
+
