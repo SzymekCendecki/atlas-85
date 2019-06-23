@@ -31,7 +31,7 @@
             "map":"" 
         }
     ],
-	"greenland ": [
+	"greenland": [
         {
             "title":"<p><strong>GRENLANDIA</strong></p>",
             "subtitle":"<p><strong>Grenlandia</strong></p><p>Gr&#246;nland</p><p>(Część Królstwa Danii, posiadająca samorząd lokalny)</p>",
@@ -47,6 +47,60 @@
             "historyPoliticalSystem":"<p> W X w. skolonizowana przez Islandczyków. Od 1814 r. kolonia duńska, w 1953 r. uznana za terytorium zamorskie Danii. W 1978 r. mieszkańcy Grenlandii wywalczyli w ramach Królestwa Danii pewną autonomię. 1 maja 1979 r. wyspa uzyskała samorząd lokalny; organem ustawodawczym jest Rada Krajowa. Od II wojny światowej na Grenlandii znajdują się bazy wojskowe USA.</p>",
             "economy":"<p><strong>Gospodarka:</strong> Najważniejszą rolę odgrywa rybołówstwo, połów fok, morsów i zwierząt futerkowych. Wyspa ma dość znaczne bogactwa naturalne: wydobywa się kryolit, węgiel kamienny i granit, znajdują się tu również złoża ołowiu, cynku i uranu. Handel zagraniczny jest nastawiony przede wszystkim na Danię; eksport obejmuje surowce i futra, import - artykuły konsumpcyjne i przemysłowe.</p>",
             "map":"<div id='map'><img src='maps/grenlandia-min.jpg' alt='Grenlandia map'></div>"
+        }
+    ],
+	"canada": [
+        {
+            "title":"<p><strong>KANADA</strong></p>",
+            "subtitle":"<p><strong>Dominium Kanady</strong></p><p>Dominion of Canada</p>",
+            "position":"<p><strong>Położenie:</strong> Zajmuje północną część kontynentu amerykańskiego i liczne przyległe wyspy</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 9 976 175 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 10 prowincji i 2 terytoria wydzielone</p>",
+            "capitol":"<p><strong>Stolica:</strong> Ottawa (800 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Montreal (2 700 000 mieszk.), Toronto (2 600 000 mieszk.)</p>",
+            "population":"<p><strong>Ludność:</strong> 23 800 000, e tym 44% to Anglokanadyjczycy, a 31% - Frankokanadyjczycy. Mieszkają tu również przedstawiciele wielu innych narodowości</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Kanada leży w strefie klimatu umiarkowanego i zimnego, dużą część kraju pokrywa tundra; pod względem liczby jezior zajmuje pierwsze miejsce na świecie</p>",
+	    "language":"<p><strong>Język urzędowy:</strong> angielski i francuski</p>",
+            "currency":"<p><strong>Waluta:</strong> Dolar kanadyjski = 100 centów</p>",
+            "historyPoliticalSystem":"<p> Bardziej intensywna angielska i francuska kolonizacja terytorium dzisiejszej Kanady rozpoczęła się w XVII w. Z początku przeważały wpływy francuskie, poźniej jednak nasilił się napór Brytyjczyków. Między oboma ówczesnymi europejskimi mocarstwami kolonialnymi doszło do starcia, w wyniku którego Londyn opanował dotychczasowe posiadłości francuskie. W XIX w. pod wpływem amerykańskiego ruchu niepodległościowego nastroje antybrytyjskie ogarnęły również Kanadę; pod ich naciskiem w 1850 r. Londyn zmuszony był przyznać Kanadzie prawo do własnego rządu, a 17 lat później przyznał jej status dominium. W r. 1931 r. Wielka Brytania przyznała Kanadzie niezależność w zakresie polityki wewnętrznej i zagranicznej, a w 10 lat poźniej zrezygnowano z traktowania obywateli kanadyjskich jako poddanych brytyjskich. Kanada jest członkiem brytyjskiej Wspólnoty Narodów, formalną głową państwa jest królowa brytyjsk, którą w kraju reprezentuje gubernator generalny, mianowany przez władczynię za zgodą rządu Kanady. Władza ustawodawcza należy do dwuizbowego parlamentu, składającego się z Senatu (104 senatorów mianowanych dożywotnio przez generalnego gubernatora) oraz Izby Gmin (282 deputowanych wybieranych na okres 5 lat).</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Kanada jest rozwiniętym przemysłowo - rolnicznym krajem kapitalistycznym. Dysponuje ogromnymi bogactwami naturalnymi i należy do największych dostawców surowców na rynki światowe: zajmuje pierwsze miejsce w świecie kapitalistycznym pod względem wydobycia niklu, cynku i azbestu, w produkcji papieru gazetowego i w wydobyciu platyny; drugie miejsce w produkcji celulozy, wydobyciu złota, uranu, molibdenu i kobaltu; trzecie miejsce w wydobyciu srebra i produkcji aluminium; czwarte miejsce w produkcji zboża i wydobyciu ołowiu; piąte - w wydobyciu rudy miedzi i żelaza. Do najważniejszych gałęzi przemysłu należy przemysł papierniczy, wydobywczy, metalurgiczny, spożywczy i samochodowy.</p><p>Rozwinięte jest także rolnictwo, nastawione przede wszystkim na uprawę pszenicy. Wysoki poziom osiągnęłą produkcja zwierzęca.</p><p>W handlu zagranicznym największe znaczenie mają kontakty z USA. Rozwijają się także stosunki handlowe z krajami EWG i innymi państwami.</p>",
+            "map":"<div id='map'><img src='maps/kanada-min.jpg' alt='Canada map'></div>"
+        }
+    ],
+	"saintPierreMiquelon": [
+        {
+            "title":"<p><strong>SAINT PIERRE I MIQUELON</strong></p>",
+            "subtitle":"<p><strong>Saint Pierre i Miquelon</strong></p><p>Saint Pierre et Miquelon</p><p>(Departament zamorski Francji)</p>",
+            "position":"<p><strong>Położenie:</strong> Archipelag w północno - zachodniej części Oceanu Atlantyckiego, na południe od Nowej Funlandii</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 242 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> Wyspy tworzą całość administracyjną</p><p><strong>Ośrodek administracyjny:</strong> St. Pierre (ponad 5 000 mieszkańców)</p>",
+            "capitol":"<p><strong>Stolica:</strong> </p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Miquelon, la Baie, La Pointe</p>",
+            "population":"<p><strong>Ludność:</strong> 6 200, w większości potomkowie imigrantów francuskich</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wyspy są łagodnie pofałdowane, niskie pagórki (najwyższe wzniesienia na Miquelon osiągają 250 m), powierzchnia kamienista, ziemia mało urodzajna. Klimat oceaniczny, wilgotny, lato krótkie, zima długa i chłodna</p>",
+	    "language":"<p><strong>Język urzędowy:</strong> francuski</p>",
+            "currency":"<p><strong>Waluta:</strong> Frank francuski = 100 centymów</p>",
+            "historyPoliticalSystem":"<p> Wyspy odktyli Portugalczycy w r. 1520. W latach 1713 - 1816 na przemian zajmowali je Francuzi i Brytyjczycy. Definitywnie jako kolonia przeszły pod zarząd francuski w 1816r. Ich status uległ zmianie po 1946 r., kiedy zostały uznane za terytorium zamorskie Francji oraz w 1976 r., kiedy stały się departamentem zamorskim Francji. Władzę wykonawczą reprezentuje prefekt mianowany przez rząd francuski. Sprawy lokalne rozstrzyga Rada Generalna, w skład której wchodzi 14 wybierlanych członków. We francuskim Zgromadzeniu Narodowym wyspy reprezentuje 1 deputowany,a w Senacie - 1 senator.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Gospodarka wysp jest słabo rozwinięta. Głównym źródłem dochodu jest rybołówstwo. Kamienista gleba nie sprzyja produkcji rolnej. Produkcja roślinna sprowadza się wyłącznie do uprawy warzyw; w produkcji zwierzęcej przeważa hodowla bydła, owiec i trzody chlewnej. Przemysł ograniczony jest wyłącznie do zakładów przetwórstwa ryb. Eksport obejmuje ryby i produkty rybne, import zaś - maszyny, wyroby elektrotechniczne i in. artykuły przemysłowe. Główni partnerzy handlowi to Kanada, Francja i Stany Zjednoczone.</p>",
+            "map":"" 
+        }
+    ],
+	"usa": [
+        {
+            "title":"<p><strong>STANY ZJEDNOCZONE</strong></p>",
+            "subtitle":"<p><strong>Stany Zjednoczone Ameryki</strong></p><p>United States of America</p>",
+            "position":"<p><strong>Położenie:</strong> Rozciągają się na kontynencie północnoamerykańskim między Oceanem Spokojnym a Oceanem Atlantyckim. Do terytorium USA należą również jako stany federalny Alaska i Wyspy Hawajskie</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 9 371 786 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 50 stanów federalnych i 1 dystrykt federalny</p>",
+            "capitol":"<p><strong>Stolica:</strong> Waszyngton (Washington, 3 000 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Nowy Jork (new York, 9 800 000 mieszk.) Los Angeles ( 8 400 000 mieszk.)</p>",
+            "population":"<p><strong>Ludność:</strong> 230 000 000. Skład narodowościowy bardzo zróżnicowany</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Terytorium właściwych Stanów Zjednoczonych obejmują południkowo przebiegające pasma górskie - na wschodzie Appalachy, a na zachodzie Kordyliery. Między nimi rozciągają się Niziny Wewnętrzne przechodzącce w Basen Misissipi. Klimat USA przeważnie kontynentalny, na wybrzeżu zachodnim i wschodnim umiarkowany, wzdłuż Zatoki Meksykańskiej - subtropikalny</p>",
+	    "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+            "currency":"<p><strong>Waluta:</strong> Dolar USA = 100 centów</p>",
+            "historyPoliticalSystem":"<p> Europejska kolonizacja obecnego terytorium USA rozpoczęła się w XVI w. i była przede wszystkim dziełem brytyjczyków. Same Satny Zjednoczone Ameryki powstały w wyniku wojny kolonii brytyjskich o niepodległość, która zakńczyła się podpisaniem traktatu pokojowego w Wersalu w 1783 r. W 1789 r. uchwalono w USA konstytucję republikańską, która po raz pierwszy w historii nowożytnej zalegalizowała federacyjną formę państwa. W latach 1861 - 1865 r. trwała wojna domowa między burżuazyjną Północą a południowymi stanami niewolniczymi. Doprowadziła ona do zniesienia w USA niewolnictwa. W ciagu 200 lat swej historii Stany Zjednoczone stały się czołową siłą polityczną, ekonomiczną i militarną świata kapitalistycznego, która stara się realizować swe mocarstwowe cele również za pomocą środków militarnych. Do niebezpiecznego pogłębienia tego trendu w polityce USA doszło po objęciu na początku 1981 r. funkcji prezydenta Rolanda Regana. Waszyngtońskei koła rządzącce rozpoczęły nową rundę wyścigu zbrojeń, dążąc równocześnie do zwiększenia, obecności wojskowej USA w różnych części świata. Wyrazem tendencji panujących w kierowniczych kołach USA jest m. in. rozmieszczeń nowych amerykańskich rakiet jądrowych średniego zasięgu w Europie zachodniej i doktryna tzw. ograniczonej wojny jądrowej. Stany Zjednoczone Ameryki są republiką federacyjną, która składa sie z 50 stanów i okręgu stołecznego - Dystryktu Kolumbii (District of Columbia).</p><p>Najwyższa władza ustawodawcza należy do parlamentu (Kongresu), który składa się dwu izb - Izby Reprezentanów (435 członków wybieranych na 2 lata zgodnie z ordynacją wyborczą poszczególnych stanów) oraz Senatu (po 2 reprezentantów każdego stanu wybieranych w wyborach bezpośrednich na okres 6 lat). Na czele władzy wykonawczej stoi prezydent, wybierny na 4 lata w wyborach dwustopniowych. Jest on głową państwa, naczelnym dowódcą sił zbrojnych, powołuje rząd oraz ma wiele innych rozległych uprawnień. Nie jest odpowiedzialny przed parlamentem. Każdy z 50 stanów USA ma własną konstytucję oraz, z wyjątkiem Nebraski, dwuizbowy parlament, a także wybieralnego gubernatora, władze wykonawcze i sądownictwo.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> USA są najbardziej rozwiniętym państwem świata kapitalistycznego. Charakteryzuje się wysokim stopniem monopolizacji przemysłu i kapitału; duża część koncernów przemysłowych tworzy grupy kapitału finansowego (np. grupy Morgana, Rockeffelera, Du Ponta, Bank of America, grupa chicagowska, elevelandzka i in.).</p><p>Do głównych gałęzi przemysłu należą hutnictwo, przemysł maszynowy, produkcja instrumentów, elektrotechnika i elektronika, przemysł chemiczny, przetwórstwo ropy, przemysł lotniczy, energetyka. W rolnictwie przeważają wysoko zmechanizowane wielkie i średnie farmy; grunty orne zajmują 18,8% powierzchni ziemi, pastwiska 28%, a lasy - 32%. Rocznie produkuje się 46,5 mln ton zbóż oraz 2,8 mln ton bawełny, co stanowi w przybliżeniu 40% całych zbiorów tego surowca dla premysłu włokienniczego w kapitalistycznej części świata. Na USA przypada rónież około 50% całego zbioru kukurydzy w świecie kapitalistycznym. Produkcja zwierzęca rozwinięta jest przede wszystkim w rejonie Wielkich Jezior, wypasowa hodowla bydła - na preriach oraz drobiu 0 w rejonie Appalachów i wokół dużych miast.</p><p>Pod względem wielkości handlu zagranicznego Stany Zjednoczone Ameryki zajmują pierwsze miejsce wśród krajów kapitalistycznych, ich eksport stanowi 13% całego eksportu światowego. Glównymi towarami eksportowymi są wyroby przemysłu maszynowego i przetwórczego, następnie zboże oraz tłuszcze roślinne i zwierzęce. 33% eksportu USA kierowane jest od Europy zachodniej, 24% - do KAnady, a 22% 0 do krajów kontynentu azjatyckiego. W imporcie dominują surowce - przede wszystkim ropa naftowa, metale niezleżne, zeluloza i papier.</p>",
+            "map":"<div id='map'><img src='maps/usa-min.jpg' alt='USA map'></div>"
         }
     ]
 }
