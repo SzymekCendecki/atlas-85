@@ -265,6 +265,95 @@
             "economy":"<p><strong>Gospodarka:</strong> Główną gałęzią gospodarki jest turystyka. Na wyspach Dziewiczych istnieje kilka większych zakładów przemysłwoych - rafineria ropy naftowej na wyspie St. Croix, zakład produkcyjny aluminium, cukrownie, pieć zakładów destylacji rumu, następnie mniejsze zakłady produkcji zegarków, włókiennicze oraz obróbki kamieni szlachetnych. Ośrodków produkcji rolnej jest wyspa St. Croix. Najważniejsze uprawy to trzcina cukrowa, orzechy kokosowe, owoce cytrusowe oraz inne owoce tropikalne i warzywa.</p><p>Najważniejszymi partnerami handlowymi Wysp Dziewiczych Stanów Zjednoczonych są USA i Puerto Rico.</p>",
             "map":"<div id='map'><img src='maps/wyspydziewiczeusa-min.jpg' alt='Virgin Islands of the United States map'></div>"
         }
+    ],
+	"ecuador": [
+        {         
+            "title":"<p><strong>EKWADOR</strong></p>",
+            "subtitle":"<p><strong>Republika Ekwadorska</strong></p><p>Rep&#250;blica del Ecuador</p>",
+            "position":"<p><strong>Położenie:</strong> Północno - zachodnia część kontynentu południowoamerykańskiego; do Ekwadoru należy również archipelagGalapagos na Oceanie Spokojnym</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 283 562 km<sup>2</sup> (w tym wyspy Galapagos 7844 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 20 prowincji</p>",
+            "capitol":"<p><strong>Stolica:</strong> Quito (640 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Guayaguil (814 000 mieszk.), Cuenea (104 000 mieszk.)</p>",
+            "population":"<p><strong>Ludność:</strong> 8 000 000, w większości Metysi i Indianie</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Ekwador leży po obu stronach Andów rozciągając się od wybrzeży Pacyfiku aż po Nizinę Amazonki. Klimat równikowy</p>",
+            "language":"<p><strong>Język urzędowy:</strong> hiszpański</p>",
+            "currency":"<p><strong>Waluta:</strong> Suere = 100 centavos</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Terytorium Ekwadoru było niegdyś częścią potężnego indiańskiego państwa Inków, które w latach 1531 - 1533 zostało podbite przez zdobywców hiszpańskich i włączone do posiadłości kolonialnych Madrytu w Ameryce Łacińskiej. Podobnie jak i w innych krajach, również i ti na początku XIX w. rozpoczęła się walka zbrojna o zrzucenie hiszpańskiego jarzma kolonialnego: w latach 1819 - 1822 na terenie dzisiejszego Ekwadoru trwało powstanie zbrojne, a po jeg zwycięstwie kraj stał się częścią ówczesnej niepodległeś republiki Wielka Kolumbia. W r. 1830 proklamowano samodzielną Republikę Ekwadorską.</p><p>W drugiej połowie ubiegłego stulecia zaczyna do Ekwadoru wyraźnie przenikać kapitał brytyjski i - przede wszystkim - północnoamerykański.</p><p>Sytuacja wewnętrzna w Ekwadorze była w przeszłości bardzo skomplikowana. W 1972 r. władzę w kraju przejęły siły zbrojne, koncentrując swe wysiłki przede wszystkim na przeprowadzeniu niektórych reform społeczno - gospodarczych oraz umocnieniu niezależności Ekwadoru od kapitału północnoamreykańskiego. W ostatnich latach dążą one do stworzenia warunków sprzyjającyh stopniowemu przekazywaniu władzy w ręce rządu cywilnego: na początku 1978 r. w kraju odbyło się referendum na temat nowej konstytucji, która weszła w życia w sierpniu 1979 r. Zgodnie z jej zapisem, głową państwa, a zarazem szefem rządu jest prezydent wybierany na pięcioletnią kadencję. Władza ustawodawcza należy do jednoizbowego parlamentu - Izby Deputowanych.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Ekwador jest stosunkowo słabo rozwiniętym krajem rolniczym. Najważniejszą gałęzią gospodarki jest rolnictwo, w którym zatrudnione jest ok. 50% ludności zdolnej do pracy. Na eksport uprawia się przede wszystkim kawę, banany (Ekwador jest jednym z największych producentów bananów na świecie), ziarno kakaowe oraz trzcinę cukrową. Poza tym uprawia się bawełnę, ryż, kukurydzę, rośliny strączkowe i in.</p><p>Produkcja przemysłowa jest jak dotąd słabo rozwinięta. Do tradycyjnych gałęzi należy produkcja żywności, materiałów włókienniczych i budowlanych; w chwili obecnej kładzie się nacisk na rozwój petrochemii, gazownictwa, przemysłu hutniczego i samochodowego.</p><p>Pod względem gospodarczym Ekwador jest uzależniony przede wszystkim od rozwiniętych krajów kapitalistycznych - zwłaszcza USA, Japonii i państw EWG, dokąd też kierowana jest przeważająca część artykułów eksportowych - przede wszystkim surowców i produktów rolnych. Ostatnio rozwijają się także kontakty z krajami socjalistycznymi.</p>",
+            "map":"<div id='map'><img src='maps/ekwador-min.jpg' alt='Ecuador map'></div>"
+        }
+    ],
+	"falklandMalvinas": [
+        {         
+            "title":"<p><strong>FALKLANDY - MALWINY</strong></p>",
+            "subtitle":"<p><strong>Falklandy - Malwiny</strong></p><p>Falklandy Islands - Islas Malvinas</p><p>(Kolonia bvrytyjska na Oceanie Atlantyckim</p>",
+            "position":"<p><strong>Położenie:</strong> Południa cześć Oceanu Atlantyckiego w pobliżu najbardziej na południe wysuniętego skrawka terytorium argentyńskiego. Tworzą je dwie duże wyspy i ok. 200 małych zamieszkałych wysepek i raf. Administracyjnie należą do nich również wyspy Sandwich Płd. i Georgia Płd.</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 16 835 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong>Wyspy stanowią całość administracyjną, do której należą również wyspy Georgia Płd. i Sandwich Płd.</p><p><strong>Ośrodek administracyjny:</strong> Port Stanley (1 100 mieszkańców)</p>",
+            "capitol":"<p><strong>Stolica:</strong> </p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> </p>",
+            "population":"<p><strong>Ludność:</strong> 2 000, przeważnie pochodzenia szkockiego oraz Metysi</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Powierzchnia wysp na ogół płaska. Klimat zimny, oceaniczny, surowy i wietrzny</p>",
+            "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+            "currency":"<p><strong>Waluta:</strong> Funt falklandzki = 100 pensów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Archipelag został odkryty w 1592 r. i stopniowo przechodził pod zarząd Francji, Hiszpanii i Argentyny. W 1833 r. został zajęty przez Wielką Brytanię. Argentyna nigdy nie przeształa zgłaszać swoich rozszczeń do archipelagu. Między innymi od r. 1958 występowała systematycznie z żądaniem zwrotu Malwin na forum Zgromadzenia Ogólnego ONZ. Wszystkie dotychczasowe rokowania z Wielką Brytanią na temat zwrotu wysp kończyły się niepowodzeniem (w ostatnich latach głównie dlatego, że brytyjskie, a wraz z nimi także amerykańskie koncerny naftowe są zainteresowane eksploatacją nowo odkrytych złóż ropy na szelfie przybrzeżnym koło Malwin). Na początku kwietnia 1982 r. Argentyna zajęła wyspy i uznała je za obszar podległy jej administracyjnie. W odpowiedzi Londyn użył siły i rozpoczął operacje bojowe, w wyniku których przywrócono brytjską administrację kolonialną.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Głównym żródłem dochodów ludności jest hodowla owiec. Oprócz tego na małą skalę uprawia się warzywa. Przwemysł reprezentowany jest przez chłodnie i fabryki konserw. Najważniejsze artykuły eksportowe to wełna, mięso, skóry, futry oraz tłuszcz morsów.</p>",
+            "map":""
+        }
+    ],
+	"grenada": [
+        {         
+            "title":"<p><strong>Grenada</strong></p>",
+            "subtitle":"<p><strong>Grenada</strong></p><p>Grenada</p>",
+            "position":"<p><strong>Położenie:</strong> Terytorium kraju obejmuje wyspę o tej samej nazwie oraz najbardziej na południe wysunięte wysepki archipelagu Grenadyny a archipelagy Małych Antyli</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 344 km<sup>2</sup> (Grenada 305km<sup>2</sup>, Carriacou - 13 km<sup>2</sup>, pozostałe wysepki 26 km<sup>2</sup>)</p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> Jedna całość administracyjna</p>",
+            "capitol":"<p><strong>Stolica:</strong> Saint George&#700; s (27 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Woodford, Bacolet, Providence, Grenville</p>",
+            "population":"<p><strong>Ludność:</strong> ok. 100 000, głównie potomkowie Afrykanów (74%) i Mulaci (24%)</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Grenada jest wyspą pochodzenia wulkanicznego, dość górzystą, z urodzajnymi nizinami na wybrzeżu. Klimat tropikalny</p>",
+            "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+            "currency":"<p><strong>Waluta:</strong> Dolar wschodniokaraibski = 100 centów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Grenadę odkrył Krzysztof Kolumb w r. 1498. Z początku podlegała koronie hiszpaskiej, stopniowo wzrastały tu jednak wpływy francuskie. W 1665 r. została zaliczona do majątku francuskiej Kompanii Zachodnioindyjskiej, a po r. 1674 dostała się pod bezpośredni zarząd korony francuskiej. W XVIII w. w rejonie tym zaczynają się coraz wyraźniej zaznaczać wpływy brytyjskie i po latach przewlekłych sporów z Francją w r. 1784 Grenada wchodzi w skład imperium kolonialnego Wielkiej Brytanii. Pod bezpośrednim zarządem kolonialnym Londynu pozostaje aż do 1958 r., kiedy to włączono ją do Federacji Indii Zachodnich. Po jej rozpadnie w 1962 r. pozostaje kolonią aż do r. 1967, w którym staje się jednym z tzw, stowarzyszonych z Wielką Brytanią państw zachodnioindyjskich. Pod naporem przybierającego na sile ruchu narodowyzwoleńczego 7 lutego 1974 r. Londyn przyznał grenadzie niepodległość. Nowe państwo nadal jest członkiem brytyjskiej Wspólnoty Narodów. 13 marca 1979 r. w wyniku zamachu stanu przejął władzę rząd rewolucyjny, który zaczął wprowadzać zasadnicze zmiany społeczne i ekonomiczne. Tarcia w łonie partii Nowy Ruch JEWEL doprowadziły 19 października 1983 r. do wojskowego zamachu stanu. 25 października 1983 r. wyspa stała się celem interwencji USA. Pod ochroną amerykańskich żołnierzy gubernator brytyjski mianował 9 listopada 1983 r. nowy, prozachodni rząd.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Grenada hest dość zacofanym krajem rolniczym. Najważniejszą gałęxzią gospodarki jest rolnictwo. Przemysł znajduje się dopiero w początkowym stadium rozwoju. W kraju istnieją wyłącznie niewielkie zakłady przemysłu przetwórczego - zakłady produkcji artykułów korzennych, oczyszczania bawełny, przetwórstwa tytoniu oraz cukrownia. Rolnictwo dostarcza gałki muszkatołowej, wanilii, goździków, orzechów kokosowych, bawełny, trzciny cukrowej, kakao, bananów, tytoniu i owoców cytrusowych.</p><p>Najważniejszymi partnerami handlowymi Grenady są Wielka Brytania, Kanada i Stany Zjednoczone. Eksport obejmuje głównie produkty rolnicze, przede wszystkim gałkę muszkatołową (1/3 produkcji światowej).</p>",
+            "map":"<div id='map'><img src='maps/grenada-min.jpg' alt='Grenada map'></div>"
+        }
+    ],
+	"guiana": [
+        {         
+            "title":"<p><strong>GUJANA</strong></p>",
+            "subtitle":"<p><strong>Gujańska Republika Kooperacyjna</strong></p><p>Co - operative Republic of Guayana</p>",
+            "position":"<p><strong>Położenie:</strong> Pólnocno - wschodnia część kontynentu południowoamerykańskiego</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 214 970 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 9 dystryktów</p>",
+            "capitol":"<p><strong>Stolica:</strong> Georgetown (200 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> New Amsterdam (17 500 mieszk.)</p>",
+            "population":"<p><strong>Ludność:</strong> 900 000, ok. 50% Hindusów, 30% Murzynów, poza tym Indianie, Metysi i Europejczycy</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Na północnym wschodzie rozpościera się nizina nadbrzeżna, z którą łaćzy się pas piaszczystych wzniesień stanowiących przejście do Wyżyny Gujańskiej, zajmującej wnętrze karju. Kliamt tropikalny, wilgotny</p>",
+            "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+            "currency":"<p><strong>Waluta:</strong> Dolar gujański = 100 centów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Terytorium dzisiejszej Gujany odkrył dla królestwa hiszpańskiego w r. 1498 Krzysztof Kolumb. Madryt nie był jednak zainteresowany kolonizacją tego obszaru, w związku z czym dopiero w XVI w. zaczęli go zasiedlać Holendrzy. Od r. 1796 zaczęły tu stopniowo wzrastać pływy brytyjskie,jednak formalnie kraj stał się częścią brytyjskich posiadłości kolonialnych dopiero po 1814 r. Po II wojnie światowej w kraju zaczął się żywiołowo rozwijać ruch antykolonialny, na czele którego stanęła  czasem założona w 1950 r. Ludowa Partia Postępowa. Pod naciskiem przyberającego na sile ruchu narodowowyzwoleńczego Wielka Brytania musiała początkowo w pewnym stopniu znowelizować status kolonialny, a potem, w r. 1966 - przyznać krajowi całkowitą niepodległość. W r. 1970 Gujana ukonstytuowała się jako republika kooperacyjna w ramach brytyjskiej Wspólnoty Narodów. Władza ustawodawcza należy do jednoizbowego Zgromadzenia Narodowego.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Gujana jest krajem rolniczym o rozwiniętym przemyśle wydobywczym, ma też sporo bogactw naturalnych. Wydobywa się tu boksyty, diamenty, złoto, mangan, kolumbit, rudę żelaza, miedź, uran, cynk, nikiel, srebro, ołów, molibden i ropę naftową. Wydobycie boksytów, kontrolowane w przeszłości przez zagraniczne, głównie kanadyjskie, monopole zostało upaństwowione w 1971 r. Oprócz przemysłu wydobywczego w kraju istnieje rozwinięty premysł aluminiowy i przetwórczy.</p><p>Do celów rolniczych wykorzystywany jest tylko wąski pas niziny nadbrzeżnej. Uprawia się przede wszystkim ryż, kukurydzę, banany, kakao, kawę, tytoń i owoce cytrusowe. Do głównych partnerów handlowych Gujany należą Wielka Brytania, USA i Kanada. Eksport obejmuje przede wszystkim boksyty i aluminium, prócz tego pozostałe surowce i niektóre artykuły rolne.</p>",
+            "map":"<div id='map'><img src='maps/gujana-min.jpg' alt='Guiana map'></div>"
+        }
+    ],
+	"frenchGuiana": [
+        {         
+            "title":"<p><strong>GUJANA</strong></p>",
+            "subtitle":"<p><strong>Gujańska Republika Kooperacyjna</strong></p><p>Co - operative Republic of Guayana</p>",
+            "position":"<p><strong>Położenie:</strong> Pólnocno - wschodnia część kontynentu południowoamerykańskiego</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 214 970 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 9 dystryktów</p>",
+            "capitol":"<p><strong>Stolica:</strong> Georgetown (200 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> New Amsterdam (17 500 mieszk.)</p>",
+            "population":"<p><strong>Ludność:</strong> 900 000, ok. 50% Hindusów, 30% Murzynów, poza tym Indianie, Metysi i Europejczycy</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Na północnym wschodzie rozpościera się nizina nadbrzeżna, z którą łaćzy się pas piaszczystych wzniesień stanowiących przejście do Wyżyny Gujańskiej, zajmującej wnętrze karju. Kliamt tropikalny, wilgotny</p>",
+            "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+            "currency":"<p><strong>Waluta:</strong> Dolar gujański = 100 centów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Terytorium dzisiejszej Gujany odkrył dla królestwa hiszpańskiego w r. 1498 Krzysztof Kolumb. Madryt nie był jednak zainteresowany kolonizacją tego obszaru, w związku z czym dopiero w XVI w. zaczęli go zasiedlać Holendrzy. Od r. 1796 zaczęły tu stopniowo wzrastać pływy brytyjskie,jednak formalnie kraj stał się częścią brytyjskich posiadłości kolonialnych dopiero po 1814 r. Po II wojnie światowej w kraju zaczął się żywiołowo rozwijać ruch antykolonialny, na czele którego stanęła  czasem założona w 1950 r. Ludowa Partia Postępowa. Pod naciskiem przyberającego na sile ruchu narodowowyzwoleńczego Wielka Brytania musiała początkowo w pewnym stopniu znowelizować status kolonialny, a potem, w r. 1966 - przyznać krajowi całkowitą niepodległość. W r. 1970 Gujana ukonstytuowała się jako republika kooperacyjna w ramach brytyjskiej Wspólnoty Narodów. Władza ustawodawcza należy do jednoizbowego Zgromadzenia Narodowego.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Gujana jest krajem rolniczym o rozwiniętym przemyśle wydobywczym, ma też sporo bogactw naturalnych. Wydobywa się tu boksyty, diamenty, złoto, mangan, kolumbit, rudę żelaza, miedź, uran, cynk, nikiel, srebro, ołów, molibden i ropę naftową. Wydobycie boksytów, kontrolowane w przeszłości przez zagraniczne, głównie kanadyjskie, monopole zostało upaństwowione w 1971 r. Oprócz przemysłu wydobywczego w kraju istnieje rozwinięty premysł aluminiowy i przetwórczy.</p><p>Do celów rolniczych wykorzystywany jest tylko wąski pas niziny nadbrzeżnej. Uprawia się przede wszystkim ryż, kukurydzę, banany, kakao, kawę, tytoń i owoce cytrusowe. Do głównych partnerów handlowych Gujany należą Wielka Brytania, USA i Kanada. Eksport obejmuje przede wszystkim boksyty i aluminium, prócz tego pozostałe surowce i niektóre artykuły rolne.</p>",
+            "map":"<div id='map'><img src='maps/gujanafr-min.jpg' alt='French Guiana map'></div>"
+        }
     ]
 }
-
