@@ -409,5 +409,59 @@
             "economy":"<p><strong>Gospodarka:</strong> Haiti jest zacofanym krajem rolniczym o słabo rozwiniętym przemyśle. Gospodarka jest opanowana przez kapitał zagraniczny, głównie przez monopole USA. Zacofany przemysł nastawiony jest przede wszystkim na przetwórstwo surowców rolnych. 2/3 ludności czynnej zawodowo pracuje w rolnictwie, które wykorzystuje 2/3 ogólnej powierzchni kraju. Wiekszość produkcji rolnej przeznaczona jest na eksport. Uprawia sie kukurydzę, ryż, banany, proso, rośliny strączkowe, bataty i maniok. Na wwielkich plantacjach należących wyłącznie do towarzystw zagranicznych uprawia sie rośliny eksportowe - kakao, bawełnę i kawę.</p><p>Najważniejszym partnerem handlowym Haiti są Stany Zjednoczone Ameryki, dokąd kraj ten wysyła większość artykułów eksportowych.</p>",
             "map":"<div id='map'><img src='maps/haiti-min.jpg' alt='Haiti map'></div>"
         }
+    ],
+	"honduras": [
+        {      
+            "title":"<p><strong>HONDURAS</strong></p>",
+            "subtitle":"<p><strong>Republika Honduraska</strong></p><p>Rep&#250;blica de Honduras</p>",
+            "position":"<p><strong>Położenie:</strong> Ameryka środkowa</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 112 088 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 18 departamentów</p>",
+            "capitol":"<p><strong>Stolica:</strong> Tegucigalpa (371 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> San Pedro Sula (150 000 mieszk.), La Ceiba (50 000 mieszk.)</p>",
+            "population":"<p><strong>Ludność:</strong> 3 600 000, ok 91% populacji stanowią mieszańcy pierwotnej ludności indiańskiej z kolonistami hiszpańskimi</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Z północnego zachodu na południowy wschód terytorium Homdurasu przecina pasmo Kordylierów. Między łańcuchami górskimi rozposcierają się urodzajne doliny i niziny. Klimat tropikalny</p>",
+            "language":"<p><strong>Język urzędowy:</strong> hiszpański</p>",
+            "currency":"<p><strong>Waluta:</strong> Lempira = 100 centavos</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Terytorium Hondurasu zostało odkryte  przez Hiszpanów w r. 1502, po czym zdobyte przez Hermana Cortesa i przyłączone do kolonialnegoimperium Madrytu. Spod panowania hiszpańskiego kraj wyzwolił sie w 1821 r., a w 17 lat później, po rozpadzie Federacji Środkowej, 5 listopada 1838 r. ogłosił się niepodległą republiką. Od II połowy XIX w. Hondurasem zaczynają interesować się Wielka Brytania i USA. W późniejszym okresie naciski Waszyngtonu wzrosły do tego stopnia, iż w 1905 r. przerodziły się w bezpośrednią interwencję wojskową, której celem było umocnienie pozycji kapitału północnoamerykańskiego w tym kraju. Honduras popadł w silną zależność od Waszyngtonu i sytuacja taka trwa praktycznie do dnia dzisiejszego. Wśród krajów Ameryki Środkowej dzierży smutny prymat jeśli chodzi o liczbę zamachów stanu - od chwili uzyskania niepodległości było ich tu ponad 120. W 1982 r. władzę przejął rząd cywilny o orientacji proamerykańskiej, z którym walczą zbrojne siły patriotyczne.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Honduras jest zacofanym krajem rolniczym, w którym przeważają półfeudalne stosunki produkcji (przy jednoczesnym rozwoju stosunków kapitalistycznych). W rękach 700 latyfundystów znajduje się 30% wszystkich gruntów rolnych. Na potrzeby wewnętrzne uprawia się bawełnę, kukurydzę, ryż, fasolę, proso, maniok oraz niektóre inne rośliny. Na eksport produkowane są banany i kawa. Eksport tych płodów rolnych znajduje się całkowice w rękach monopoli z USA.</p><p>W rozległych lasach pozyskuje się na eksport cenne gatunki drewna - przede wszystkim mahoniu, cedru i orzecha. Honduras ma sporo bogactw naturalnych: wydobywa się tu ołów, srebro, złoto i cynk. Eksploracją bogactw naturalnych zajmują się trzy towarzystwa północnoamerykańskie.</p><p>Honduras należy do najsłabiej rozwiniętych przemysłowo krajów Ameryki środkowej. Produkuje się tu artykuły nabiałowe, cukier, piwo, mąkę pszenną, papierosy, tkaniny bawełniane i napoje. Handel zagraniczny jest niemal całkowice nastawiony na USA, dokąd eksportuje się większość surowców mineralnych i płodów rolnych.</p>",
+            "map":"<div id='map'><img src='maps/honduras-min.jpg' alt='Honduras map'></div>"
+        }
+    ],
+	"jamaica": [
+        {      
+            "title":"<p><strong>JAMAJKA</strong></p>",
+            "subtitle":"<p><strong>Jamajka</strong></p><p>Jamaica</p>",
+            "position":"<p><strong>Położenie:</strong> Leży na Morzu Karaibskim na południe od Kuby i na zachód od Haiti. Należą do niej skaliste wysepki Morant Cays i Pedro Cays</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 11 424 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 14 okręgów</p>",
+            "capitol":"<p><strong>Stolica:</strong> Kingston (650 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Mandeville, Spanish Town, Port Royal</p>",
+            "population":"<p><strong>Ludność:</strong> 2 200 000; 77% stanowią potomkowie Afrykanów, poza tym mieszkaja tu Mulaci, Europejeczycy, Hindusi i Chińczycy</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Jamajka otoczona jest rafami koralowymi. Główny masyw górski osiąga wysokość 2 256 m. Klimat tropikalny.</p>",
+            "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+            "currency":"<p><strong>Waluta:</strong> Dolar jamajski = 100 centów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Wyspę odkrył w r. 1494 Krzysztof Kolumb. W XVI w. Jamajkę kolonizowali Hiszpanie, a w r. 1655 dostała się w ręce Anglików, 200 lat póxniej zostaje kolonią brytyjską. W latach 1958 - 1962 zajmuje czołową pozycję w brytyjskiej Federacji Indii Zachodnich. Tworząc tę organizację Wielka Brytania starała się na modłę neokolonialną roztrzygnąć problemy niepodległości swoich kolonii w strefie karaibskiej.W wyniku referendum ludowego z września 1962 r. przyznał Jamajce niepodległość w ramach Brytyjskiej Współnoty Narodów.</p><p>Głową państwa, którą jest królowa brytyjska, reprezentuje na wyspie gubernator generalny. Władza wykonawcza należy do 17 - osobowego gabinetu z premierem na czele.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Jest to państwo kapitalistyczne typu rolniczego. Dzięki eksploatacji ogromnych bogactw natutalnych struktura gospodarcza kraju bardzo się ostatnio zmieniła. Jamajka należy do największych eksporterów boksytów i tlenku aluminium w świecie kapitalistycznym. Na wyspie znajdują się poza tym wielkie p[okłady marmuru, gipsu, soli, apatytu i alabastru. Na przyległych wysepkach Morant Cays i Pedro Cays zbiera się guano. Wydobycie bogactw naturalnych znajduje się przeważanie w rękach koncernów północnoamerykańskich, kanadyjskich i brytyjskich.</p><p>W przemyśle przeważają zakłady wydobycia i przetwórstwa bogactw naturalnych, przede wszystkim boksytów, gipsu i soli, cementownie i rafinerie ropy naftowej. Poza tym produkuje się cukier trzcinowy, tytoń papierosowy i rum. W kraju znajdują się także fabryki obuwnicze, meblarskie, włokiennicze oraz zakłady produkcji materiałów plastycznych, kwasu siarkowego, sprzętu sportwego i ceramiki.</p><p>Dla celów rolniczych wykorzystuje się 63% powierzchni kraju.</p><p>Najważniejsze uprawy to trzcina cukrowa, kawa, ziarno kakaowe i banany. Poza tym uprawia się cytrusy, tytoń, imbir, ziele angielskie i orzechy kokosowe, a na potrzeby wewnętrrzne - kukurydzę, ryż, maniok i rosliny strrączkowe. Rozwiniętra jest produkcja zwierzęca, rybołówstwo oraz eklopatacja lasów.</p><p>Głównymi partnerami handlowymi Jamajki są Woelka Brytania, USA i Kanada.</p>",
+            "map":"<div id='map'><img src='maps/jamajka-min.jpg' alt='Jamaica map'></div>"
+        }
+    ],
+	"caimans": [
+        {      
+            "title":"<p><strong>KAJMANY</strong></p>",
+            "subtitle":"<p><strong></strong>Kajmany</p><p>Cayman Islands</p><p>(Kolonia brytyjska na Morzu Karaibskim)</p>",
+            "position":"<p><strong>Położenie:</strong> Grupa wysp na południe od Kuby, ok. 300 km na północny zachód od Jamajki</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 260 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> Wyspy tworzą całość adminidtracyjną</p><p><strong>Ośrodek administracyjny:</strong> Georgetown (4 000 mieszkańców) na wyspie Wielki Kajman (Grand Cayman)</p>",
+            "capitol":"<p><strong>Stolica:</strong></p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Bodden i East End na wyspie Wielki Kajman</p>",
+            "population":"<p><strong>Ludność:</strong> 15 000, w tym 60% Mulatów, 20% potomków osadników europejskich i 20% Murzynów</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wyspy są stosunkowo płaskie, gęsto zaludnione, gęsto zalesione. Klimat równikowy, ciepły</p>",
+            "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+            "currency":"<p><strong>Waluta:</strong> Dolar kajmański = 100 centów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Kajmany odkrył Krzysztof Kolumb podczas swej czwartej wyprawy w r. 1503. Pierwotnie Zajęli je Hiszpanie, ale w 1670 r. Madryt odstąpił wyspy Wielkiej Brytanii, która dołączyła je do swojej ówczesnej kolonii koronnej, Jamajki. Wraz z nią w 1958 r. stały się częścią Federacji Indii Zachodnich. Po rozpadzie tego sztucznego neokolonialnego tworu i proklamowaniu niepodległości Jamajki w r. 1962 Kajmany dostały się ponownie pod bezpośredni kolonialny zarząd Londynu. Zgodnie z konstytucją z 1972 r., kolonią zarządza gubernator, mający do dyspozycji Radę Wykonawczą oraz Zgromadzenie Ustawodawcze o ograniczonych uprawnieniach.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> W ostatnim okresie kapitał brytyjski wraz z kapitałem północnoamerykańskim i kanadyjskim przekształcił Kajamany w ośrodek międzynarodowego kapitału finansowego. Jego rozwojowi sprzyja przede wszystkim korzystne ustawodastwo podatkowe.</p><p>Na wyspach nie ma przemysłu, istnieją tylko warsztaty rzemieślnicze. Także rolnictwo jest bardzo słabo rozwiniętre - uprawia sie palmy kokosowe, ryż, kukurydzę, maniok, proso i warzytwa. Rozwinięta jest hodowla bydła oraz połów żólwi morskich i reknów.</p><p>Najważniejszymi parnerami handlowymi Kajmanów są Wielka Brytani, Kanada i USA. Eksport obejmuje wyłącznie mięso żółwi, skórę rekinów i orzechy kokosowe. Importuje się szeroki asortyment towarów przemysłowych i konsumpcyjnych.</p>",
+            "map":"<div id='map'><img src='maps/kajmany-min.jpg' alt='Caimans map'></div>"
+        }
     ]
 }
