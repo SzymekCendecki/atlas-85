@@ -625,6 +625,60 @@
             "economy":"<p><strong>Gospodarka:</strong> Gospodarka jest typową gospodarką kraju rozwijającego się, uzależnioną od rolnictwa i wyrębu drewna. Przemysł paragwajski należy do najmniej rozwiniętych w krajach Ameryki Łacińskiej. Wydobycie surowców naturalnych jest ograniczone, odkryto jednak złoża ropy naftowej i rudy uranu, Przemysł jest ściśle związany z produkcją rolną.</p><p>W kraju działają zakłady mięsne, młyny, piekarnie, tłoczarnie oleju, cukrownie, gorzelnie, zakłady produkcji herbaty, garbarnie i fabryki obuwia. 90% ziemi rolnej znajduje się w rękach wielkich właścicieli ziemskich. Uprawia się soję, bawełnę, kawę, trzcinę cukrową, owoce cytrusowe. Rozwinięta jest hodowla byłda. Duże znaczenie ma wyrąb drzewa i wykorzystanie innych bogactw leśnych (np. zbiór liści krzewu mate do produkcji herbaty).</p><p>Głównymi partnerami handlowymi Paragwaju są USA, Argentyna, RFN i Wielka Brytania.</p>",
             "map":"<div id='map'><img src='maps/paragwaj-min.jpg' alt='Paraguay map'></div>"
         }
+    ],
+	"peru": [
+        {      
+            "title":"<p><strong>PERU</strong></p>",
+            "subtitle":"<p><strong>Republika Peru</strong></p><p>Rep&#250;blica del Per&#250;</p>",
+            "position":"<p><strong>Położenie:</strong> Zachodnia część Ameryki Południoowej; należy doń również kilka wysp na Oceanie Spokojnym</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 1 281 215 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 23 departamentów i 1 prowincja</p>",
+            "capitol":"<p><strong>Stolica:</strong> Lima (wraz z przedmieściami - 5 000 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Callao (335 000 mieszk.), Arequipa (302 000 mieszk.)</p>",
+            "population":"<p><strong>Ludność:</strong> 18 300 000. Połowę stanowią Indianie, mniej więcej 1/3 Metysi, a 12% - potomkowie soadników europejskich</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Terytorium Peru składa się z trzech rozległych obszarów - strefy przybrzeżnej, strefy Andów oraz tropikalnej strefy górskiej, która na północy przechodzi w puszcze tropikalne górnej części Niziny Amazonki. Leży tu jezioro Titicaca, największe wysokogórskie jezioro świata</p>",
+            "language":"<p><strong>Język urzędowy:</strong> hiszpański; od 1975 r. w użyciu jest także język keczua</p>",
+            "currency":"<p><strong>Waluta:</strong> Inti = 1000 soli</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> W połowie XV w. plemiona indiańskie zamieszkujące obszar dzisiejszego Peru zostały podbite przez Inków, którzy stworzyli tutaj pańswto wczesnofeudalne. W 1533 r. zdobywcy hiszpańscy pod dowództwem Francisco Pizarro zdobyli pańswto Inków i przyłączyli je do posiadłości kolonialnych Madrytu. Walka przeciw hiszpańskiemu panowaniu przerodziła się w szereg powstań ludności indiańskiej, które jednak zostały krawawo stłumione. W lipcu 1821 r. proklamowano niepodległość Peru. W II połowie XIX w. także do Peru zaczyna przenikać kapitał zagraniczny, przede wszystkim brytyjski i północnoamerykański. Prozachodnie rządy zmieniały się u steru władzy aż do połowy lat 60 naszego stulecia. W grudniu 1968 r. władzę przejęli oficerowie o orientacji patriotycznej i postępowej. Przejęcie władzy przez armię otworzyło drogę do umocnienia suwerenności narodowej; wywłaszczono szereg monopoli zagranicznych, ogłoszono reformę rolną. W lipcu 1980 r. weszła w życie nowa konstytucja i władzę przejął rząd cywilny.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Republika Peru jest słabo rozwiniętym rolniczo - przemysłowym państwem Kapitalistycznym o dość silnym przemyśle wydobywczym. Dysponuje bogatymi złożami wanadu, bizmutu, srebra, złota, cynku, molibdenu, ołowiu, miedzi, uranu, antymonu, rudy żelaza i węgla kamiennego.</p><p>Oprócz rozwiniętego przemysłu wydobywczego znajdują się tu zakłady przetwórstwa ropy naftowej i rud, przedsięborstwa przemysłu budowlanego, włókienniczego, spożywczego, chemicznego i ciężkiego. Peru jest największym eksporterem mączki rybnej na świecie. Na eksport uprawia się głównie bawełnę, trzcinę cukrową i kawę, a na użytek wewnętrzny - pszenicę, jęczmień, kukurydzę, ryż i ziemniaki. W lasach pozyskuje się cenne gatunki drewna, np. cedr i mahoń, ważną rolę odgrywa zbiór kauczuku naturalnego oraz kory chinowca. Najważniejszymi partnerami handlowwymi Peru sa USA, Japonia i RFN.</p>",
+            "map":"<div id='map'><img src='maps/peru-min.jpg' alt='Peru map'></div>"
+        }
+    ],
+	"puertorico": [
+        {      
+            "title":"<p><strong>PUERTO RICO</strong></p>",
+            "subtitle":"<p><strong></strong>Wolne Państwo Stowarzyszone Puerto Rico - Wspólnota Puerto Rico</p><p>Estado libre Asociado de Puerto Rico</p><p>Commonwealth of Puerto Rico</p><p>(formalnie - swobodnie stowarzyszone ze Stanami Zjednoczonymi państwo o samorządzie wewnętrznym, faktycznie kolonia USA na morzu Karaibskim)</p>",
+            "position":"<p><strong>Położenie:</strong> Państwo wyspiarskie we wschodniej części Wielkich Antyli między Oceanem Atlantyckim a Morzem Karaibskim</p>",
+            "area":"<p><strong>Powierzchnia:</strong8 897 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 7 okręgów</p><p><strong>Ośrodek administracyjny:</strong> San Juan (1 100 000 mieszkańców)</p>",
+            "capitol":"<p><strong>Stolica:</strong> </p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Ponce (125 000 mieszk.), Bayam&#243;n (146 000 mieszk.)</p>",
+            "population":"<p><strong>Ludność:</strong> 13 400 000, przeważnie potomkowie Europejczyków i przywiezionych w przeszłości na wyspę niewolników murzyńskich (ok. 2 000 000 Portorykańczyków mieszka w USA)</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Powierzchnia wyspy jest górzysta, klimat tropikalny</p>",
+            "language":"<p><strong>Język urzędowy:</strong> angielski i hiszpański</p>",
+            "currency":"<p><strong>Waluta:</strong> Dolar USA = 100 centów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Wyspę odkrył w 1493 r. Krzysztof Kolumb. Do r. 1897, kiedy to  wtoku wojny hiszpańsko - amerykańskiej została okupowana przez wojska USA, była kolonią hiszpańską. Po pokoju paryskim Stany Zjednoczone przejęły Puerto Rico pod swój zarząd i zmieniły we własną kolonię. W 1917 r. Ponce Puerto Rico zostało uznane za terytorium USA; w kraju mocno usadowiły się monopole północnoamerykańskie i zaczęły bezwględnie eksploatować jego bogactwa. WQ 1950 r. na Puerto Rico wybuchło powstanie zbrojne, które jednak zostało stłumione. Zgodnie z konstytucją z 1952 r. Puerto Rico stało się tzw. państwem swobodnie stowarzyszonym z USA, co jednak niczego nie zmieniło w kolonialnym statusie wyspy.</p><p>Oprócz praw lokalnych obowiązuje ustawodawstwo USA. W Kongresie USA Puerto Rico jesr reprezentowane przez jednego przedstawiciela z głosem doradczym. Najwyższą władzą wykonawczą jest gubernator. Władzę ustawodawdczą posiada dwuizbowe Zgromadzenie Ustawodawcze. W ostatnich latach na Puerto Rico znacznie przybrał na sile ruch na rzecz niepodległości; na jego czele stoi Puertorikańska Partia Komunistyczna i inne siły lewicowe. Zarazem jednak uaktywniły się siły walczące o przyłączenie wyspy do USA jako kolejnego pełnoprawnego stanu. Siły te skupiają się wokól przedstawicieli monopoli północnoamerykańskich.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Ekonomikę Puerto Rico całkowicie kontrolują monopole północnoamerykańskie. W Puerto Rico działają obecnie 124 towarzystwa amerykańskie, które kontrolują 80% gospodarki i osiągaja co roku ponad 2 mld dolarów czystego zysku.</p><p>W kraju rozwinął się przede wszystkim przemysł przetwórczy; monopole amerykańskie wybudowały tu wielkie rafinerie importowanej ropy naftowej oraz zakłady chemiczne i farmaceutyczne, huty szkła, cementownie, papiernie, fabryki mebli i in.</p><p>Rolnictwo, stanowiące do końca lat pięćdziesiątych kościec gospodarki Puerto Rico, straciło swoje pierwotne znaczenie. Główną rośliną uprawną jest trzcina cukrowa, poza tym uprawia się tytoń, kawę i banany. 4/5 ziemi należy do monopoli amerykańskich, a pozostała część - do miejscowych właścicieli ziemskich. Wiekszość artykułów spożywczych trzeba sprowadzać ze Stanów Zjednoczonych.</p><p>Handel Zagraniczny nastawiony jest prawie wyłącznie na USA.</p>",
+            "map":"<div id='map'><img src='maps/puertorico-min.jpg' alt='Puerto Rico map'></div>"
+        }
+    ],
+	"sanchristopherinevis": [
+        {      
+            "title":"<p><strong>SAINT CHRISTOPHER (SAINT KITTS) I NEVIS</strong></p>",
+            "subtitle":"<p><strong>Federacja Saint Christopher (Saint Kitts) i Nevis</strong></p><p>Federation of Saint Christopher (Saint Kitts) and Nevis</p>",
+            "position":"<p><strong>Położenie:</strong> Północna część Małych Antyli. Wyspy St. Christopher (St. Kitts) i Nevis dzieli jedynie wąska i płytka cieśnina</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 261,6 km<sup>2</sup> (St. Kitts - 168 km<sup>2</sup>, Nevis - 93 km<sup>2</sup>, Sombrerro - 5 km<sup>2</sup>)</p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 3 główne wyspy z częściowym samorządem</p>",
+            "capitol":"<p><strong>Stolica:</strong> Basseterre na wyspie St. Kitts (15 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Tabernacle (St. Kitts), Bath (Nevis)</p>",
+            "population":"<p><strong>Ludność:</strong> 44 000 (St. Kitts - 35 100, Newis - 9 300); 3/5 ludności to potomkowie niewolników murzyńskich, 1/3 to Mulaci a tylko 2% biali</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wyspy St. Kitts i Nevis są pochodzenia wulkanicznego, dość górzyste, urodzajne. Klimat wilgotny i ciepły</p>",
+            "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+            "currency":"<p><strong>Waluta:</strong> Dolar wschodniokaraibski = 100 centów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Wyspę odkrył Krzysztof Kolumb w r. 1493. Już w 1624 r. wyspa St. Kitts stała się pierwszą brytyjską kolonią w Indiach Zachodnich. W r. 1628 Brytyjczycy skolonizowali Nevis. Jednocześnie dochodzi do kolizji z interesami francuskimi. Dopiero pokój wersalski w r. 1783 zakończył spór o te wyspy a Francja uznała suwerenność brytyjską. W latach 1871 - 1956 wyspy były częścią ówczesnej brytyjskiej Federacji Wysp Zawietrznych. Głową państwa jest królowa brytyjska, reprezentowana przez gubernatora. Od 29 lutego 1967 r. St. Kitts i Nevis są autonomicznym państwem stowarzyszonym z Wielką Brytanią. 19 września 1983 r. proklamowano ich niepodległość w ramach brytyjskiej Współnoty Narodów.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Ekonomia wysp, całkowicie kontrolowana przez kapitał brytyjski, jest słabo rozwinięta. Jej podstawę tworzy monokulturowe rolnictwo. Przemysł jest niewielki; bogactwa naturalne nie zostały jeszcze do tej pory zbadane. Jak dotąd wydobywa się tu wyłącznie fosfory i sól.</p><p>Produkcja przemysłowa związana jest z trzciną cukrową, będącą główną tutejszą uprawą plantacyjną. Na wyspie znajdują się dwie cukrownie, fabryka papierosów, browar i gorzelnia, zakład przetwórstwa bawełny, zakład włokienniczy, stocznia i zakład wytwarzający tworzywa sztuczne. Oprócz trzciny cukrowej uprawia się tu orzechy kokosowe, bawełnę, warzywa i agawę. Wzrasta znaczenie hodowli bydła i rybołówstwa. Głównymi partnerami handlowymi wysp są Wielka Brytania, USA i Kanada.</p>",
+            "map":"<div id='map'><img src='maps/sanchristopherinevis-min.jpg' alt='Saint Christopher (Saint Kitts) and Nevis map'></div>"
+        }
     ]
 }
 
