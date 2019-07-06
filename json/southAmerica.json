@@ -679,7 +679,79 @@
             "economy":"<p><strong>Gospodarka:</strong> Ekonomia wysp, całkowicie kontrolowana przez kapitał brytyjski, jest słabo rozwinięta. Jej podstawę tworzy monokulturowe rolnictwo. Przemysł jest niewielki; bogactwa naturalne nie zostały jeszcze do tej pory zbadane. Jak dotąd wydobywa się tu wyłącznie fosfory i sól.</p><p>Produkcja przemysłowa związana jest z trzciną cukrową, będącą główną tutejszą uprawą plantacyjną. Na wyspie znajdują się dwie cukrownie, fabryka papierosów, browar i gorzelnia, zakład przetwórstwa bawełny, zakład włokienniczy, stocznia i zakład wytwarzający tworzywa sztuczne. Oprócz trzciny cukrowej uprawia się tu orzechy kokosowe, bawełnę, warzywa i agawę. Wzrasta znaczenie hodowli bydła i rybołówstwa. Głównymi partnerami handlowymi wysp są Wielka Brytania, USA i Kanada.</p>",
             "map":"<div id='map'><img src='maps/sanchristopherinevis-min.jpg' alt='Saint Christopher (Saint Kitts) and Nevis map'></div>"
         }
-    ]
+    ],
+	"stlucia": [
+        {      
+            "title":"<p><strong>SAINT LUCIA</strong></p>",
+            "subtitle":"<p><strong>Saint Lucia</strong></p><p>Saint Lucia</p>",
+            "position":"<p><strong>Położenie:</strong> Wyspa na Morzu Karaibskim, w południowo - wschodniej części Małych Antyli, w grupie Wysp Podwietrznych</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 616 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 16 okręgów</p>",
+            "capitol":"<p><strong>Stolica:</strong> Castries (50 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Dennery, Bon Air, Bise, Fort Charlotte</p>",
+            "population":"<p><strong>Ludność:</strong> 115, przeważającą grupę etniczną (pona 90%) stanowią Murzyni</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wyspa pochodzenia wulkanicznego, z północy na południe ciągnie się centralne pasmo górskie. Klimat tropikalny, wilgotny</p>",
+            "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+            "currency":"<p><strong>Waluta:</strong> Dolar wschodniokaraibski = 100 centów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Uważa się, że wyspę odkrył w 1502 r. Krzysztof Kolumb, który też nadał jej nazwę. W latach 1605 i 1638 pierwsze, nieudane próby kolonizacji podjęli Anglicy. Jednak dopiero w r. 1650 udaje się to Francuzom z sąsiedniej Martyniki. Przez następne 150 lat między dwoma mocarstwami kolonialnymi toczy się walka o panowanie nad wyspą. Spory zakończyły się dopiero w 1814r., po podpisaniu traktatu paryskiego, na mocy którego St. Lucia stała się kolonią brytyjską.</p><p>Dopiero 1 marca 1967 r. wyspa uzyskała status autonomicznego państwa stowarzyszonego z Wielką Brytanią, jako jedno z tzw. stowarzyszonych państw Indii Zachodnich. Na podstawie porozumienia 22 lutego 1979 r. uzyskuje niepodległość. Głową tego niepodległego państwa - członak brytyjskiej Wspólnoty Narodów - nadal jest królowa brytyjska, reprezentowana przez generalnego gubernatora. Parlament liczy 17 deputowanych wybieranych na okres 5 lat. Rząd jest podporządkowany parlamentowi. Największą organizacją polityczną jest Zjednoczona Partia Robotnicza, powstała w 1964 r., w wyniku połączenia Postępowej Partii Ludowej z Narodowym Ruchem Pracy.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> St. Lucia jest państwem zacofanym, podstawą jej gospodarki jest monokulturowe rolnictwo. Drugim najistotniejszym źródłem dochodów państwa jest turystyka. Przemysł jest słabo rozwinięty, służy przede wszystkim zaspokajaniu potrzeb rynku wewnętrznego. Na wyspie znajdują się trzy wapenniki, gorzelnia rumu, zakład produkujący olej jadalny, dwa zakłady produkujący wody gazowane oraz parę mniejszych przedsiębiorstw przemysłu spożywczego oraz przetwórczego. Powstaje nowa gałąź produkcji mączki bananowej i mączki z chlebowca.</p><p>Uprawia się głównie banany, stanowiące 80% eksportu, a poza tym - trzcinę cukrową, kakao, orzechy kokosowe, cytrusy, koprę, warzywa i owoce. W lasacgh pozyskuje się cenne gatunki drewna, zwłaszcza machoń.</p><>p>Głównym partnerem handlowym St. Lucii jest Wielka Brytania. Kraj importuje przede wszystkim maszyny, urządzenia i artykuły konsumpcyjne.</p>",
+            "map":"<div id='map'><img src='maps/stlucia-min.jpg' alt='Saint Lucia map'></div>"
+        }
+    ],
+	"stvincent": [
+        {      
+            "title":"<p><strong>SAINT VINCENT I GRENADYNY</strong></p>",
+            "subtitle":"<p><strong> Saint Vincent i Grenady</strong></p><p>Saint Vincent and the Grenadines</p>",
+            "position":"<p><strong>Położenie:</strong> Państwo wyspiarskie na Morzu Karaibskim w archipelagu Małych Antyli. W jego skład wchodzi północna część archipelagu Grenadyny (południowa należy do Grenady)</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 389 km<sup>2</sup>, w tym St. Vincent - 345 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 5 okręgów</p>",
+            "capitol":"<p><strong>Stolica:</strong> Kingstown (30 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Camden Park, Layou, New Sandy Bay Village, Calliaqua</p>",
+            "population":"<p><strong>Ludność:</strong> 113 000, z czego 66% stanowią potomkowie Afrykańów</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> St. Vincent jest wyspą pochodzenia wulkanicznego, o górzystej powierzchni. Klimat tropikalny, wilgotny</p>",
+            "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+            "currency":"<p><strong>Waluta:</strong> Dolora wschodniokaraibski = 100 centów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Wyspę zamieszkałą przez Karaibów odkrył Krzysztof Kolumb w r. 1498. W XVII w. zaczynają osiedlać się na niej pierwsi koloniści angielscy i francuscy. W okresie wojen niepodległościowych w Ameryce na krótki okres staje się posiadłością francuską, później jednak umacnia tu swoje wpływy Anglia. Od r. 1804 aż do 1958 St. Vincent był brytyjska kolonią koronną, następnie stał się członkiem Federacji Indii Zachodnich, sztucznego neokolonialnego tworu, za pomocą którego Londyn starał się powstrzymać rozpad swych posiadłości w tym rejonie. Kiedy Federacja przestała istnieć St. Vincent ponownie dostał się pod bezpośrednią kolonialną administrację Londynu, jednak w r. 196y9 stał się tzw. państwem stowarzyszonym z Wielką Brytanią o całkowitym samorządzie wewnętrznym. W r. 1979 uzyskał niepodległość w ramach Brytyjskiej Wspólnoty Narodów.</p><p>Głową państwa jest królowa brytyjska, reprezentowana na wyspie przez generalnego gubernatora. Władzę ustawodawczą sprawuje jednoizbowy parlament, a wykonawczą - rząd.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Wskutek długoletniego wyzysku kolonialnego gospodarka wyspy jest słabo rozwiniętra. najważniejszą gałęzią jest rolnictwo, a najważniejszym produktem rolnym - banany. Poza tym uprawia się gałkę muszkatałową, bawęłnę, kakao, pataty i in.</p><p>Na St. Vincent istnieje wyłącznie przemysł przetwórczy, reprezentowany tylko przez małe, przestarzałe zakłady przetwórstwa produktów rolnych, przy czym podstawowe artykuły spożywcze trzeba sprowadzać z sąsiednich wysp.</p><p>Najważniejszymi partnerami handlowymi kraju są Wielka Brytania, USA i Kanad. St. Vincent eksportuje wyłącznie produkty rolne - banany, gałkę muszkatałową itp. Import obejmuje maszyny, materiały pędne, wyroby włókiennicze i w znacznej mierze także artykuły spożywcze.</p>",
+            "map":"<div id='map'><img src='maps/stvincent-min.jpg' alt='Saint Vincent and Grenadines map'></div>"
+        }
+    ],
+	"salvador": [
+        {      
+            "title":"<p><strong>SALWADOR</strong></p>",
+            "subtitle":"<p><strong>Republika Salwadoru</strong></p><p>Rep&#250;blica de El Salvador</p>",
+            "position":"<p><strong>Położenie:</strong> Ameryka środkowa, wybrzeże Oceanu Spokojnego</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 21 393 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 14 departamentów</p>",
+            "capitol":"<p><strong>Stolica:</strong> San Salvador (919 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Santa (113 mieszk.), San Miguel (73 000 mieszk.)</p>",
+            "population":"<p><strong>Ludność:</strong> 4 800 000. 3/4 mieszakańców stanowią tzw. ladinos (mieszkańcy pierwotnych mieszkańców i hiszpańskich przybyszów)</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Większą część powierzchni kraju zajmuje wyżyna, przez którą przebiegają dwa pasma górskie z licznymi wulkanami. Klimat tropikalny</p>",
+            "language":"<p><strong>Język urzędowy:</strong> hiszpański</p>",
+            "currency":"<p><strong>Waluta:</strong> Colon = 100 centavos</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> W r. 1524 terytorium Salwadoru zajął konkwistador hiszpański Pedro de Alvarado i przyłączył je do posiadłości Madrytu znajdujących się w Ameryce Łacińskiej. W 1821 r. wybuchło powstanie ludności przeciwko Hiszpanom i proklamowano niepodległość kraju. Salwador stał się członkiem Federacji Ameryki Środkowej,utworzonej w r. 1823, a po jej rozpadzie, w r. 1841 - samodzielną republiką. Na początku XX w. decydującą pozycję w kraju zdobyl kapitał półnoamerykański. Kierunek rozwoju wewnętrznego od początku naszego stulecia aż do chwili obecnej dyktują interesy monopoli amerykańskich. Zgodnie z ich dążeniem do umocnienia pozycji Waszyngtonu w Ameryce środkowej, rządząca junta wojskowa prowadzi politykę brutalnych represji wymierzonych przeciwko wszystkim demokratycznym i patriotycznym siłom Sawadoru. Mimo krwawego terroru naród Salwadoru pod kierownictwem Frontu Wyzwolenia Narodowego im. Farabundo Martiego nasila walkę przeciwko proamerykańskiej juncie rządzącej, walkę o demokrację i postęp społeczny.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Salwador jest krajem słabo rozwiniętym gospodarczo, a podstawową  dziedzinę stanowi rolnictwo nastawione przede wszystko na uprawę kawy. Zjawiskiem typowym jest koncentracja ziemi w rękach wiielkich włascicieli ziemskich: 400 rodzin posiada 2/3 ziemi uprawnej, większość banków i przedsiębiorstw. W kraju wydobywa się metale rzadko występujące, jak również niewielkie ilości złota i srebra. Przeważa przemysł spożywczy, reprezentowany głównie przez zakłady przeróbki kawy, cukrownie, gorzelnie i olejarnie. 3/5 zawodowo czynne ludności zatrudnione jest w produkcji rolnej. Oprócz kawy (8 miejsce na świecie)uprawia się na eksport bawełnę i agawę, a na użytek wewnętrzny - kukurydzę trzcinę cukrową, kakao, ryż, proso, bób i inne rośliny. Głównym artykułem eksportowym jest kawa oraz inne płody rolne. Najważniejszym partnerem handlowym Salwadoru są Stany Zjednoczone.</p>",
+            "map":"<div id='map'><img src='maps/salwador-min.jpg' alt='El Salvador'></div>"
+        }
+    ],
+	"suriname": [
+        {      
+            "title":"<p><strong>SURINAM</strong></p>",
+            "subtitle":"<p><strong>Republika Surinamu</strong></p><p>Republiek Suriname</p>",
+            "position":"<p><strong>Położenie:</strong> Północno - wschodnia część kontynentu południowoamerykańskiego, wybrzeże Atlantyku.</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 163 265 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 9 dystryktów</p>",
+            "capitol":"<p><strong>Stolica:</strong> Paramaribo (ok. 150 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+            "population":"<p><strong>Ludność:</strong> Ponad 400 000. Skład etniczny jest bardzo urozmaicony; 32% stanowią murzyni, 38% - przedstawiciele narodów azjatyckich, 30% - Europejczycy oraz potomkowie rdzennej ludności</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Życie koncentruje się na nizinie nadbrzeżnej. Klimat tropikalny</p>",
+            "language":"<p><strong>Język urzędowy:</strong> holenderski</p>",
+            "currency":"<p><strong>Waluta:</strong> Gulden surinamski = 100 centów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Wybrzeża dzisiejszego Surinamu odkrył w r. 1499 Alonso de Ojeda. Próbę kolonizacji tego terytorium podjął początkowo Madryt, następnie dostało się ono w sferę interesów Wielkiej Brytanii i Holandii. Posiadłością holenderską (Gujaną Holenderską) staje się dopiero w r. 1613. W czasie II wojny światowej Surinam zajęły wojska USA. Po zakończeniu wojny również i tu zaczął rozwijać się ruch narodowowyzwoleńczy, pod którego naciskiem Haga była zmuszona przyznać Surinamowi w grudniu 1954 r. status terytorium zamorskiego. Po długich rokowaniach 25 listopada 1975 r. kraj uzyskał niepodległość . W tym samym okresie uchwalono konstytucję Surinamu, zgodnie z którą kraj jest republiką, władzę ustawodawczą sprawuje parlament wybierany na okres 4 lat, a władzę wykonawczą - prezydent i rząd. W lutym  1980 r. rząd Surinamu został obalony, a władzę w kraju przejęła rada wojskowa o nastawieniu antyimperialistycznym i postępowym.</p>",
+            "economy":"<p><strong>Gospodarka:</strong></p>",
+            "map":"<div id='map'><img src='maps/surinam-min.jpg' alt='Suriname'></div>"
+        }
+    ] 
 }
 
 
