@@ -85,7 +85,7 @@
             "map":"<div id='map'><img src='maps/botswana-min.jpg' alt='Botswana map'></div>"
         }
     ],
-    "burkinafas0": [
+    "burkinafaso": [
         {   
             "title":"<p><strong>BURKINA FASO (d. Górna Wolta)</strong></p>",
             "subtitle":"<p><strong>Burkina Faso</strong></p><p>Burkina Faso</p>",
@@ -101,6 +101,42 @@
             "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Od X w. na tym terenie istaniły liczne organizacje państwowe, których ośrodki znajdowały się na obszarze obecnego Mali i Nigru. Najważniejszym z nich było państwo Songhaj, które zanikło w końcu XVI w. U schyłku XIX w. do rejonu dotarli Francuzi. Ich akcje kolonizacyjne spotkały się z zaciętym oporem ludności murzyńskiej. Mimo to w r. 1904 kraj został przyłączony do powstałej kilka lat wcześniej francuskiej kolonii Górny Senegal - Niger. Tuż po I wojnie światowej obecne terytorium Burkina Faso (do 4 sierpnia  1984 r. kraj nosił nazwę Górna Wolta) zostało włączone do Francuskiej Afryki Zachodniej. Pod naporem ruchu narodowowyzwoleńczego, który zintensyfikował się zwłaszcza po II wojnie światowej, Paryż był zmuszony przyznać Górnej Wolcie w - 1958 r. autonomię, a w dwa lata później - z dniem 5 sierpnia 1960 r. - niepodległość. Ponieważ pierwszy rząd młodego państwa afrykańskiego nie potrafił rozwiązać problemów narosłych w latach francuskiego panowania kolonialnego, w r. 1966 doszło do wojskowego zamachu stanu i na okres przejściowy władzę przejęła administracja wojskowa. Podjęła ona szereg kroków zmierzających do rozwoju kraju, jednak próba przekazania rządów w ręce cywilne nie powiodła się i w r. 1974 wojskowi ponownie objęli ster rządów.</p><p>U schyłku lat siedemdziesiątych w kraju zaczęto przygotowywać się do przekazania władzy w ręce rządu cywilnego; po wielomiesięcznej publicznej dyskusji 27 listopada 1977 r. odbyło się ogólnonarodowe referewndum na temat nowej konstytucji. W styczniu 1978 r. został zreorganizowany rząd i większość stanowisk w nim objęli politycy cywilni, w maju 1978 r. odbyły się wybory do nowego Zgromadzenia Narodowego. W listopadzie 1980 r. miał jednak miejsce następny wojskowy zamach stanu. Do kolejnego przewrotu wojskowego doszło w sierpniu 1983 r.</p>",
             "economy":"<p><strong>Gospodarka:</strong> Burkina Faso jest krajem rolniczym, podstawę jego gospodarki stanowi rolnictwo, w którym zatrudnione jest 81% zawodowo czynnej ludności. Przeważa grupowa własność ziemi. W Burkina Faso uprawia się proso, sorgo, orzeszki ziemne, kukurydzę, bawełnę, ryż i niektóre inne kultury. Rozwinięta jest produkcja zwierzęca.</p><p>Udział przemysłu w produkcie narodowym brutto nie przekracza 10%; najlepiej rozwinięta jest produkcja artykułów spożywczych i wyrobów włokienniczych; ważnym elementem gospodarki jest również przemysł wydobywczy, nastawiony na eksploatację złóż rudy manganu i pokładów wapienia. Wydobywa się również złoto.</p><p>Najważniejszymi partnerami handlowymi Burkina Faso jest są Francja, Wybrzeże Kości Słoniowej i Ghana. Eksport obejmuje przede wszystkim orzeszki ziemne, bawełnę oraz żywe bydło, w imporcie przeważają maszyny, produkty ropopochodne, żywność i tkaniny.</p>",
             "map":"<div id='map'><img src='maps/burkinafaso-min.jpg' alt='Burkina Faso map'></div>"
+        }
+    ],
+    "burundi": [
+        {   
+            "title":"<p><strong>BURUNDI</strong></p>",
+            "subtitle":"<p><strong>Republika Burundi</strong></p><p>Republika y&#700;Uburundi</p><p>R&#233;publique de Burundi</p>",
+            "position":"<p><strong>Położenie:</strong> Afryka równikowa, północno - zachodni brzeg jeziora Tanganika</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 27 834 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 8 prowincji</p>",
+            "capitol":"<p><strong>Stolica:</strong> Bujumbura (157 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Kitega (21 000 mieszk.)</p>",
+            "population":"<p><strong>Ludność:</strong> 4 300 000, z czego większość stanowią Afrykanie należą do grupy etnicznej Hutów (80% populacji), zaś 17% - Tubsi</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Większość powierzchni zajmuje wyżyna. Kraj przylega do jeziora Tanganika o powierzchni 32 893 km<sup>2</sup>, które jest drugim co do wielkości jeziorem afrykańskim. Klimat równikowy</p>",
+            "language":"<p><strong>Język urzędowy:</strong> rundi i francuski</p>",
+            "currency":"<p><strong>Waluta:</strong> Frank Burundi = 100 centymów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> W XVI w. na obszarze dzisiejszego Burundi powstało dość dobrze rozwinięte państwo feudalne, które okres swego największego rozkwitu przeżyło za panowania króla Ntare II (lata 1825 - 1852).</p><p>Przy podziale Afryki między mocarstwa imperialistyczne, na konferencji berlińskiej, w r. 1885 cesarskie Niemcy zapewniły sobie panowanie nad Burundi i sąsiednią Rwandą. W r. 1899 oba kraje pod nazwą Ruanda - Urundi zostały włączone do ówczesnej Niemieckiej Afryki Wschodniej. W czasie I wojny światowej w r. 1916 kraj został zajęty przez Belgów, a w 1923 r. stał się częśćią belgijskiego terytorium powierniczego Ruanda - Urundi. 1 lipca 1962 r. Burundi, podobnie jak sąsiednia Rwand, uzyskało niepodległość i stało się monarchią. 28 listopada 1966 r. monarchia została obalona, a kraj proklamowano republiką.</p><p>Niezdolność rządu do rozwiązywania nawarstwionych problemów społecznych i gospodarczych sprawiła, iz 1 listopada 1976 r. został on pozbawiony władzy. Rządy w kraju objęła Najwyższa Rada rewolucyjna, której celem jest zorganizowanie demokratycznego państwa oraz umocnienie jedności ludu Burundi i stworzenie materialnej bazy niepodległego rozwoju. Władzę ustawodawcza w Republice Burundi sprawuje jednoizbowe Zgromadzenie Narodwoe, złożone z 65 deputowanych, o 5 - letniej kadencji. Władzę wykonawczą pełni rząd powoływany przez prezydenta. Jedyną partią polityczną w kraju jest rządząca Partia Jedności i Rozwoju Narodowego (UPRONA), założona w 1959 r. jej pierwszy zjazd odbył się w końcu grudnia 1979 r.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Republika Burundi jest słabo rozwiniętym krajem rolniczym - statystyki ONZ zaliczają ją do 25 najuboższych państw świata. W produkcji rolnej, która dostarcza 95% artykułów eksportowych, zatrudnione jest 90% czynnej zawodowo ludności. Rolnictwo jest zacofane, przeważają w nim stosunki rodowe i feudalne. Rząd stara się przyspieszyć rozwój rolnictwa przy pomocy kapitału zagranicznego, głównie belgijskiego, zachodnioniemieckiego i francuskiego.</p><p>Na użytek wewnętrzny uprawia się przede wszystkim maniok, kukurydzę. sorgo, bataty, pszenicę, orzeszki ziemne i banany.</p><p>Najważniejszym towarem eksportowym jest kawa, której zbiory wynoszą ok. 20 tys. ton rocznie. Poza tym pod kątem eksportu uprawia się bawełnę, chinowiec, sizal, palmę oleistą i tytoń. Do tradycji należy hodowla bydła; bardzo duże znaczenie ma również rozwinięte rybołówstwo. Przemysł jest słabo rozwinięty, przeważają niewielkie zakłady przetwórcze, głównie przemysłu spożywczego i włókienniczego. Kraj ma sporo kopalinn użytecznych; występują tu rudy cyny, wolframu, baru, niobu i tantalu (kolumbit), beryl, a także złoto. Odkryto znaczenie złoża niklu i rudy uranu, które wzbudziło wielkie zainteresowanie zagranicznych, przede wszystkim amerykańskich spółek wydobywczych. Eksport obejmuje głównie artykuły rolne, w imporcie zaś przeważają maszyny, części zamienne, artykuły przemysłowe i włókiennicze. Najważniejszymi partnerami handlowymi Republiki Burundi są Tanzania, USA, Belgia, RFN i Japonia.</p>",
+            "map":"<div id='map'><img src='maps/burundi-min.jpg' alt='Burundi map'></div>"
+        }
+    ],
+    "ceuta": [
+        {   
+            "title":"<p><strong>CEUTA</strong></p>",
+            "subtitle":"<p><strong>Ceuta</strong></p><p>Ceuta</p><p>(Kolonia hiszpańska na północnym wybrzeżu Maroka)</p>",
+            "position":"<p><strong>Położenie:</strong> Północna afryka, nad Morzem Śródziemnym</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 19 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> Administracyjnie obszar ten przyłąćzony jest do hiszpańskiej prowincji Kadyks (C&#225;diz)</p>",
+            "capitol":"<p><strong>Stolica:</strong></p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+            "population":"<p><strong>Ludność:</strong> 68 000 mieszkańców, w większości pochodzenia hiszpańskiego i arabskiego</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong></p>",
+            "language":"<p><strong>Język urzędowy:</strong> hiszpański</p>",
+            "currency":"<p><strong>Waluta:</strong> Peseta = 100 centymów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> W r. 1415 Ceutę podporządkowali sobie Portugalczycy, a w r. 1580 przypadła w udziale Hiszpanii.</p><p>Do obszaru Ceuty rości pretensje Maroko.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Ceuta jest Portem wolnocłowym oraz hiszpańską bazą wojsokową. Przez terytorium to przebiega znaczna część tranzytowych linii komunikacyjnych z Hiszpanii do Maroka. Działają tu małe zakłady przemysłu spożywczego oraz stocznie. Handel zagraniczny nastawiony jest na Hiszpanię</p>",
+            "map":"<div id='map'><img src='maps/ceuta-min.jpg' alt='Ceuta map'></div>"
         }
     ]
 }
