@@ -638,9 +638,27 @@
             "naturalConditions":"<p><strong>Warunki naturalne:</strong> Przeważająca część powierzchni RPA zajmują wyżyny, przecinane pasmami górskimi. Kliamt na północy kraju tropikalny, w pozostałych częściach - podzwrotnikowy</p>",
             "language":"<p><strong>Język urzędowy:</strong> afrikaans i angielski</p>",
             "currency":"<p><strong>Waluta:</strong> Rand = 100 centów</p>",
-            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong></p>",
-            "economy":"<p><strong>Gospodarka:</strong></p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong>Kolonizację obszaru obecnej Republiki Południowej Afryki rozpoczęli Holendrzy w II poł. XVII w. Na początku XIX w. ma południe kontynentu afrykańskiego zaczynają przenikać Brytyjczycy, którzy staraja się  tu utrzymać wbrew pierwotnym kolonistom europejskim; w r. 1806 okupują Kraj Przylądkowy. Rywalizacja Wielkiej Brytanii z Holandią o panowanie kolonialne w południowej części Afryki osiągnęła punkt kulminacyjny w latach 1899 - 1902 w czasie wojny angielsko - burskiej, po której wszystkie tutejsze kolonie zostały połączone w Związek POłudniowej Afryki, który stał się dominium brytyjskim. W maju 1961 r. Związek Południowej Afryki wystąpił z brytyjskiej Wspólnoty Narodów i proklamował się samodzielną Republiką Południowej Afryki.</p><p>Głową państwa jest prezydent, mający rozległe uprawnienia. Całą władzę w RPA skupiła w swoich rękach biała mniejszość, która stanowi tylko 1/6 ludności kraju. Od r. 1948 realizowana jest tutaj oficjalnie polityka apartheidu - segregacji rasowej we wszystkich dziedzinach życia; rdzenna ludność murzyńska jest poddana bezwględnemu uciskowi - społecznemu, politycznemu i rasowemu.</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Republika Południowej Afryki jest rozwiniętym gospodarczo krajem przemysłowo - rolniczym. Przypada na nią 40% całej produkcji przemysłowej Afryki, 43% wydobycia minerałów oraz 80% wydobycia węgla na tym kontynencie. Ekonomiczna prosperity kraju oparta jest wyłącznie na nieograniczonym wyzysku ludności murzyńskiej. Różnica między płacą czarnego i białego robotnika w przemyśle górniczym wynosi 20,3 : 1; w innych gałęziach gospodarki Murzyni zarabiają 1/10 tego co biali.</p><p>Głównymi gałęziami przemysłu sa górnictwo i przemysł przetwórczy. Republika Południowej Afryki zajmuje pierwsze miejsce w świecie kapitalistycznym pod względem wydobycia złota, diamentów, platyny, manganu, chromu i antymonu, drugie - w produkcji wanadu, trzecie - w wydobyciu rudy uranu. Wysoko rozwinięty jest przemysł maszynowy, hutnictwo metali niezależnych oraz przemysł spożywczy. W ostatnich latach rozwinął się znacznie także przemysł chemiczny oraz produkcja pojazdów silnikowych. Silną pozycję zajmuje również przemysł zbrojeniowy. Dobrze rozwinięte jest też rolnictwo. Podstawową część produkcji rynkowej wutwarzają farmerzy pochodzenia europejskiego, do których należy 89% ziemi uprawnej. Przeważa hodowla owiec na pastwiskach; uprawia się kukurydzę, jęczmień, trzcinę cukrową, tytoń. Rolnicy pochodzenia murzyńskiego gospodarują tylko 11% ziemi (na ogół najgorszej jakości i w najmniej urodzajnych rejonach), ich gospodarka ma przeważnie charakter prymitywny). Najważniejsze towary eksportowe to złoto, diamenty, rudy, żelazo, stal, wełna i skóry. Republika Południowej Afryki importuje głównie ropę naftowę, produkty chemiczne, wyroby włókiennicze, maszyny i środki transportu. Głównymi partnerami handlowymi RPA są Wielka Brytania, USA, RFN, Japonia, Francja i Włochy.</p>",
             "map":"<div id='map'><img src='maps/rpa-min.jpg' alt='Republika Południowej Afryki map'></div>"
+        }
+    ],
+    "republikaśrodkowoafrykańska": [
+        {              
+            "title":"<p><strong>REPUBLIKA ŚRODKOWO - AFRYKAŃSKA</strong></p>",
+            "subtitle":"<p><strong>Republika Środkowoafrykańska</strong></p><p>R&#233;publique Centrafricaine</p>",
+            "position":"<p><strong>Położenie:</strong> Leży w głębi lądu w równikowej części kontynentu afrykańskiego</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 622 984 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 14 vprefektur</p>",
+            "capitol":"<p><strong>Stolica:</strong> Bangui (300 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Bouar (25 000 mieszk.), Bambari (25 000 mieszk.)</p>",
+            "population":"<p><strong>Ludność:</strong> 3 000 000, głównie ludy Banda, Baja, Mandia</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Terytorium kraju zajmuje wyżyna pokryta lasami, przechodzącymi na północy w sawanny. Na północnym wschodzie kraju zaczyna się pustynny rejon Sahary. Klimat tropikalny, na obszarach północnych - suchy</p>",
+            "language":"<p><strong>Język urzędowy:</strong> francuski</p>",
+            "currency":"<p><strong>Waluta:</strong> Frank CFA = 100 centymów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Republika Środkowoafrykańska jest dawną kolonią francuska; u schyłku XIX w. jej obszar pod nazwą Ubangi - Szari (od nazw dwóch głównych rzek przepływających przez ten obszar) stał sie protektoratem francuskim, a w r. 1910 został włączony do Francuskiej Afryki Równikowej. Po r. 1946 miał status terutorium zamorskiego Francji. W 12 lat później terytorium to pod nazwą Republika Środkowoafrykańska stało się państwem autonomicznym w ramach Wspólnoty Francuskiej.</p><p></p>",
+            "economy":"<p><strong>Gospodarka:</strong></p>",
+            "map":"<div id='map'><img src='maps/republikaśrodkowoafrykańska-min.jpg' alt='Republika Środkowo Afrykańska map'></div>"
         }
     ]
 }
