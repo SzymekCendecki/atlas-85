@@ -768,5 +768,23 @@
             "economy":"<p><strong>Gospodarka:</strong> Republika Sierra Leone jest państwem rolniczym o stosunkowo rozwiniętym przemyśle wydobywczym, który wytwarza ok. 1/3 globalnego produktu społecznego kraju. W jego gospodarce ważną pozycję zajmuje kapiał zagraniczny - przede wszystkim brytyjski i zachodnioniemiecki. Najbardziej rozwiniętą gałęzią jest górnictwo, nastawione przede wszystkim na eksploatację bogatych złóż diamentów. Poza tym wydobywa się rudę żelaza, chrom, boksyty i niektóre inne surowce. W Sierra Leone znajdują się największe na świecie złoża rutylu, do których eksploatacji dążą obecnie towarzystwa górnicze z USA i RFN.</p><p>Przemysł przetwórczy rozwinięty jest słabo; reprezentują go prtaktycznie tylko zakłady przemysłu spożwczego i drzewnego. W kraju jest również kilka fabryk towarów konsumpcyjnych, rafinerie ropy naftowej, planuje się budowę przedsiębiorstw przemysłu ciężkiego.</p><p>W produkcji rolnej zatrudnione jest 80% zawodowo czynnje ludności. Na użytek wewnętrzny uprawia się ryż, kukurydzę, proso, sorgo, bataty, maniok. Produkcja zwierzęca ma znaczenie drugorzędne.</p><p>Najważniejszymi partnerami handlowymi Sierra Leone są USA, Japonia, Holandia, Wielka Brytania i Francja. W imporcie przeważają artykuły żywnościowe i wyroby przemysłowe (maszyny, urządzenia, produkty naftowe itp.); eksport obejmuje diamenty, boksyty i inne surowce oraz produkty palmy oleistej/</p>",
             "map":"<div id='map'><img src='maps/sierraleone-min.jpg' alt='Sierra Leone map'></div>"
         }
+    ],
+    "somalia": [
+        {              
+            "title":"<p><strong>SOMALIA</strong></p>",
+            "subtitle":"<p><strong>Somalijska Republika Demokratyczna</strong></p><p>Jamhuuriyadda Dimograadiga Soomaaliya</p><p>Al - Dżumahurija ad - Dimukratija as - Somalija</p>",
+            "position":"<p><strong>Położenie:</strong> Najbardziej na wschód wysunięty cypel kontynentu afrykańskiego, zwany także niekiedy &bdquo;rogiem afrykańskim&rdquo;; przylega do Oceanu Indyjskiego i Zatoki Adeńskiej</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 637 657 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> 16 regionów</p>",
+            "capitol":"<p><strong>Stolica:</strong> Mogadiszu (350 000 mieszkańców)</p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> Merca (52 000 mieszk.), Hergeisa (50 000 mieszk.)</p>",
+            "population":"<p><strong>Ludność:</strong> 4 600 000, przeważnie ludy Somali, poza tym Arabowie i przedstawiciele niektórych innych narodowości</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> przeważnie część kraju pokrywa Wyżyna Somalijska, która wznosi się do wysokości 1 500 m n.p.m. Jej północny skraj przechodzi na zachodzie w górski masyw Warsanszeli, a na wschodzie w pasmo Midżurtini. Klimat gorący i suchy</p>",
+            "language":"<p><strong>Język urzędowy:</strong> somalijski (w powszechnym użyciu arabski, angielski i włoski)</p>",
+            "currency":"<p><strong>Waluta:</strong> Szyling somalijski = 100 centów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> W średniowieczu na ludność  somalijską wywierali dyży wpływ Arabowie, którzy w okresie od XII w. do XVI w. stworzyli tutaj kilka suyłtanatów. Później krajj znajdował się pod panowaniem Portugalczyków, a następnie, w XVIII w., przyłączono go do sułtanatu Omanu.</p><p>W połowie bieżącego stulecia Somalia (wówczas Somali) stała sie obiektem podbojów kolonialnych; w 1984 r. stworzyli tu swój protektorat Anglicy. a w r. 1889 rozpoczęli ekspansję z wybrzeża Włosi, którzy w 1908 r. ogłosili południowowschodnią część kraju swoją kolonią. Małą resztkę terytorium na północy kraju (obszar obecnej niepodległej Republiki Dżibuti) zajęli w r. 1896 Francuzi.</p><p>Dalsza historia podzielonego przez kolonizatorów Somali była nieprzerwanym pasmem powstań i innych przejawów ruchu narodowowyzwoleńczego, pod którego pr</p>",
+            "economy":"<p><strong>Gospodarka:</strong></p>",
+            "map":"<div id='map'><img src='maps/somalia-min.jpg' alt='Somalia map'></div>"
+        }
     ]
 }
