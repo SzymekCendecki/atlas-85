@@ -822,5 +822,23 @@
             "economy":"<p><strong>Gospodarka:</strong> Sudan jest słabo rozwiniętym krajem rolniczym; statystyki ONZ zaliczają go do 25 najuboższych państw świata. W produkcji rolnej, nastawionej jednostronnie na eksportową uprawę bawełny, zatrudnione jest 75% zawodowo czynnej ludności. Rolnictwo wytwarza 50% produktu społecznego brutto. W sferze gospodarczej rząd dąży głównie do rozwijania rolnictwa i przemysłu przetwórczego. Potrzebne inwestycje uzyskuje przede wszystkim z państw EWG i pozostałych krajów kapitalistycznych, co umożliwia zachodnim monopolom przenikanie do sudańskiej gospodarki narodowej.</p><p>Sudan jest największym na świecie producentem gumy arabskiej (80 - 85% produkcji światowej). Najważniejszą rośliną uprawną jest bawełna. Na użytek wewnętrzny uprawia się proso, sorgo, orzeszki ziemne, kukurydzę, pszenicę i ryż. Ważną rolę odgrywa hodowla bydła i wielbłądów. Przemysł wytwarza jedynie 9% produktu społecznego brutto. Najbardziej rozwinięty jest przemysł włókienniczy, obuwniczy i tytoniowy. Duże znaczenie dla gospodarki narodowej ma również przemysł wydobywczy. Najważniejszym artykułem eksportowym jest bawełna oraz guma arabska. Import obejmuje wyroby gotowe, towary przemysłowe i paliwa. Głównymi partnerami handlowymi Sudanu są Japonia, ChRL, RFN, Wielka Brytania, Holandia i USA.</p>",
             "map":"<div id='map'><img src='maps/suazi-min.jpg' alt='Suazi map'></div>"
         }
+    ],
+    "saintHelena": [
+        {   		
+			"title":"<p><strong>ŚWIĘTA KATARZYNA</strong></p>",
+            "subtitle":"<p><strong>Wyspa Świętej Heleny</strong></p><p>Saint Helen Island</p><p>(Kolonia brytyjska na Oceanie Alantyckim)</p>",
+            "position":"<p><strong>Położenie:</strong> Południowa część Oceanu Atlantyckiego, na zachód od Afryki</p>",
+            "area":"<p><strong>Powierzchnia:</strong> 419 km<sup>2</sup>, w tym Św. Helena 122 km<sup>2</sup></p>",
+            "adminDivision":"<p><strong>Podział administracyjny:</strong> Jedna całość administracyjna; do kolonii należy również oddalona o 1 100 km Wyspa Wniebowstąpienia (88 km<sup>2</sup>) i archipelag Tristan da Cunha (109 km<sup>2</sup>)</p><p><strong>Ośrodek administracyjny:</strong> Jamestown (1 600 mieszkańców)</p>",
+            "capitol":"<p><strong>Stolica:</strong> </p>",
+            "biggestCities":"<p><strong>Inne duże miasta:</strong> </p>",
+            "population":"<p><strong>Ludność:</strong> 7 000, głównie Brytyjczyczy; poza tym Afrykanie, Chińczycy, Hindusi i Malajczycy</p>",
+            "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wyspa pochodzenia wulkanicznego, górzysta</p>",
+            "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+            "currency":"<p><strong>Waluta:</strong> Funt szterling = 100 pensów</p>",
+            "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Wyspę odkryli w 1502 r. żeglare portugalscy; od r. 1834 jestkolonią brytyjską. Na czele kolonii stoi gubernator, mający do dyspozycji Radę Wykonawczą, a od r. 1968 również Radę Ustawodawczą</p>",
+            "economy":"<p><strong>Gospodarka:</strong> Ludność utrzymuje się głównie z rolnictwa, którego podstawę stanowi uprawa lnu i hodowla bydła. Na wyspie znajduje się kilka zakładów przetwórstwa lnu i fabryka lin okrętowych. Eksport obejmuje wyroby powroźnicze, import żywność i towary przemysłowe.</p>",
+            "map":"<div id='map'><img src='maps/saintHelena-min.jpg' alt='Saint Helena map'></div>"
+        }
     ]
 }
