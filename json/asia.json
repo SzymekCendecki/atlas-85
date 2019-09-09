@@ -120,5 +120,23 @@
         "economy":"<p><strong>Gospodarka:</strong> Birma jest krajem rolniczym o rozwijającym się przemyśle. W gospodarce (przemyśle naftowym, wydobywczym, drzewnym i tytoniowym) dominującą rolę odgrywa sektor państwowy. W Birmie znajdują się duże pokłady rud wolframu, cynku, cyny, ołowiu, srebra, złota, rudy żelaza, ropy naftowej i gazu ziemnego.</p><p>Po przejęciu władzy przez Radę Rewolucyjną w marcu 1962 r. konsekwentnie usunięto kapitał zagraniczny z pozycji, ajkie zajmował w gospodarce birmańskiej. Jednocześnie upaństwowiono wiele przedsiębiorstw należących do rodzimej burżuazji.</p><p>W chwili obecnej sektor państwowy wytwarza w przybliżeniu połowę krajowej produkcji przemysłowej. Najważniejsze gałęzie to wydobycie i przerób ropy naftowej, przemysł wydobywczy, drzewny i włókienniczy. W kraju znajduje się kilka dość dużych cementowni, cukrowni, wytwórni farmaceutycznych, fabryk nawozów sztucznych oraz zakładów przemysłu spożywczego. Najważniejszą dziedziną gospodarki narodowej jest produkcja rolna, w której pracuje 51% zawodowo czynnej ludności. Ziemie rolnicze zajmują ok. 16,25 mln ha, z czego wykorzystuje się mniej więcej połowę. Uprawia się przede wszystkim ryż, następnie trzcinę cukrową, rośliny strączkowe, orzeszki ziemne, bawełnę, tytoń i niektóre inne rośliny. Dość dobrze rozwinięta jest również hodowla bydła.</p>",
         "map":"<div id='map'><img src='maps/birma-min.jpg' alt='Birma map'></div>"
        }
+   ],
+   "brunei": [
+       {   
+        "title":"<p><strong>BRUNEI</strong></p>",
+        "subtitle":"<p><strong>Sułtanat Brunei</strong></p><p>Negara Brunei Dar - es - Salam</p>",
+        "position":"<p><strong>Położenie:</strong> Północno - zachodnie wybrzeże wyspy Kalimantan (Borneo)</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 5 765 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> 4 okręgi</p>",
+        "capitol":"<p><strong>Stolica:</strong> Bandar Seri Begawan (75 000 mieszkańców)</p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong> Seria (22 000 mieszk.), Kuala Belait (5 000 mieszk.)</p>",
+        "population":"<p><strong>Ludność:</strong> 213 000. 50% populacji stanowią Malajowie, a 25% - Chińczycy; poza tym mieszkaja tu Hindusi oraz przedstawiciele innych narodowości</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Powierzchnia Brunei jest przeważnie równinna, tylko zachodnia część kraju jest górzysta. Klimat wilgotny i gorący</p>",
+        "language":"<p><strong>Język urzędowy:</strong> malajski i angielski</p>",
+        "currency":"<p><strong>Waluta:</strong> Dolar Brunei = 100 centów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Terytorium dzisiejszego Brunei do XV w. stanowiło część indonezyjskiego królestwa Majapahit. W XV w. powstał tu sułtanat, którego największy rozkwit przypada na w. XVI. W tym czasie region ten zaczynają penetrować europejskie mocarstwa kolonialne. W r. 1580 na krótko opnaowuja go Hiszpanie, wkrótce jednak wypierają ich Anglicy, których wpływy umacniają się do tego stopnia, że w r. 1888 sułtanat Brunei staje się protektoratem brytyjskim.</p><p>W 1959 r. Londyn przyznał Brunei częściową autonomią wewnętrzną, a w r. 1971 - całkowitą autonomię wewnętrzną. 1 stycznia 1984 r. kraj uzyskał niepodległość. Jego nazwa została zmieniona na Negara Brunei Dar - es - Salam (Państwo Brunei - Kraj Pokoju). Głową państwa jest sułtan, którego organem doradczym jest m. in. Rada Ustawodawcza, licząca 21 członków. (5 z urzędu, 5 powoływanych przez sułtana i 10 wyłanianych w wyborach powszechnych). Partie polityczne nie istnieją.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Ekonomika Brunei opiera się na eksploatacji bogatych złóż ropy naftowej i gazu ziemnego. Wydobycie ropy znajduje się w rękach Brunei Shell Petroleum Company - filii brytyjskiego koncernu Royal Dutych Shell. Podd względem wydobycia ropy naftowej kraj zajmuje 23, a pod względem wydobycia gazu ziemnego - 4 miejsce na świecie. Eksploatacja bogactw naturalnych przynosi roczny dochód w wysokości 3 mld dolarów. Do celów rolniczych wykorzystuje się praktycznie tylko 10% powierzchni kraju. Uprawia się głównie ryż, kawę, kakao, palmę kokosową, trzcinę cukrową i tytoń. Produkcja rolna nie zaspokaja potrzeb wewnętrznych, w związku z czym Brunei musi importować 80% artykułó spożywczych (łącznie z ryżem). Głównym towarem eksportowym jest ropa naftowa.</p>",
+        "map":"<div id='map'><img src='maps/brunei-min.jpg' alt='Brunei map'></div>"
+       }
    ]
 }
