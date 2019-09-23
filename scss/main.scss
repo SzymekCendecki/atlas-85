@@ -9,7 +9,14 @@ html, body{
   height: 100%;
 }
 
+#mainContainer{
+  width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
 header, footer{
+  width: 100%;
   height: 10%;
   display: flex;
   align-items: center;
@@ -23,19 +30,35 @@ h1{
   font-family: 'Righteous', cursive;
 }
 
+nav{
+  width: 15%;
+}
+
+#description{
+  width: 85%;
+  display: flex;
+  flex-wrap: wrap;
+
+  p {
+    width: 100%;
+  }
+}
+
+nav, #description{
+  height: 80%;
+}
+
 footer{
   font-family: 'Coiny', cursive;
 }
 
-#map{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  align-content: center;
 
+//stylowanie mapki
+#map{
+ width: 50%;
 }
 
 img{
-  max-width: 80%;
+  max-width: 100%;
   height: auto;
 }

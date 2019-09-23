@@ -80,7 +80,7 @@ module.exports = __webpack_require__(1);
 document.addEventListener("DOMContentLoaded", function () {
 
     function showCountry(country) {
-        $("#mainContainer").append(country.title, country.subtitle, country.position, country.area, country.adminDivision, country.capitol, country.biggestCities, country.population, country.naturalConditions, country.language, country.currency, country.historyPoliticalSystem, country.economy, country.map);
+        $("#description").append(country.title, country.subtitle, country.position, country.area, country.adminDivision, country.capitol, country.biggestCities, country.population, country.naturalConditions, country.language, country.currency, country.historyPoliticalSystem, country.economy, country.map);
     }
 
     $.ajax({
