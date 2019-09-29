@@ -79,6 +79,10 @@ module.exports = __webpack_require__(1);
 
 document.addEventListener("DOMContentLoaded", function () {
 
+    $("#mainMenu").on("click", function () {
+        $("#mainList").toggleClass("hide");
+    });
+
     function showCountry(country) {
         $("#description").append(country.title, country.subtitle, country.position, country.area, country.adminDivision, country.capitol, country.biggestCities, country.population, country.naturalConditions, country.language, country.currency, country.historyPoliticalSystem, country.economy, country.map);
     }
