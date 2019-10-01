@@ -42,21 +42,18 @@ footer{
 
 
 //stylowanie mapki
-#map{
- width: 50%;
-}
 
 img{
-  max-width: 100%;
+  width: 100%;
   height: auto;
 }
 
 
 @media screen and ( max-width: 600px ){
-
   header{
     margin: 0 auto;
   }
+
   h1{
     width: 100%;
     font-size: 120%;
@@ -105,14 +102,14 @@ img{
   p{
     width: 100%;
   }
-
-  img{
-    width: 100%;
-  }
-
   body{
-    background: rgb(3, 252, 190); 
-    
+    background: rgb(122, 153, 240); 
   }
 
+}
+
+@media screen and ( min-width: 600px ){
+  body{
+    background: #A912EB; 
+  }
 }
