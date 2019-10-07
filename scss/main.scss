@@ -9,7 +9,6 @@ html, body{
   height: 100%;
 }
 
-
 header, footer{
   width: 100%;
   height: 10%;
@@ -40,6 +39,23 @@ footer{
   visibility: hidden;
 }
 
+.green{
+  background: greenyellow;
+}
+
+.red{
+  background: red;
+}
+
+.fontSize130p{
+  font-size: 130%;
+}
+
+#europe{
+  width: 100%;
+  height: 25px;
+}
+
 
 //stylowanie mapki
 
@@ -67,10 +83,13 @@ img{
     width: 90%;
     margin: 0 auto;
     text-align: center;
-    list-style-type: none;
     font-weight: bold;
     display: flex;
     flex-wrap: wrap;
+  }
+
+  #mainList, #subListEurope{
+    list-style-type: none;
   }
 
   //button mainMenu
