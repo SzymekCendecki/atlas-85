@@ -92,14 +92,18 @@ document.addEventListener("DOMContentLoaded", function () {
         $("#description").append(country.title, country.subtitle, country.position, country.area, country.adminDivision, country.capitol, country.biggestCities, country.population, country.naturalConditions, country.language, country.currency, country.historyPoliticalSystem, country.economy, country.map);
     }
 
-    $.ajax({
-        url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
-        type: 'GET',
-        dataType: 'json'
-    }).done(function (data) {
-        showCountry(data.ireland[0]);
-    }).fail(function () {
-        console.log("coś nie bangla...");
+    $("#irleand").on("click", function () {
+        $.ajax({
+            url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
+            type: 'GET',
+            dataType: 'json'
+        }).done(function (data) {
+            showCountry(data.ireland[0]);
+            $("#subListEurope").toggleClass("hide");
+            $("#mainList").toggleClass("hide");
+        }).fail(function () {
+            console.log("coś nie bangla...");
+        });
     });
 });
 
