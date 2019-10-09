@@ -89,8 +89,121 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     function showCountry(country) {
+        $("#description").empty();
         $("#description").append(country.title, country.subtitle, country.position, country.area, country.adminDivision, country.capitol, country.biggestCities, country.population, country.naturalConditions, country.language, country.currency, country.historyPoliticalSystem, country.economy, country.map);
     }
+
+    $("#albania").on("click", function () {
+        $.ajax({
+            url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
+            type: 'GET',
+            dataType: 'json'
+        }).done(function (data) {
+            showCountry(data.albania[0]);
+            $("#subListEurope").toggleClass("hide");
+            $("#mainList").toggleClass("hide");
+        }).fail(function () {
+            console.log("coś nie bangla...");
+        });
+    });
+
+    $("#andorra").on("click", function () {
+        $.ajax({
+            url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
+            type: 'GET',
+            dataType: 'json'
+        }).done(function (data) {
+            showCountry(data.andorra[0]);
+            $("#subListEurope").toggleClass("hide");
+            $("#mainList").toggleClass("hide");
+        }).fail(function () {
+            console.log("coś nie bangla...");
+        });
+    });
+
+    $("#austria").on("click", function () {
+        $.ajax({
+            url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
+            type: 'GET',
+            dataType: 'json'
+        }).done(function (data) {
+            showCountry(data.austria[0]);
+            $("#subListEurope").toggleClass("hide");
+            $("#mainList").toggleClass("hide");
+        }).fail(function () {
+            console.log("coś nie bangla...");
+        });
+    });
+
+    $("#belgium").on("click", function () {
+        $.ajax({
+            url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
+            type: 'GET',
+            dataType: 'json'
+        }).done(function (data) {
+            showCountry(data.belgium[0]);
+            $("#subListEurope").toggleClass("hide");
+            $("#mainList").toggleClass("hide");
+        }).fail(function () {
+            console.log("coś nie bangla...");
+        });
+    });
+
+    $("#westernBerlin").on("click", function () {
+        $.ajax({
+            url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
+            type: 'GET',
+            dataType: 'json'
+        }).done(function (data) {
+            showCountry(data.westernBerlin[0]);
+            $("#subListEurope").toggleClass("hide");
+            $("#mainList").toggleClass("hide");
+        }).fail(function () {
+            console.log("coś nie bangla...");
+        });
+    });
+
+    $("#bulgaria").on("click", function () {
+        $.ajax({
+            url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
+            type: 'GET',
+            dataType: 'json'
+        }).done(function (data) {
+            showCountry(data.bulgaria[0]);
+            $("#subListEurope").toggleClass("hide");
+            $("#mainList").toggleClass("hide");
+        }).fail(function () {
+            console.log("coś nie bangla...");
+        });
+    });
+
+    $("#czechoslovakia").on("click", function () {
+        $.ajax({
+            url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
+            type: 'GET',
+            dataType: 'json'
+        }).done(function (data) {
+            showCountry(data.czechoslovakia[0]);
+            $("#subListEurope").toggleClass("hide");
+            $("#mainList").toggleClass("hide");
+        }).fail(function () {
+            console.log("coś nie bangla...");
+        });
+    });
+
+    $("#denmark").on("click", function () {
+        $.ajax({
+            url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
+            type: 'GET',
+            dataType: 'json'
+        }).done(function (data) {
+            showCountry(data.denmark[0]);
+            $("#subListEurope").toggleClass("hide");
+            $("#mainList").toggleClass("hide");
+        }).fail(function () {
+            console.log("coś nie bangla...");
+        });
+    });
 
     $("#irleand").on("click", function () {
         $.ajax({
