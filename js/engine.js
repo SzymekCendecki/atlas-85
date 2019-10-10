@@ -77,6 +77,8 @@ module.exports = __webpack_require__(1);
 "use strict";
 
 
+var _functions = __webpack_require__(3);
+
 document.addEventListener("DOMContentLoaded", function () {
 
     $("#mainMenu").on("click", function () {
@@ -88,18 +90,13 @@ document.addEventListener("DOMContentLoaded", function () {
         $("#europe").toggleClass("red");
     });
 
-    function showCountry(country) {
-        $("#description").empty();
-        $("#description").append(country.title, country.subtitle, country.position, country.area, country.adminDivision, country.capitol, country.biggestCities, country.population, country.naturalConditions, country.language, country.currency, country.historyPoliticalSystem, country.economy, country.map);
-    }
-
     $("#albania").on("click", function () {
         $.ajax({
             url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
             type: 'GET',
             dataType: 'json'
         }).done(function (data) {
-            showCountry(data.albania[0]);
+            (0, _functions.showCountry)(data.albania[0]);
             $("#subListEurope").toggleClass("hide");
             $("#mainList").toggleClass("hide");
         }).fail(function () {
@@ -113,7 +110,7 @@ document.addEventListener("DOMContentLoaded", function () {
             type: 'GET',
             dataType: 'json'
         }).done(function (data) {
-            showCountry(data.andorra[0]);
+            (0, _functions.showCountry)(data.andorra[0]);
             $("#subListEurope").toggleClass("hide");
             $("#mainList").toggleClass("hide");
         }).fail(function () {
@@ -127,7 +124,7 @@ document.addEventListener("DOMContentLoaded", function () {
             type: 'GET',
             dataType: 'json'
         }).done(function (data) {
-            showCountry(data.austria[0]);
+            (0, _functions.showCountry)(data.austria[0]);
             $("#subListEurope").toggleClass("hide");
             $("#mainList").toggleClass("hide");
         }).fail(function () {
@@ -141,7 +138,7 @@ document.addEventListener("DOMContentLoaded", function () {
             type: 'GET',
             dataType: 'json'
         }).done(function (data) {
-            showCountry(data.belgium[0]);
+            (0, _functions.showCountry)(data.belgium[0]);
             $("#subListEurope").toggleClass("hide");
             $("#mainList").toggleClass("hide");
         }).fail(function () {
@@ -155,7 +152,7 @@ document.addEventListener("DOMContentLoaded", function () {
             type: 'GET',
             dataType: 'json'
         }).done(function (data) {
-            showCountry(data.westernBerlin[0]);
+            (0, _functions.showCountry)(data.westernBerlin[0]);
             $("#subListEurope").toggleClass("hide");
             $("#mainList").toggleClass("hide");
         }).fail(function () {
@@ -169,7 +166,7 @@ document.addEventListener("DOMContentLoaded", function () {
             type: 'GET',
             dataType: 'json'
         }).done(function (data) {
-            showCountry(data.bulgaria[0]);
+            (0, _functions.showCountry)(data.bulgaria[0]);
             $("#subListEurope").toggleClass("hide");
             $("#mainList").toggleClass("hide");
         }).fail(function () {
@@ -183,7 +180,7 @@ document.addEventListener("DOMContentLoaded", function () {
             type: 'GET',
             dataType: 'json'
         }).done(function (data) {
-            showCountry(data.czechoslovakia[0]);
+            (0, _functions.showCountry)(data.czechoslovakia[0]);
             $("#subListEurope").toggleClass("hide");
             $("#mainList").toggleClass("hide");
         }).fail(function () {
@@ -197,7 +194,7 @@ document.addEventListener("DOMContentLoaded", function () {
             type: 'GET',
             dataType: 'json'
         }).done(function (data) {
-            showCountry(data.denmark[0]);
+            (0, _functions.showCountry)(data.denmark[0]);
             $("#subListEurope").toggleClass("hide");
             $("#mainList").toggleClass("hide");
         }).fail(function () {
@@ -211,7 +208,7 @@ document.addEventListener("DOMContentLoaded", function () {
             type: 'GET',
             dataType: 'json'
         }).done(function (data) {
-            showCountry(data.ireland[0]);
+            (0, _functions.showCountry)(data.ireland[0]);
             $("#subListEurope").toggleClass("hide");
             $("#mainList").toggleClass("hide");
         }).fail(function () {
@@ -219,6 +216,23 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     });
 });
+
+/***/ }),
+/* 2 */,
+/* 3 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+    value: true
+});
+exports.showCountry = showCountry;
+function showCountry(country) {
+    $("#description").empty();
+    $("#description").append(country.title, country.subtitle, country.position, country.area, country.adminDivision, country.capitol, country.biggestCities, country.population, country.naturalConditions, country.language, country.currency, country.historyPoliticalSystem, country.economy, country.map);
+}
 
 /***/ })
 /******/ ]);

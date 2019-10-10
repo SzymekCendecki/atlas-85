@@ -1,3 +1,5 @@
+import {showCountry} from './functions.js';
+
 document.addEventListener("DOMContentLoaded", () => {
 
     $("#mainMenu").on("click", ()=>{
@@ -9,12 +11,6 @@ document.addEventListener("DOMContentLoaded", () => {
         $("#europe").toggleClass("red");
     });
 
-
-    function showCountry(country){
-        $("#description").empty();
-        $("#description").append(country.title, country.subtitle, country.position, country.area, country.adminDivision, country.capitol, country.biggestCities, 
-        country.population, country.naturalConditions, country.language, country.currency, country.historyPoliticalSystem, country.economy, country.map);
-    }
 
     $("#albania").on("click", ()=>{
         $.ajax({
