@@ -353,7 +353,7 @@
         }
     ],
 
-    "luksemburg": [
+    "luxembourg": [
         {
             "title":"<p><strong>LUKSEMBURG/strong></p>",
             "subtitle":"<p><strong>Wielkie Księstwo Luksemburga</strong></p><p>Grossherzogtum Luxemburg</p><p>Grand-Duch&#233; de Luksembourg</p><p>Grousherzogdem Lezebuurg</p>",
@@ -410,7 +410,7 @@
         }
     ],
 
-    "nrd": [
+    "eastGermany": [
         {
             "title":"<p><strong>NIEMIECKA REPUBLIKA DEMOKRATYCZNA</strong></p>",
             "subtitle":"<p><strong></strong>Niemiecka Republika Demokratyczna</p><p>Deutche Demokratische Republik</p>",
@@ -486,7 +486,7 @@
         }
     ],
 
-    "rfn": [
+    "westGermany": [
         {
             "title":"<p><strong>REPUBLIKA FEDERALNA NIEMIEC</strong></p>",
             "subtitle":"<p><strong>Republika Federalna Niemiec</strong></p><p>Bundesrepublik Deutschland</p>",
@@ -524,7 +524,7 @@
         }
     ],
 
-    "sanmarino": [
+    "sanMarino": [
         {
             "title":"<p><strong>SAN MARINO</strong></p>",
             "subtitle":"<p><strong>Republika San Marino</strong></p><p>La Serenissima Repubblica di San Marino</p>",
@@ -619,7 +619,7 @@
         }
     ],
 
-    "greatbritain": [
+    "england": [
         {       
             "title":"<p><strong>WIELKA BRYTANIA</strong></p>",
             "subtitle":"<p><strong>Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej</strong></p><p>United Kindom of Great Britain and Northern Ireland</p>",
@@ -657,7 +657,7 @@
         }
     ],
 
-    "zsrr": [
+    "cccp": [
         {       
              "title":"<p><strong>ZWIĄZEK RADZIECKI</strong></p>",
             "subtitle":"<p><strong>Związek Socjalistycznych Republik Radzieckich</strong></p><p>Sojuz Sowietskich Socyalisticzeskich Riespublik</p>",
