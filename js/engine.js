@@ -93,10 +93,25 @@ document.addEventListener("DOMContentLoaded", function () {
     var x = document.querySelectorAll("#subListEurope > li");
     console.log(x);
 
+    var europeArray = [];
+
     for (var i = 0; i < x.length; i++) {
         var y = $(x[i]).attr("id");
         console.log(y);
     }
+
+    $.ajax({
+        url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
+        type: 'GET',
+        dataType: 'json'
+    }).done(function (data) {
+        $.each(data, function (i, item) {
+            europeArray.push(item);
+        });
+        console.log(europeArray);
+    }).fail(function () {
+        console.log("coś nie bangla...");
+    });
 
     $("#albania").on("click", function () {
         $.ajax({

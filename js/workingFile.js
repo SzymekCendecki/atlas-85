@@ -14,11 +14,28 @@ document.addEventListener("DOMContentLoaded", () => {
     let x = document.querySelectorAll("#subListEurope > li");
     console.log(x);
 
+    const europeArray = [];
+
     for(let i=0; i<x.length; i++){
         let y = $(x[i]).attr("id");     
         console.log(y);        
     }
-    
+
+
+      $.ajax({
+        url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
+        type: 'GET',
+        dataType: 'json'
+    }).done((data) => {  
+        $.each(data, function(i, item) {
+            europeArray.push(item);            
+        });
+        console.log(europeArray);
+    }).fail(()=>{ 
+        console.log("coś nie bangla..."); 
+    }); 
+
+        
     $("#albania").on("click", ()=>{
         $.ajax({
             url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
