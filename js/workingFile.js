@@ -11,31 +11,37 @@ document.addEventListener("DOMContentLoaded", () => {
         $("#europe").toggleClass("red");
     });
 
-    let x = document.querySelectorAll("#subListEurope > li");
-    console.log(x);
+    const europeArrayJson = [];
 
-    const europeArray = [];
+    const europeArray = ["europeDescription", "albania", "andorra", "austria", "belgium", "westernBerlin", "bulgaria", "czechoslovakia", "denmark", "finland", "france", "gibraltar", "greece", "spain", "holland", "ireland", "iceland", "yugoslavia", "liechtenstein", "luxembourg", "malta", "monaco", "eastGermany", "norway", "poland", "portugal", "westGermany", "romania", "sanMarino", "switzerland", "sweden", "vatican", "hungary", "england", "italy", "cccp"];
 
-    for(let i=0; i<x.length; i++){
-        let y = $(x[i]).attr("id");     
-        console.log(y);        
-    }
+    console.log(europeArray);
 
-
-      $.ajax({
+    $.ajax({
         url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
         type: 'GET',
         dataType: 'json'
     }).done((data) => {  
         $.each(data, function(i, item) {
-            europeArray.push(item);            
+            europeArrayJson.push(item);            
         });
-        console.log(europeArray);
+        console.log(europeArrayJson);
+        console.log(europeArrayJson[0][0].title);
+
+        for(let i=0; i<europeArray.length; i++){
+                      
+            $("#"+ europeArray[i]).on("click", ()=>{
+                console.log(europeArray[i]);
+    
+                //$("#subListEurope").toggleClass("hide");
+                //$("#mainList").toggleClass("hide");
+            });
+            
+        }
     }).fail(()=>{ 
         console.log("coś nie bangla..."); 
     }); 
 
-        
     $("#albania").on("click", ()=>{
         $.ajax({
             url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
@@ -119,7 +125,7 @@ document.addEventListener("DOMContentLoaded", () => {
             console.log("coś nie bangla..."); 
         });  
     });    
-
+   
     $("#czechoslovakia").on("click", ()=>{
         $.ajax({
             url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
@@ -161,7 +167,7 @@ document.addEventListener("DOMContentLoaded", () => {
             console.log("coś nie bangla..."); 
         });  
     });    
-
+   
     $("#france").on("click", ()=>{
         $.ajax({
             url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
@@ -203,7 +209,7 @@ document.addEventListener("DOMContentLoaded", () => {
             console.log("coś nie bangla..."); 
         });  
     });    
-
+   
     $("#spain").on("click", ()=>{
         $.ajax({
             url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
@@ -231,7 +237,7 @@ document.addEventListener("DOMContentLoaded", () => {
             console.log("coś nie bangla..."); 
         });  
     });    
-
+    
     $("#irleand").on("click", ()=>{
         $.ajax({
             url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
@@ -286,7 +292,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }).fail(()=>{ 
             console.log("coś nie bangla..."); 
         });  
-    });    
+    });   
 
     $("#luxembourg").on("click", ()=>{
         $.ajax({
@@ -385,7 +391,7 @@ document.addEventListener("DOMContentLoaded", () => {
             console.log("coś nie bangla..."); 
         });  
     });   
-
+   
     $("#westGermany").on("click", ()=>{
         $.ajax({
             url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
@@ -426,7 +432,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }).fail(()=>{ 
             console.log("coś nie bangla..."); 
         });  
-    });   
+    });    
 
     $("#switzerland").on("click", ()=>{
         $.ajax({

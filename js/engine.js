@@ -90,15 +90,11 @@ document.addEventListener("DOMContentLoaded", function () {
         $("#europe").toggleClass("red");
     });
 
-    var x = document.querySelectorAll("#subListEurope > li");
-    console.log(x);
+    var europeArrayJson = [];
 
-    var europeArray = [];
+    var europeArray = ["europeDescription", "albania", "andorra", "austria", "belgium", "westernBerlin", "bulgaria", "czechoslovakia", "denmark", "finland", "france", "gibraltar", "greece", "spain", "holland", "ireland", "iceland", "yugoslavia", "liechtenstein", "luxembourg", "malta", "monaco", "eastGermany", "norway", "poland", "portugal", "westGermany", "romania", "sanMarino", "switzerland", "sweden", "vatican", "hungary", "england", "italy", "cccp"];
 
-    for (var i = 0; i < x.length; i++) {
-        var y = $(x[i]).attr("id");
-        console.log(y);
-    }
+    console.log(europeArray);
 
     $.ajax({
         url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
@@ -106,9 +102,24 @@ document.addEventListener("DOMContentLoaded", function () {
         dataType: 'json'
     }).done(function (data) {
         $.each(data, function (i, item) {
-            europeArray.push(item);
+            europeArrayJson.push(item);
         });
-        console.log(europeArray);
+        console.log(europeArrayJson);
+        console.log(europeArrayJson[0][0].title);
+
+        var _loop = function _loop(i) {
+
+            $("#" + europeArray[i]).on("click", function () {
+                console.log(europeArray[i]);
+
+                //$("#subListEurope").toggleClass("hide");
+                //$("#mainList").toggleClass("hide");
+            });
+        };
+
+        for (var i = 0; i < europeArray.length; i++) {
+            _loop(i);
+        }
     }).fail(function () {
         console.log("coś nie bangla...");
     });
