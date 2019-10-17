@@ -51,7 +51,7 @@ footer{
   font-size: 130%;
 }
 
-#europe{
+#europe, #africa{
   width: 100%;
   height: 25px;
 }
@@ -92,7 +92,7 @@ img{
     background: rgba(0, 0, 0, 0.8);
   }
 
-  #mainList, #subListEurope{
+  #mainList, #subListEurope, #subListAfrica{
     list-style-type: none;
   }
 
