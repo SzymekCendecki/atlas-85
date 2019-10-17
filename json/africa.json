@@ -157,7 +157,7 @@
             "map":"<div id='map'><img src='maps/czad-min.jpg' alt='Czad map'></div>"
         }
     ],
-    "dżibuti": [
+    "djibouti": [
         {   
             "title":"<p><strong>DŻIBUTI</strong></p>",
             "subtitle":"<p><strong>Republika Dżibuti</strong></p><p>R&#233;publique de Djibouti</p><p>Dżumhurijat Dżibuti</p>",
@@ -175,7 +175,7 @@
             "map":"<div id='map'><img src='maps/dżibuti-min.jpg' alt='Dżibuti map'></div>"
         }
     ],
-    "egipt": [
+    "egypt": [
         {   
             "title":"<p><strong>EGIPT</strong></p>",
             "subtitle":"<p><strong>Egipt Republika Arabska</strong></p><p>Dżumhurija Misr al - Arabija</p>",
@@ -193,7 +193,7 @@
             "map":"<div id='map'><img src='maps/egipt-min.jpg' alt='Egipt map'></div>"
         }
     ],
-    "etiopia": [
+    "ethiopia": [
         {   
             "title":"<p><strong>ETIOPIA</strong></p>",
             "subtitle":"<p><strong>Socjalistyczna Etiopia</strong></p><p>Hybretesebawit Itjopja</p>",
@@ -265,7 +265,7 @@
             "map":"<div id='map'><img src='maps/ghana-min.jpg' alt='Ghana map'></div>"
         }
     ],
-    "gwinea": [
+    "guinea": [
         {              
             "title":"<p><strong>GWINEA</strong></p>",
             "subtitle":"<p><strong>Ludowo - Rewolucyjna Republika Gwinei</strong></p><p>R&#233;publique Populaire et R&#233;volutionnaire de Guin&#233;e</p>",
@@ -283,7 +283,7 @@
             "map":"<div id='map'><img src='maps/gwinea-min.jpg' alt='Gwinea map'></div>"
         }
     ],
-    "gwinearównikowa": [
+    "equatorialGuinea": [
         {              
             "title":"<p><strong>GWINEA RÓWNIKOWA</strong></p>",
             "subtitle":"<p><strong>Republika Gwinei Równikowej</strong></p><p>Rep&#250;blica de la Guinea Ecuatorial</p>",
@@ -301,7 +301,7 @@
             "map":"<div id='map'><img src='maps/gwinearównikowa-min.jpg' alt='Gwinea Równikowa map'></div>"
         }
     ],
-    "kamerun": [
+    "cameroon": [
         {              
             "title":"<p><strong>KAMERUN</strong></p>",
             "subtitle":"<p><strong>Republika Kamerunu</strong></p><p>R&#233;publique du Cameroun</p><p>Republic of Cameroon</p>",
@@ -319,7 +319,7 @@
             "map":"<div id='map'><img src='maps/kamerun-min.jpg' alt='Kamerun map'></div>"
         }
     ],
-    "kenia": [
+    "kenya": [
         {              
             "title":"<p><strong>KENIA</strong></p>",
             "subtitle":"<p><strong>Republika Kenii</strong></p><p>Jamhuri ya Kenya</p><p>Republic of Kenya</p>",
@@ -337,7 +337,7 @@
             "map":"<div id='map'><img src='maps/kenia-min.jpg' alt='Kenia map'></div>"
         }
     ],
-    "komory": [
+    "comoros": [
         {              
             "title":"<p><strong>KOMORY</strong></p>",
             "subtitle":"<p><strong>Federalna Islamska Republika Komorów</strong></p><p>R&#233;publique F&#233;d&#233;rale et Islamique des Comores</p>",
@@ -391,7 +391,7 @@
             "map":"<div id='map'><img src='maps/lesotho-min.jpg' alt='Lesotho map'></div>"
         }
     ],
-    "liberia": [
+    "livery": [
         {              
             "title":"<p><strong>LIBERIA</strong></p>",
             "subtitle":"<p><strong>Republika Liberyjska</strong></p><p>Republic of Liberia</p>",
@@ -409,7 +409,7 @@
             "map":"<div id='map'><img src='maps/liberia-min.jpg' alt='Liberia map'></div>"
         }
     ],
-    "libia": [
+    "libya": [
         {              
             "title":"<p><strong>LIBIA</strong></p>",
             "subtitle":"<p><strong>Libijska Arabska Dżamahirija Ludowo - Socjalistyczna</strong></p><p>Al - Dżamahirija al - Arabija al - Libija asz Szaabija al - Isztirakija</p>",
@@ -427,7 +427,7 @@
             "map":"<div id='map'><img src='maps/libia-min.jpg' alt='Libia map'></div>"
         }
     ],
-    "madagaskar": [
+    "madagascar": [
         {              
             "title":"<p><strong>MADAGASKAR</strong></p>",
             "subtitle":"<p><strong>Demokratyczna Republika Madagaskaru</strong></p><p>Repoblika Demokratika Malagasy Republique</p><p>D&#233;mocratique de Madagascar</p>",
@@ -481,7 +481,7 @@
             "map":"<div id='map'><img src='maps/mali-min.jpg' alt='Mali map'></div>"
         }
     ],
-    "maroko": [
+    "morocco": [
         {              
             "title":"<p><strong>MAROKO</strong></p>",
             "subtitle":"<p><strong>Królestwo Maroka</strong></p><p>Al - Mamlaka al - Maghribija</p>",
@@ -553,7 +553,7 @@
             "map":"<div id='map'></div>"
         }
     ],
-    "mozambik": [
+    "mozambique": [
         {              
             "title":"<p><strong>MOZAMBIK</strong></p>",
             "subtitle":"<p><strong>Ludowa Republika Mozambiku</strong></p><p>Rep&#250;blica Popular de Mo&#231;ambique</p>",
@@ -625,7 +625,7 @@
             "map":"<div id='map'><img src='maps/nigeria-min.jpg' alt='Nigeria map'></div>"
         }
     ],
-    "rpa": [
+    "southAfrica": [
         {              
             "title":"<p><strong>REPUBLIKA POŁUDNIOWEJ AFRYKI</strong></p>",
             "subtitle":"<p><strong>Republika Południowej Afryki</strong></p><p>Republiek van Suid - Afrika</p><p>Republic of South Africa</p>",
@@ -643,7 +643,7 @@
             "map":"<div id='map'><img src='maps/rpa-min.jpg' alt='Republika Południowej Afryki map'></div>"
         }
     ],
-    "republikaśrodkowoafrykańska": [
+    "centralAfricanRepublic": [
         {              
             "title":"<p><strong>REPUBLIKA ŚRODKOWO - AFRYKAŃSKA</strong></p>",
             "subtitle":"<p><strong>Republika Środkowoafrykańska</strong></p><p>R&#233;publique Centrafricaine</p>",
@@ -697,7 +697,7 @@
             "map":"<div id='map'><img src='maps/rwanda-min.jpg' alt='Rwanda map'></div>"
         }
     ],
-    "saharazachodnia": [
+    "westernSahara": [
         {              
             "title":"<p><strong>SAHARA ZACHODNIA</strong></p>",
             "subtitle":"<p><strong> Sahara Zachodnia</strong></p><p>(Była posiadłość kolonialna Sahara Hiszpańska)</p>",
@@ -733,7 +733,7 @@
             "map":"<div id='map'><img src='maps/senegal-min.jpg' alt='Senegal map'></div>"
         }
     ],
-    "seszele": [
+    "seychelles": [
         {              
             "title":"<p><strong>SESZELE</strong></p>",
             "subtitle":"<p><strong>Republika Seszelska</strong></p><p>Republic of Seychelles</p><p>R&#233;publique des Seychelles</p>",
@@ -751,7 +751,7 @@
             "map":"<div id='map'><img src='maps/seszele-min.jpg' alt='Seszele map'></div>"
         }
     ],
-    "sierraleone": [
+    "sierraLeone": [
         {              
             "title":"<p><strong>SIERRA LEONE</strong></p>",
             "subtitle":"<p><strong>Republika Sierra Leone</strong></p><p>Republic of Sierra Leone</p>",
@@ -787,7 +787,7 @@
             "map":"<div id='map'><img src='maps/somalia-min.jpg' alt='Somalia map'></div>"
         }
     ],
-    "suazi": [
+    "ndebele": [
         {            
             "title":"<p><strong>SUAZI (NGAWE)</strong></p>",
             "subtitle":"<p><strong>Królestwo Suazi (Królestwo Ngawe)</strong></p><p>Kingdom of Swaziland (Kingdom of Ngwane)</p><p>Umbuso wake Ngwane</p>",
@@ -877,7 +877,7 @@
             "map":"<div id='map'><img src='maps/togo-min.jpg' alt='Togo map'></div>"
         }
     ],
-    "tunezja": [
+    "tunisia": [
         {   		
             "title":"<p><strong>TUNEZJA</strong></p>",
             "subtitle":"<p><strong>Republika Tunezyjna</strong></p><p>Al - Dżumhurija at - Tunisija</p>",
@@ -913,7 +913,7 @@
             "map":"<div id='map'><img src='maps/uganda-min.jpg' alt='Uganda map'></div>"
         }
     ],
-    "wybrzeżekościsłoniowej": [
+    "ivoryCoast": [
         {   		
             "title":"<p><strong>WYBRZEŻE KOŚCI SŁONIOWEJ</strong></p>",
             "subtitle":"<p><strong></strong>Republika Wybrzeża Kości Słoniowej</p><p>R&#233;publque de C&#244;te d&#700;Ivoire</p>",
@@ -931,7 +931,7 @@
             "map":"<div id='map'><img src='maps/wybrzeżekościsłoniowej-min.jpg' alt='Wybrzeże Kości Słoniowej map'></div>"
         }
     ],
-    "wyspyświętegotomaszaiksiążęca": [
+    "saintThomasPrince": [
         {   		
             "title":"<p><strong>WYSPY ŚWIĘTEGO TOMASZA I KSIĄŻĘCA</strong></p>",
             "subtitle":"<p><strong>Demkratyczna Republika Wysp Świętego Tomasza i Książej</strong></p><p>Rep&#250;blica Democr&#225;tica de S&#227;o Tom&#233; e Principe</p>",
@@ -949,7 +949,7 @@
             "map":"<div id='map'><img src='maps/wyspyświętegotomaszaiksiążęca-min.jpg' alt='Wyspy Świętego Tomasza i Książęca map'></div>"
         }
     ],
-    "zair": [
+    "zaire": [
         {   		
             "title":"<p><strong>ZAIR</strong></p>",
             "subtitle":"<p><strong>Republika Zairu</strong></p><p>R&#233;publique du Za&#239;r</p>",
@@ -985,7 +985,7 @@
             "map":"<div id='map'><img src='maps/zair-min.jpg' alt='Zambia map'></div>"
         }
     ],
-    "wyspyzielonegoprzylądka": [
+    "capeVerde": [
         {   		
             "title":"<p><strong>ZIELONY PRZYLĄDEK</strong></p>",
             "subtitle":"<p><strong>Republika Zielonego Przylądka</strong></p><p>Rep&#250;blica de Cabo Verde</p>",

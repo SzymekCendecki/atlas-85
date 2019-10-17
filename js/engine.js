@@ -94,6 +94,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
     var europeArray = ["europeDescription", "albania", "andorra", "austria", "belgium", "westernBerlin", "bulgaria", "czechoslovakia", "denmark", "finland", "france", "gibraltar", "greece", "spain", "holland", "ireland", "iceland", "yugoslavia", "liechtenstein", "luxembourg", "malta", "monaco", "eastGermany", "norway", "poland", "portugal", "westGermany", "romania", "sanMarino", "switzerland", "sweden", "vatican", "hungary", "england", "italy", "cccp"];
 
+    var africaArrayJson = [];
+
+    var africaArray = ["africaDescription", "algieria", "angola", "benin", "bostwana", "burkinafaso", "burundi", "ceuta", "czad", "djibouti", "egypt", "ethiopia", "gabon", "gambia", "ghana", "guinea", "equatorialGuinea", "cameroon", "kenya", "comoros", "kongo", "lesotho", "livery", "libya", "madagascar", "malawi", "mali", "morocco", "mauretania", "mauritius", "melilla", "mozambique", "namibia", "niger", "nigeria", "southAfrica", "centralAfricanRepublic", "reunion", "rwanda", "westernSahara", "senegal", "seychelles", "sierraLeone", "somalia", "ndebele", "sudan", "saintHelena", "tanzania", "togo", "tunisia", "uganda", "ivoryCoast", "saintThomasPrince", "zaire", "zambia", "capeVerde", "zimbabwe", "", "", ""];
+
+    //europe
     $.ajax({
         url: 'https://szymekcendecki.github.io/atlas-85/json/europa.json',
         type: 'GET',
@@ -112,6 +117,30 @@ document.addEventListener("DOMContentLoaded", function () {
 
         for (var i = 0; i < europeArray.length; i++) {
             _loop(i);
+        }
+    }).fail(function () {
+        console.log("coś nie bangla...");
+    });
+
+    //africa
+    $.ajax({
+        url: 'https://szymekcendecki.github.io/atlas-85/json/africa.json',
+        type: 'GET',
+        dataType: 'json'
+    }).done(function (data) {
+        $.each(data, function (i, item) {
+            africaArrayJson.push(item);
+        });
+
+        var _loop2 = function _loop2(i) {
+            $("#" + africaArray[i]).on("click", function () {
+                (0, _functions.showCountry)(africaArrayJson[i][0]);
+                (0, _functions.showHideLists)("#subListAfrica");
+            });
+        };
+
+        for (var i = 0; i < africaArray.length; i++) {
+            _loop2(i);
         }
     }).fail(function () {
         console.log("coś nie bangla...");
