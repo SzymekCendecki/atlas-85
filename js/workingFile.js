@@ -26,7 +26,40 @@ document.addEventListener("DOMContentLoaded", () => {
         console.log("coś nie bangla..."); 
     }); 
 
-    //afryka
+    //america
+    showCountryList("america", "subListAmericas");
+    showCountryList("americaNorth", "subListNorthAmerica");
+    showCountryList("americaSouth", "subListSouthAmerica");
+
+    const northAmericaJson = [];
+    const northAmerica = ["northAmericaDescription", "bermudas", "greenland", "canada", "saintPierreMiquelon", "usa"];
+
+    $.ajax({
+        url: path + 'northAmerica.json',
+        type: 'GET',
+        dataType: 'json'
+    }).done((data) => {  
+        jsonIteration(northAmericaJson, data);
+        clickCountry(northAmerica, northAmericaJson, "subListNorthAmerica");
+    }).fail(()=>{ 
+        console.log("coś nie bangla..."); 
+    }); 
+
+    const southAmericaJson = [];
+    const southAmerica = ["southAmericaDescription", "anguilla", "antiguaBarbuda", "dutchAntilles", "argentina", "bahamas", "barbados", "belize", "bolivia", "brazil", "chile", "dominica", "dominicanRepublic", "britishVirginIslands", "usaVirginIslands", "ecuador", "falklandsMalvinas", "grenada", "guiana", "frenchGuiana", "guadeloupe", "guatemala", "haiti", "honduras", "jamaica", "caimas", "columbia", "costaRica", "cuba", "martinique", "mexico", "monserrat", "nicaragua", "panama", "paraguay", "peru", "puertorico", "sanChristopherNevis", "stLucia", "stVincent", "salvador", "suriname", "trynidadTobago", "turksCaicos", "uruguay", "venezuela"];
+
+    $.ajax({
+        url: path + 'southAmerica.json',
+        type: 'GET',
+        dataType: 'json'
+    }).done((data) => {  
+        jsonIteration(southAmericaJson, data);
+        clickCountry(southAmerica, southAmericaJson, "subListSouthAmerica");
+    }).fail(()=>{ 
+        console.log("coś nie bangla..."); 
+    }); 
+
+    //africa
     showCountryList("africa", "subListAfrica");
 
     const africaArrayJson = [];

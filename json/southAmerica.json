@@ -1,5 +1,5 @@
 {
-    "northAmericaDescription": [
+    "southAmericaDescription": [
             {
                 "title":"<p><strong>Ameryka Łacińska</strong></p><p>(Ogólna charakterystyka polityczno - gospodarcza)</p>",
                 "position":"<p><strong>Położenie:</strong> Ameryka Łacińska to obszar na Półkuli Zachodniej, między 35&#778; szerokości północnej, a 56&#778; szerokości południowej. Zajmuje południowo - zachodnią część kontynentu północnoamerykańskiego, rejon Ameryki środkowej wraz z wyspami oraz cały ląd Ameryki Południowej. Rozciąga się z północy na południe na przestrzeni ok. 10 000 km, od zachodu otaca ją Ocean Spokojny, a od wschodu - Zatoka Meksykańska, Morze Karaibskie oraz Ocean Atlantycki</p>",
@@ -230,7 +230,7 @@
                 "map":"<div id='map'><img src='maps/dominikana-min.jpg' alt='Dominican Republic map'></div>"
             }
         ],
-        "wyspydziewiczebr": [
+        "britishVirginIslands": [
             {	    
                 "title":"<p><strong>DZIEWICZE WYSPY BRYTYJSKIE</strong></p>",
                 "subtitle":"<p><strong>Brytyjskie Wyspy Dziewicze</strong></p><p>British Virgin Islands</p><p>(Kolonia brytyjska na Morzu Karaibskim)</p>",
@@ -662,7 +662,7 @@
                 "map":"<div id='map'><img src='maps/puertorico-min.jpg' alt='Puerto Rico map'></div>"
             }
         ],
-        "sanchristopherinevis": [
+        "sanChristopherNevis": [
             {      
                 "title":"<p><strong>SAINT CHRISTOPHER (SAINT KITTS) I NEVIS</strong></p>",
                 "subtitle":"<p><strong>Federacja Saint Christopher (Saint Kitts) i Nevis</strong></p><p>Federation of Saint Christopher (Saint Kitts) and Nevis</p>",
@@ -680,7 +680,7 @@
                 "map":"<div id='map'><img src='maps/sanchristopherinevis-min.jpg' alt='Saint Christopher (Saint Kitts) and Nevis map'></div>"
             }
         ],
-        "stlucia": [
+        "stLucia": [
             {      
                 "title":"<p><strong>SAINT LUCIA</strong></p>",
                 "subtitle":"<p><strong>Saint Lucia</strong></p><p>Saint Lucia</p>",
@@ -698,7 +698,7 @@
                 "map":"<div id='map'><img src='maps/stlucia-min.jpg' alt='Saint Lucia map'></div>"
             }
         ],
-        "stvincent": [
+        "stVincent": [
             {      
                 "title":"<p><strong>SAINT VINCENT I GRENADYNY</strong></p>",
                 "subtitle":"<p><strong> Saint Vincent i Grenady</strong></p><p>Saint Vincent and the Grenadines</p>",
@@ -752,7 +752,7 @@
                 "map":"<div id='map'><img src='maps/surinam-min.jpg' alt='Suriname map'></div>"
             }
         ],
-        "trynidaditobago": [
+        "trynidadTobago": [
             {      
                 "title":"<p><strong>TRYNIDAD i TOBAGO</strong></p>",
                 "subtitle":"<p><strong>demokratyczna Republika Trynidadu i Tobago</strong></p><p>Democratic Republic of Trinidad i Tobago</p>",
@@ -770,7 +770,7 @@
                 "map":"<div id='map'><img src='maps/trynidaditobago-min.jpg' alt='Trinidad and Tobago map'></div>"
             }
         ],
-        "turksicaicos": [
+        "turksCaicos": [
             {      
                 "title":"<p><strong> TURKS I CAICOS</strong></p>",
                 "subtitle":"<p><strong>Turks i Caicos</strong></p><p>Turks and Caicos Islands</p><p>(kolonia Brytyjska na Morzu Karaibskim)</p>",
@@ -788,7 +788,7 @@
                 "map":"<div id='map'><img src='maps/turksicaicos-min.jpg' alt='Turks and Caicos Islands map'></div>"
             }
         ],
-        "urugwaj": [
+        "uruguay": [
             {      
                 "title":"<p><strong>URUGWAJ</strong></p>",
                 "subtitle":"<p><strong>Wschodnia Republika Urugwajska</strong></p><p>Rep&#250;blica Oriental del Uruguay</p>",
@@ -806,7 +806,7 @@
                 "map":"<div id='map'><img src='maps/urugwaj-min.jpg' alt='Uruguay map'></div>"
             }
         ],
-        "wenezuela": [
+        "venezuela": [
             {      
                 "title":"<p><strong>WENEZUELA</strong></p>",
                 "subtitle":"<p><strong>Republika Wenezueli</strong></p><p>Rep&#250;blica de Venezuela</p>",

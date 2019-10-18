@@ -105,7 +105,40 @@ document.addEventListener("DOMContentLoaded", function () {
         console.log("coś nie bangla...");
     });
 
-    //afryka
+    //america
+    (0, _functions.showCountryList)("america", "subListAmericas");
+    (0, _functions.showCountryList)("americaNorth", "subListNorthAmerica");
+    (0, _functions.showCountryList)("americaSouth", "subListSouthAmerica");
+
+    var northAmericaJson = [];
+    var northAmerica = ["northAmericaDescription", "bermudas", "greenland", "canada", "saintPierreMiquelon", "usa"];
+
+    $.ajax({
+        url: path + 'northAmerica.json',
+        type: 'GET',
+        dataType: 'json'
+    }).done(function (data) {
+        (0, _functions.jsonIteration)(northAmericaJson, data);
+        (0, _functions.clickCountry)(northAmerica, northAmericaJson, "subListNorthAmerica");
+    }).fail(function () {
+        console.log("coś nie bangla...");
+    });
+
+    var southAmericaJson = [];
+    var southAmerica = ["southAmericaDescription", "anguilla", "antiguaBarbuda", "dutchAntilles", "argentina", "bahamas", "barbados", "belize", "bolivia", "brazil", "chile", "dominica", "dominicanRepublic", "britishVirginIslands", "usaVirginIslands", "ecuador", "falklandsMalvinas", "grenada", "guiana", "frenchGuiana", "guadeloupe", "guatemala", "haiti", "honduras", "jamaica", "caimas", "columbia", "costaRica", "cuba", "martinique", "mexico", "monserrat", "nicaragua", "panama", "paraguay", "peru", "puertorico", "sanChristopherNevis", "stLucia", "stVincent", "salvador", "suriname", "trynidadTobago", "turksCaicos", "uruguay", "venezuela"];
+
+    $.ajax({
+        url: path + 'southAmerica.json',
+        type: 'GET',
+        dataType: 'json'
+    }).done(function (data) {
+        (0, _functions.jsonIteration)(southAmericaJson, data);
+        (0, _functions.clickCountry)(southAmerica, southAmericaJson, "subListSouthAmerica");
+    }).fail(function () {
+        console.log("coś nie bangla...");
+    });
+
+    //africa
     (0, _functions.showCountryList)("africa", "subListAfrica");
 
     var africaArrayJson = [];
