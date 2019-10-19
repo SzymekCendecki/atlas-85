@@ -119,7 +119,7 @@ document.addEventListener("DOMContentLoaded", function () {
         dataType: 'json'
     }).done(function (data) {
         (0, _functions.jsonIteration)(northAmericaJson, data);
-        (0, _functions.clickCountry)(northAmerica, northAmericaJson, "subListNorthAmerica");
+        (0, _functions.clickCountryAmericas)(northAmerica, northAmericaJson, "subListAmericas", "subListNorthAmerica");
     }).fail(function () {
         console.log("coś nie bangla...");
     });
@@ -133,7 +133,7 @@ document.addEventListener("DOMContentLoaded", function () {
         dataType: 'json'
     }).done(function (data) {
         (0, _functions.jsonIteration)(southAmericaJson, data);
-        (0, _functions.clickCountry)(southAmerica, southAmericaJson, "subListSouthAmerica");
+        (0, _functions.clickCountryAmericas)(southAmerica, southAmericaJson, "subListAmericas", "subListSouthAmerica");
     }).fail(function () {
         console.log("coś nie bangla...");
     });
@@ -171,7 +171,9 @@ exports.showCountry = showCountry;
 exports.showCountryList = showCountryList;
 exports.jsonIteration = jsonIteration;
 exports.clickCountry = clickCountry;
+exports.clickCountryAmericas = clickCountryAmericas;
 exports.showHideLists = showHideLists;
+exports.showHideListsAmericas = showHideListsAmericas;
 function showCountry(country) {
     $("#description").empty();
     $("#description").append(country.title, country.subtitle, country.position, country.area, country.adminDivision, country.capitol, country.biggestCities, country.population, country.naturalConditions, country.language, country.currency, country.historyPoliticalSystem, country.economy, country.map);
@@ -203,9 +205,27 @@ function clickCountry(countryArray, countryArrayJson, subList) {
     }
 }
 
+function clickCountryAmericas(countryArray, countryArrayJson, subList, subListII) {
+    var _loop2 = function _loop2(i) {
+        $("#" + countryArray[i]).on("click", function () {
+            showCountry(countryArrayJson[i][0]);
+            showHideLists("#" + subList);
+            showHideListsAmericas("#" + subListII);
+        });
+    };
+
+    for (var i = 0; i < countryArray.length; i++) {
+        _loop2(i);
+    }
+}
+
 function showHideLists(sublist) {
     $(sublist).toggleClass("hide");
     $("#mainList").toggleClass("hide");
+}
+
+function showHideListsAmericas(sublist) {
+    $(sublist).toggleClass("hide");
 }
 
 /***/ })

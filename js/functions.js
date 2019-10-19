@@ -26,8 +26,22 @@ export function clickCountry(countryArray, countryArrayJson, subList){
     }     
 }
 
+export function clickCountryAmericas(countryArray, countryArrayJson, subList, subListII){
+    for(let i=0; i<countryArray.length; i++){
+        $("#"+ countryArray[i]).on("click", ()=>{
+            showCountry(countryArrayJson[i][0]);
+            showHideLists("#" + subList); 
+            showHideListsAmericas("#" + subListII);             
+        });            
+    }     
+}
+
 export function showHideLists(sublist){
     $(sublist).toggleClass("hide");
     $("#mainList").toggleClass("hide");
+}
+
+export function showHideListsAmericas(sublist){
+    $(sublist).toggleClass("hide");
 }
 

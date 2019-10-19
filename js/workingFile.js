@@ -1,4 +1,4 @@
-import {showCountryList, jsonIteration, clickCountry} from './functions.js';
+import {showCountryList, jsonIteration, clickCountry, clickCountryAmericas} from './functions.js';
 
 document.addEventListener("DOMContentLoaded", () => {
 
@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
         dataType: 'json'
     }).done((data) => {  
         jsonIteration(northAmericaJson, data);
-        clickCountry(northAmerica, northAmericaJson, "subListNorthAmerica");
+        clickCountryAmericas(northAmerica, northAmericaJson, "subListAmericas", "subListNorthAmerica");
     }).fail(()=>{ 
         console.log("coś nie bangla..."); 
     }); 
@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded", () => {
         dataType: 'json'
     }).done((data) => {  
         jsonIteration(southAmericaJson, data);
-        clickCountry(southAmerica, southAmericaJson, "subListSouthAmerica");
+        clickCountryAmericas(southAmerica, southAmericaJson, "subListAmericas", "subListSouthAmerica");
     }).fail(()=>{ 
         console.log("coś nie bangla..."); 
     }); 
