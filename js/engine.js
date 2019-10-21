@@ -155,6 +155,24 @@ document.addEventListener("DOMContentLoaded", function () {
     }).fail(function () {
         console.log("coś nie bangla...");
     });
+
+    //asia
+    (0, _functions.showCountryList)("asia", "subListAsia");
+
+    var asiaArrayJson = [];
+
+    var asiaArray = ["asiaDescription", "afghanistan", "saudiArabia", "bahrain", "bangladesh", "bhutan", "burma", "brunei", "china", "cyprus", "philippines", "hongkong", "india", "indonesia", "iraq", "iran", "izrael", "japan", "yemen", "southernYemen"];
+
+    $.ajax({
+        url: path + 'asia.json',
+        type: 'GET',
+        dataType: 'json'
+    }).done(function (data) {
+        (0, _functions.jsonIteration)(asiaArrayJson, data);
+        (0, _functions.clickCountry)(asiaArray, asiaArrayJson, "subListAsia");
+    }).fail(function () {
+        console.log("coś nie bangla...");
+    });
 });
 
 /***/ }),

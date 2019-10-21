@@ -77,4 +77,21 @@ document.addEventListener("DOMContentLoaded", () => {
         console.log("coś nie bangla..."); 
     }); 
 
+    //asia
+    showCountryList("asia", "subListAsia");
+
+    const asiaArrayJson = [];
+
+    const asiaArray = ["asiaDescription", "afghanistan", "saudiArabia", "bahrain", "bangladesh", "bhutan", "burma", "brunei", "china", "cyprus", "philippines", "hongkong", "india", "indonesia", "iraq", "iran", "izrael", "japan", "yemen", "southernYemen"];
+
+    $.ajax({
+        url: path + 'asia.json',
+        type: 'GET',
+        dataType: 'json'
+    }).done((data) => {  
+        jsonIteration(asiaArrayJson, data);
+        clickCountry(asiaArray, asiaArrayJson, "subListAsia");
+    }).fail(()=>{ 
+        console.log("coś nie bangla..."); 
+    }); 
 });
