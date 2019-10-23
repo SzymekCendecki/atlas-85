@@ -4,10 +4,10 @@ export function showCountry(country){
     $("#description").append(country.title, country.subtitle, country.position, country.area, country.adminDivision, country.capitol, country.biggestCities, country.population, country.naturalConditions, country.language, country.currency, country.historyPoliticalSystem, country.economy, country.map);
 }
 
-export function showCountryList(continent, subList){
-    $("#" + continent).on("click", ()=>{
-        $("#" + subList).toggleClass("hide");
-        $("#" + continent).toggleClass("red");
+export const showCountryList = (continent, subList) =>{
+    document.getElementById(continent).addEventListener('click', ()=>{
+        document.getElementById(subList).classList.toggle("hide");
+        document.getElementById(continent).classList.toggle("red");
     });
 }
 
@@ -19,29 +19,28 @@ export function jsonIteration(arrayJson, data){
 
 export function clickCountry(countryArray, countryArrayJson, subList){
     for(let i=0; i<countryArray.length; i++){
-        $("#"+ countryArray[i]).on("click", ()=>{
+        document.getElementById(countryArray[i]).addEventListener("click", ()=>{
             showCountry(countryArrayJson[i][0]);
-            showHideLists("#" + subList);              
+            showHideLists(subList);              
         });            
     }     
 }
 
 export function clickCountryAmericas(countryArray, countryArrayJson, subList, subListII){
     for(let i=0; i<countryArray.length; i++){
-        $("#"+ countryArray[i]).on("click", ()=>{
+        document.getElementById(countryArray[i]).addEventListener("click", ()=>{
             showCountry(countryArrayJson[i][0]);
-            showHideLists("#" + subList); 
-            showHideListsAmericas("#" + subListII);             
+            showHideLists(subList); 
+            showHideListsAmericas(subListII);             
         });            
     }     
 }
 
-export function showHideLists(sublist){
-    $(sublist).toggleClass("hide");
-    $("#mainList").toggleClass("hide");
+export const showHideLists = sublist =>{
+    document.getElementById(sublist).classList.toggle("hide");
+    document.getElementById("mainList").classList.toggle("hide");
 }
 
-export function showHideListsAmericas(sublist){
-    $(sublist).toggleClass("hide");
+export const showHideListsAmericas = sublist =>{
+    document.getElementById(sublist).classList.toggle("hide");
 }
-

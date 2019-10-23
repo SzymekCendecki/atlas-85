@@ -176,23 +176,20 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 exports.showCountry = showCountry;
-exports.showCountryList = showCountryList;
 exports.jsonIteration = jsonIteration;
 exports.clickCountry = clickCountry;
 exports.clickCountryAmericas = clickCountryAmericas;
-exports.showHideLists = showHideLists;
-exports.showHideListsAmericas = showHideListsAmericas;
 function showCountry(country) {
     $("#description").empty();
     $("#description").append(country.title, country.subtitle, country.position, country.area, country.adminDivision, country.capitol, country.biggestCities, country.population, country.naturalConditions, country.language, country.currency, country.historyPoliticalSystem, country.economy, country.map);
 }
 
-function showCountryList(continent, subList) {
-    $("#" + continent).on("click", function () {
-        $("#" + subList).toggleClass("hide");
-        $("#" + continent).toggleClass("red");
+var showCountryList = exports.showCountryList = function showCountryList(continent, subList) {
+    document.getElementById(continent).addEventListener('click', function () {
+        document.getElementById(subList).classList.toggle("hide");
+        document.getElementById(continent).classList.toggle("red");
     });
-}
+};
 
 function jsonIteration(arrayJson, data) {
     $.each(data, function (i, item) {
@@ -202,9 +199,9 @@ function jsonIteration(arrayJson, data) {
 
 function clickCountry(countryArray, countryArrayJson, subList) {
     var _loop = function _loop(i) {
-        $("#" + countryArray[i]).on("click", function () {
+        document.getElementById(countryArray[i]).addEventListener("click", function () {
             showCountry(countryArrayJson[i][0]);
-            showHideLists("#" + subList);
+            showHideLists(subList);
         });
     };
 
@@ -215,10 +212,10 @@ function clickCountry(countryArray, countryArrayJson, subList) {
 
 function clickCountryAmericas(countryArray, countryArrayJson, subList, subListII) {
     var _loop2 = function _loop2(i) {
-        $("#" + countryArray[i]).on("click", function () {
+        document.getElementById(countryArray[i]).addEventListener("click", function () {
             showCountry(countryArrayJson[i][0]);
-            showHideLists("#" + subList);
-            showHideListsAmericas("#" + subListII);
+            showHideLists(subList);
+            showHideListsAmericas(subListII);
         });
     };
 
@@ -227,14 +224,14 @@ function clickCountryAmericas(countryArray, countryArrayJson, subList, subListII
     }
 }
 
-function showHideLists(sublist) {
-    $(sublist).toggleClass("hide");
-    $("#mainList").toggleClass("hide");
-}
+var showHideLists = exports.showHideLists = function showHideLists(sublist) {
+    document.getElementById(sublist).classList.toggle("hide");
+    document.getElementById("mainList").classList.toggle("hide");
+};
 
-function showHideListsAmericas(sublist) {
-    $(sublist).toggleClass("hide");
-}
+var showHideListsAmericas = exports.showHideListsAmericas = function showHideListsAmericas(sublist) {
+    document.getElementById(sublist).classList.toggle("hide");
+};
 
 /***/ })
 /******/ ]);
