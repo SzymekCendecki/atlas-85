@@ -83,8 +83,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     var path = 'https://szymekcendecki.github.io/atlas-85/json/';
 
-    $("#mainMenu").on("click", function () {
-        $("#mainList").toggleClass("hide");
+    document.getElementById("mainMenu").addEventListener('click', function () {
+        document.getElementById("mainList").classList.toggle("hide");
     });
 
     //europe
@@ -175,14 +175,10 @@ document.addEventListener("DOMContentLoaded", function () {
 Object.defineProperty(exports, "__esModule", {
     value: true
 });
-exports.showCountry = showCountry;
-exports.jsonIteration = jsonIteration;
-exports.clickCountry = clickCountry;
-exports.clickCountryAmericas = clickCountryAmericas;
-function showCountry(country) {
-    $("#description").empty();
+var showCountry = exports.showCountry = function showCountry(country) {
+    document.getElementById("description").innerHTML = "";
     $("#description").append(country.title, country.subtitle, country.position, country.area, country.adminDivision, country.capitol, country.biggestCities, country.population, country.naturalConditions, country.language, country.currency, country.historyPoliticalSystem, country.economy, country.map);
-}
+};
 
 var showCountryList = exports.showCountryList = function showCountryList(continent, subList) {
     document.getElementById(continent).addEventListener('click', function () {
@@ -191,13 +187,13 @@ var showCountryList = exports.showCountryList = function showCountryList(contine
     });
 };
 
-function jsonIteration(arrayJson, data) {
+var jsonIteration = exports.jsonIteration = function jsonIteration(arrayJson, data) {
     $.each(data, function (i, item) {
         arrayJson.push(item);
     });
-}
+};
 
-function clickCountry(countryArray, countryArrayJson, subList) {
+var clickCountry = exports.clickCountry = function clickCountry(countryArray, countryArrayJson, subList) {
     var _loop = function _loop(i) {
         document.getElementById(countryArray[i]).addEventListener("click", function () {
             showCountry(countryArrayJson[i][0]);
@@ -208,9 +204,9 @@ function clickCountry(countryArray, countryArrayJson, subList) {
     for (var i = 0; i < countryArray.length; i++) {
         _loop(i);
     }
-}
+};
 
-function clickCountryAmericas(countryArray, countryArrayJson, subList, subListII) {
+var clickCountryAmericas = exports.clickCountryAmericas = function clickCountryAmericas(countryArray, countryArrayJson, subList, subListII) {
     var _loop2 = function _loop2(i) {
         document.getElementById(countryArray[i]).addEventListener("click", function () {
             showCountry(countryArrayJson[i][0]);
@@ -222,7 +218,7 @@ function clickCountryAmericas(countryArray, countryArrayJson, subList, subListII
     for (var i = 0; i < countryArray.length; i++) {
         _loop2(i);
     }
-}
+};
 
 var showHideLists = exports.showHideLists = function showHideLists(sublist) {
     document.getElementById(sublist).classList.toggle("hide");

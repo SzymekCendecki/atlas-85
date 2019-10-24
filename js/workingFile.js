@@ -4,8 +4,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const path = 'https://szymekcendecki.github.io/atlas-85/json/';
 
-    $("#mainMenu").on("click", ()=>{
-        $("#mainList").toggleClass("hide");
+    document.getElementById("mainMenu").addEventListener('click', ()=>{
+        document.getElementById("mainList").classList.toggle("hide");
     });
 
     //europe

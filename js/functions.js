@@ -1,6 +1,6 @@
 
-export function showCountry(country){
-    $("#description").empty();
+export const showCountry = country =>{
+    document.getElementById("description").innerHTML = "";
     $("#description").append(country.title, country.subtitle, country.position, country.area, country.adminDivision, country.capitol, country.biggestCities, country.population, country.naturalConditions, country.language, country.currency, country.historyPoliticalSystem, country.economy, country.map);
 }
 
@@ -11,13 +11,13 @@ export const showCountryList = (continent, subList) =>{
     });
 }
 
-export function jsonIteration(arrayJson, data){
+export let jsonIteration = (arrayJson, data) =>{
     $.each(data, function(i, item) {
         arrayJson.push(item);            
     });
 }
 
-export function clickCountry(countryArray, countryArrayJson, subList){
+export let clickCountry = (countryArray, countryArrayJson, subList) =>{
     for(let i=0; i<countryArray.length; i++){
         document.getElementById(countryArray[i]).addEventListener("click", ()=>{
             showCountry(countryArrayJson[i][0]);
@@ -26,7 +26,7 @@ export function clickCountry(countryArray, countryArrayJson, subList){
     }     
 }
 
-export function clickCountryAmericas(countryArray, countryArrayJson, subList, subListII){
+export let clickCountryAmericas = (countryArray, countryArrayJson, subList, subListII) =>{
     for(let i=0; i<countryArray.length; i++){
         document.getElementById(countryArray[i]).addEventListener("click", ()=>{
             showCountry(countryArrayJson[i][0]);
@@ -44,3 +44,5 @@ export const showHideLists = sublist =>{
 export const showHideListsAmericas = sublist =>{
     document.getElementById(sublist).classList.toggle("hide");
 }
+
+
