@@ -105,8 +105,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     //america
     (0, _functions.showCountryList)("america", "subListAmericas");
-    (0, _functions.showCountryList)("americaNorth", "subListNorthAmerica");
-    (0, _functions.showCountryList)("americaSouth", "subListSouthAmerica");
+    (0, _functions.showCountryList)("northAmerica", "subListNorthAmerica");
+    (0, _functions.showCountryList)("southAmerica", "subListSouthAmerica");
 
     var northAmericaJson = [];
     var northAmerica = ["northAmericaDescription", "bermudas", "greenland", "canada", "saintPierreMiquelon", "usa"];
@@ -115,7 +115,7 @@ document.addEventListener("DOMContentLoaded", function () {
         return response.json();
     }).then(function (data) {
         (0, _functions.jsonIteration)(northAmericaJson, data);
-        (0, _functions.clickCountryAmericas)(northAmerica, northAmericaJson, "subListAmericas", "subListNorthAmerica");
+        (0, _functions.clickCountryAmericas)(northAmerica, northAmericaJson, "subListAmericas");
     }).catch(function (error) {
         return console.error(error);
     });
@@ -127,7 +127,7 @@ document.addEventListener("DOMContentLoaded", function () {
         return response.json();
     }).then(function (data) {
         (0, _functions.jsonIteration)(southAmericaJson, data);
-        (0, _functions.clickCountryAmericas)(southAmerica, southAmericaJson, "subListAmericas", "subListSouthAmerica");
+        (0, _functions.clickCountryAmericas)(southAmerica, southAmericaJson, "subListAmericas");
     }).catch(function (error) {
         return console.error(error);
     });
@@ -175,6 +175,8 @@ document.addEventListener("DOMContentLoaded", function () {
 Object.defineProperty(exports, "__esModule", {
     value: true
 });
+var subListsCheck = exports.subListsCheck = ["subListEurope", "subListAmericas", "subListAfrica", "subListAsia"];
+
 var showCountry = exports.showCountry = function showCountry(country) {
     document.getElementById("description").innerHTML = "";
     $("#description").append(country.title, country.subtitle, country.position, country.area, country.adminDivision, country.capitol, country.biggestCities, country.population, country.naturalConditions, country.language, country.currency, country.historyPoliticalSystem, country.economy, country.map);
@@ -193,6 +195,16 @@ var jsonIteration = exports.jsonIteration = function jsonIteration(arrayJson, da
     });
 };
 
+var checkHideShow = exports.checkHideShow = function checkHideShow(subLists) {
+    for (var i = 0; i < subLists.length; i++) {
+        var x = document.getElementById(subLists[i]).getAttribute("class");
+
+        if (x === "show") {
+            x.toggleClass("hide");
+        }
+    }
+};
+
 var clickCountry = exports.clickCountry = function clickCountry(countryArray, countryArrayJson, subList) {
     var _loop = function _loop(i) {
         document.getElementById(countryArray[i]).addEventListener("click", function () {
@@ -204,14 +216,15 @@ var clickCountry = exports.clickCountry = function clickCountry(countryArray, co
     for (var i = 0; i < countryArray.length; i++) {
         _loop(i);
     }
+
+    checkHideShow(subListsCheck);
 };
 
-var clickCountryAmericas = exports.clickCountryAmericas = function clickCountryAmericas(countryArray, countryArrayJson, subList, subListII) {
+var clickCountryAmericas = exports.clickCountryAmericas = function clickCountryAmericas(countryArray, countryArrayJson, subList) {
     var _loop2 = function _loop2(i) {
         document.getElementById(countryArray[i]).addEventListener("click", function () {
             showCountry(countryArrayJson[i][0]);
             showHideLists(subList);
-            showHideListsAmericas(subListII);
         });
     };
 
@@ -223,10 +236,6 @@ var clickCountryAmericas = exports.clickCountryAmericas = function clickCountryA
 var showHideLists = exports.showHideLists = function showHideLists(sublist) {
     document.getElementById(sublist).classList.toggle("hide");
     document.getElementById("mainList").classList.toggle("hide");
-};
-
-var showHideListsAmericas = exports.showHideListsAmericas = function showHideListsAmericas(sublist) {
-    document.getElementById(sublist).classList.toggle("hide");
 };
 
 /***/ })

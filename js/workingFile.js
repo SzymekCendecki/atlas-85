@@ -25,8 +25,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     //america
     showCountryList("america", "subListAmericas");
-    showCountryList("americaNorth", "subListNorthAmerica");
-    showCountryList("americaSouth", "subListSouthAmerica");
+    showCountryList("northAmerica", "subListNorthAmerica");
+    showCountryList("southAmerica", "subListSouthAmerica");
 
     const northAmericaJson = [];
     const northAmerica = ["northAmericaDescription", "bermudas", "greenland", "canada", "saintPierreMiquelon", "usa"];
@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .then(response => response.json())
     .then(data => {
         jsonIteration(northAmericaJson, data);
-        clickCountryAmericas(northAmerica, northAmericaJson, "subListAmericas", "subListNorthAmerica");
+        clickCountryAmericas(northAmerica, northAmericaJson, "subListAmericas");
     })
     .catch(error => console.error(error))
 
@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .then(response => response.json())
     .then(data => {
         jsonIteration(southAmericaJson, data);
-        clickCountryAmericas(southAmerica, southAmericaJson, "subListAmericas", "subListSouthAmerica");
+        clickCountryAmericas(southAmerica, southAmericaJson, "subListAmericas");
     })
     .catch(error => console.error(error))
 
