@@ -92,7 +92,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     var europeArrayJson = [];
 
-    var europeArray = ["europeDescription", "albania", "andorra", "austria", "belgium", "westernBerlin", "bulgaria", "czechoslovakia", "denmark", "finland", "france", "gibraltar", "greece", "spain", "holland", "ireland", "iceland", "yugoslavia", "liechtenstein", "luxembourg", "malta", "monaco", "eastGermany", "norway", "poland", "portugal", "westGermany", "romania", "sanMarino", "switzerland", "sweden", "vatican", "hungary", "england", "italy", "cccp"];
+    var europeArray = ["europeDescription", "albania", "andorra", "austria", "belgium", "westernBerlin", "bulgaria", "czechoslovakia", "denmark", "finland", "france", "gibraltar", "greece", "spain", "holland", "irleand", "iceland", "yugoslavia", "liechtenstein", "luxembourg", "malta", "monaco", "eastGermany", "norway", "poland", "portugal", "westGermany", "romania", "sanMarino", "switzerland", "sweden", "vatican", "hungary", "england", "italy", "cccp"];
 
     fetch(path + 'europa.json').then(function (response) {
         return response.json();
@@ -121,7 +121,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     var southAmericaJson = [];
-    var southAmerica = ["southAmericaDescription", "anguilla", "antiguaBarbuda", "dutchAntilles", "argentina", "bahamas", "barbados", "belize", "bolivia", "brazil", "chile", "dominica", "dominicanRepublic", "britishVirginIslands", "usaVirginIslands", "ecuador", "falklandsMalvinas", "grenada", "guiana", "frenchGuiana", "guadeloupe", "guatemala", "haiti", "honduras", "jamaica", "caimas", "columbia", "costaRica", "cuba", "martinique", "mexico", "monserrat", "nicaragua", "panama", "paraguay", "peru", "puertorico", "sanChristopherNevis", "stLucia", "stVincent", "salvador", "suriname", "trynidadTobago", "turksCaicos", "uruguay", "venezuela"];
+    var southAmerica = ["southAmericaDescription", "anguilla", "antiguaBarbuda", "dutchAntilles", "argentina", "bahamas", "barbados", "belize", "bolivia", "brazil", "chile", "dominica", "dominicanRepublic", "britishVirginIslands", "usaVirginIslands", "ecuador", "falklandMalvinas", "grenada", "guiana", "frenchGuiana", "guadeloupe", "guatemala", "haiti", "honduras", "jamaica", "caimans", "columbia", "costaRica", "cuba", "martinique", "mexico", "montserrat", "nicaragua", "panama", "paraguay", "peru", "puertorico", "sanChristopherNevis", "stLucia", "stVincent", "salvador", "surinam", "trynidadTobago", "turksCaicos", "uruguay", "venezuela"];
 
     fetch(path + 'southAmerica.json').then(function (response) {
         return response.json();
@@ -195,16 +195,6 @@ var jsonIteration = exports.jsonIteration = function jsonIteration(arrayJson, da
     });
 };
 
-var checkHideShow = exports.checkHideShow = function checkHideShow(subLists) {
-    for (var i = 0; i < subLists.length; i++) {
-        var x = document.getElementById(subLists[i]).getAttribute("class");
-
-        if (x === "show") {
-            x.toggleClass("hide");
-        }
-    }
-};
-
 var clickCountry = exports.clickCountry = function clickCountry(countryArray, countryArrayJson, subList) {
     var _loop = function _loop(i) {
         document.getElementById(countryArray[i]).addEventListener("click", function () {
@@ -216,8 +206,6 @@ var clickCountry = exports.clickCountry = function clickCountry(countryArray, co
     for (var i = 0; i < countryArray.length; i++) {
         _loop(i);
     }
-
-    checkHideShow(subListsCheck);
 };
 
 var clickCountryAmericas = exports.clickCountryAmericas = function clickCountryAmericas(countryArray, countryArrayJson, subList) {

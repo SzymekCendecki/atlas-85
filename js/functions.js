@@ -19,25 +19,13 @@ export let jsonIteration = (arrayJson, data) =>{
     });
 }
 
-export let checkHideShow = subLists =>{
-    for(let i=0; i<subLists.length; i++){
-        let x = document.getElementById(subLists[i]).getAttribute("class");
-
-       if (x === "show"){
-           x.toggleClass("hide");
-       }
-    }
-}
-
 export let clickCountry = (countryArray, countryArrayJson, subList) =>{
     for(let i=0; i<countryArray.length; i++){
         document.getElementById(countryArray[i]).addEventListener("click", ()=>{
             showCountry(countryArrayJson[i][0]);
             showHideLists(subList);               
         });            
-    }
-   
-    checkHideShow(subListsCheck);
+    }     
 }
 
 export let clickCountryAmericas = (countryArray, countryArrayJson, subList) =>{
