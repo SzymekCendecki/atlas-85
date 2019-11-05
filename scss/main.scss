@@ -31,10 +31,18 @@ footer{
   visibility: hidden;
 }
 
+#mainContainer{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
 #description{
-  height: 80%;
+  height: 75%;
   width: 95%;
   margin: 0 auto;
+  overflow: scroll;
 }
 
 .green{
@@ -100,12 +108,6 @@ img{
     font-size: 120%;
   }
 
-  #mainContainer{
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-  }
-
   li{
     width: 100%;
     padding: 5%;
@@ -130,6 +132,17 @@ img{
     background: #A912EB; 
   }
 
+  nav{
+    height: 10%;
+  }
+  #description{
+    height: 70%;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 8%;
+  }
+
+
   #mainMenu{
     visibility: hidden;
   }
@@ -140,10 +153,19 @@ img{
     flex-wrap: wrap;
     list-style-type: none;
     justify-content: space-around;
+    position: absolute;
+    
   }
 
   #europe, #america, #africa, #asia, #australia, #oceania, #antarctica{
       width: 20%;
-   }
+  }
+
+  #subListEurope, #subListAfrica, #subListAmericas, #subListNorthAmerica, #subListSouthAmerica, #subListAsia{
+    list-style-type: none;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+  }
+  
 
 }
