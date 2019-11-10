@@ -408,5 +408,59 @@
         "economy":"<p><strong>Gospodarka:</strong> Katar jest krajem słabo rozwiniętym gospodarczo, w istotny sposób uzależnionym od wydobycia ropy naftowej. Jej zasoby szacuje się na ponad 816 mln ton. Od 1979 r. rząd Kataru kontroluje całość krajowych zasobów ropy. Oprócz ropy Katar ma również dość duże zasoby gazu ziemnego.</p><p>W kraju zrealizowano 10 - letni plan rozwoju gospodarczego na lata 1973 - 1982, który zmierzał przede wszystkim do przyspieszenia industrializacji. W rolnictwie, którego podstawę stanowi koczownicza hodowla bydła, do dziś panują stosunki feudalne. Ziemia orna zajmuje ok. 0,2% terytorium, państwiska i łąki - 4,6% zaś pozostałe 95,2% obszaru kraju pokrywają pustynie i półpustynie.</p><p>Produkcja rolna zdecydowanie nie zaspokaja zapotrzebowania krajowego, toteż większość artykułów spożywczych trzeba sprowadzać. W oazach uprawia się daktyle, proso, kukurydzę, warzywa i owoce. Rozpowszechniona jest koczownicza hodowla bydła, zwłaszcza owiec, kóz i wielbłądów. W rejonach nadbrzeżnych rozwinięte jest rybołówstwo oraz połów pereł. Najważniejszym artykułem eksportowym Kataru jest ropa naftowa i gaz ziemny, poza tym kraj eksportuje również cement, perły, suszone ryby, daktyle i warzywa. Import obejmuje głównie maszyny i wyroby przemysłowe. Głównymi partnerami handlowymi Kataru są USA, Japonia, Wielka Brytania, RFN, BAngladesz, INdie i Arabia Saudyjska.</p>",
         "map":"<div id='map'><img src='maps/katar-min.jpg' alt='Katar map'></div>"
        }
+   ],
+   "korea": [
+       {   
+        "title":"<p><strong>KOREA</strong></p>",
+        "subtitle":"<p><strong>Korea</strong></p><p>Dzoson</p>",
+        "position":"<p><strong>Położenie:</strong> Azja Wschodnia; obejmuje Półwysep Koreański i przylegające do niego Góry Północnokoreańskie oraz ok. 3 500 niewielkich wysp. Graniczy z Chinami i ZSRR. Północno część Półwyspu Koreańskiego zajmuje <strong>Koreańska Republika Ludowo - Demokratyczna (KRL - D)</strong>, zaś południowa - <strong>Korea Południowa (Republika Koreańska)</strong></p>",
+		"area":"<p><strong>Powierzchnia:</strong> Ogólna powierzchnia Korei wynosi 219 000 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> </p>",
+        "capitol":"<p><strong>Stolica:</strong></p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+        "population":"<p><strong>Ludność:</strong> Ogółem - ok. 55 000 000.</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Przeważająca część powierzchni Korei zajmują góry i wyżyny. Część północną pokrywają wyżyny i pasma Gór Północnokoreańskich; na wschodzie i południu liczne pasma i masywy średniowysokich i niskich gór (Góry Wschodniokoreańskie); w części zachodniej przeważają niziny. Klimat monsunowy, na południu - podzwrotnikowy, a w części środkowej - umiarkowany, a na północy - umiarkowany chłodny.</p>",
+        "language":"<p><strong>Język urzędowy:</strong></p>",
+        "currency":"<p><strong>Waluta:</strong></p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Początki osadnictwa w Korei datują się na trzecie tysiąclecie p. n. e. W starożytności istniało tu państwo Dzoson. W I w. n. e. powstały try państwa: Kogurio, Pekdze i Silla. W r. 918 powstaje silne państwo dynastii Korio, która panuje w Korei do XIV w., kiedy zastępuje je dynastia Li. Dynastia ta utrzymała się aż do r. 1910, gdy Korea została przemocą anektowana przez Japonię. Spod panowania japońskiego kraj został wyzwolony w r. 1945. Północną część Korei wyzwoliła Armia Czerwona przy pomocy wydatnej pomocy ruchu partyzanckiego, część południowa została zajęta przez wojska amerykańskie. Wkrótce potem politycy południowokoreańscy przy poparciu USA zaczęli sabotować dążenia przedstawicieli Północy mające na celu zjednoczenie kraju. W 1947 r. Li Syn Man przeprowadził na Południu separatystyczne wybory i w 1948 r. proklamował formalnie w południowej części kraju Republikę Południowokoreańską. W odpowiedzi na to 9 września 1948 r. powstała Koreańska Republika Ludowo - Deokratyczna. Stosunki między obiema częściami kraju były stale napięte wskutek incydentów na linii demarkacyjnej, wywoływanych przez reżim południowokoreański. Wreszcie 25 czerwca 1950 r. wojska południowokoreańskie zaatakowały KRL - D. Wybuchła tzw. wojna koreańska. W działaniach zbrojnych prowadzonych przez oddziały południowokoreańskie brały również udział powołane bezprawnie siły ONZ, których trzon stanowiły jednostki amerykańskie. Walkę narodu KRL - D wspierały kraje socjalistyczne z ZSRR na czele; w październiku 1950 r. do walki po stronie Północy stanęli także chińscy ochotnicy ludowi. Wojna, która kosztowała kilka milionów ofiar i spowodowała ogromne straty materialne, zakończyła się podpisaniem rozejmu 27 lipca 1953 r. Od tamtej pory naród KRL - D pod kierownictwem Partii Pracy Korei pomyslnie buduje ustrój socjalistryczny. W Korei Południowej przy poparciu USA, które utrzymują tam poważny kontyngent wojskowy, zmieniło się już kilku dyktatorów, sprawujących rządy przy pomocy brutalnych metod i tłumioących wszelki opór.</p><p>Rząd Koreański Republiki Ludowo - Demokratycznej wytrwale dąży do zjednoczenia kraju, podejmując stale wysiłki w tym kierunku.</p>",
+        "economy":"<p><strong>Gospodarka:</strong></p>",
+        "map":"<div id='map'><img src='maps/koreapłd-min.jpg' alt='Korea map'></div>"
+       }
+   ],
+   "northKorea": [
+       {   
+        "title":"<p><strong></strong></p>",
+        "subtitle":"<p><strong>Koreańska Republika Ludowo - Demokratyczna</strong></p><p>Dzoson Mindzudzuyi</p><p>Inmin Konghwaguk</p>",
+        "position":"<p><strong>Położenie:</strong></p>",
+		"area":"<p><strong>Powierzchnia:</strong> 120 500 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> 9 prowincji i 2 miasta wydzielone</p>",
+        "capitol":"<p><strong>Stolica:</strong> Phenian (Phiongjang, 1 500 000 mieszkańców)</p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong> Czhongdzin (300 000 mieszk.), Hyngnam (260 000 mieszk.)</p>",
+        "population":"<p><strong>Ludność:</strong> Ponad 17 500 000</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong></p>",
+        "language":"<p><strong>Język urzędowy:</strong> koreański</p>",
+        "currency":"<p><strong>Waluta:</strong> Won = 100 junów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> KRL - D jest państwem socjalistycznym. Naczelnym organem władzy KRL - D jest Najwyższe Zgromadzenie Ludowe o kadencji 4 - letniej, liczące obecnie 615 członków. Wybiera ono ze swego grona Stały Komitet, który działa między sesjami. Na jego czele stoi przewodniczący Zgromadzenia. Najwyższą władzę kierowniczą w kraju jest Centralny Komitet Ludowy o szerokich kompetencjach. Na czele Centralnego Komitetu Ludowego stoi prezydent, będący głową państwa, wybierany na 4 - letnia kadencję. Władzę wykonawczą sprawuje Rada Administracyjna (rząd), na czele której stoi premier powołany przez Najwyższe zgromadzenie Ludowe. Kierowniczą siłą polityczną KRL - D jest Partia Pracy Korei założona w 1945 r.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> KRL - D jest państwem przemysłowo - rolniczym, które od zakończenia wojny we współpracy z krajami socjalistycznymi osiągnęło duże sukcesy gospodarcze. Gospodarka narodowa wykorzystuje bogate zasoby surowców mineralnych (rudy żelaza, złota, srebra, miedzi, ołowiu, cynku, kadmu, aluminium). Działalność gospodarcza sterowana jest centralnie i ukierunkowana za pomocą  systemu planowania państwowego. W KRL - D rozbudowany jest głównie przemysł wydobywczy, hutniczy, chemiczny i maszynmowy. Z gałęzi przetwórczych rozwinął się przemysł włókienniczy i spożywczy. Rolnictwo w KRL - D jest całkowicie uspółdzielnione. Produkcja rolna jest bardzo wydajna dzięki jej konsekwentnej intensyfikacji, mechanizacji i chemizacji. Uprawia się przede wszystkim ryż, kukurydzę, pszenicę, jęczmień, proso i soję. Głównymi partnerami handlowymi KRL - D są kraje socjalistyczne (zwłaszcza ZSRR i ChRL) oraz Japonia.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "southKorea": [
+       {   
+        "title":"<p><strong>Korea Południowa</strong></p>",
+        "subtitle":"<p><strong>Republika Koreańska</strong></p><p> - Tehan Minguk</p>",
+        "position":"<p><strong>Położenie:</strong></p>",
+		"area":"<p><strong>Powierzchnia:</strong> 90 500 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> 9 prowincji i 2 miasta wydzielone</p>",
+        "capitol":"<p><strong>Stolica:</strong> Seul (Soul, ponad 8 000 000 mieszkańców); do 1972 r., r., tzn. do uchwalenia nowej konstytucji KRL - D, Seul był konstytucyjną stolicą Korei Północnej</p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong> Pusan (3 100 000 mieszk.), Tegu (1 600 000 mieszk.)</p>",
+        "population":"<p><strong>Ludność:</strong> 37 000 000</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong></p>",
+        "language":"<p><strong>Język urzędowy:</strong> koreański</p>",
+        "currency":"<p><strong>Waluta:</strong> Won = 100 jeon</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Korea Południowa jest republiką. Zgodnie z konstytucją z 1980 r. głową państwa jest prezyden, wybierany na 7 - letnią kadencję przez kolegium elektorskie, liczące 5 278 osób, wyłaniane w wyborach powszechnych. Organem władzy ustawodawczej jest Zgromadzenie Narodowe o kadencji 4 - letniej, liczące 276 członków. Organem władzy wykonaczej jest rząd z premierem na czele, powoływany przez prezydenta.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Kapitalistyczna gospodarka na południu kraju bazuje na udziale firm zagranicznych, przede wszystkim amerykańskich i japońskich, dlatego też znaczna część środków produkcji znajduje się w rękach obcych właścicieli. Dużą część dochodu narodowego pochłaniają wydatki wojskowe. W Korei Południowej rozwinął się przemysł przetwórczy i lekki, wykorzystujący tanią siłę roboczą.</p><p>Ważną gałęzią przemysłu jest górnictwo; wydobywa się węgiel kamienny, rudy miedzi, cynku i ołowiu, wolframu, molibdenu i żelaza, grafit, złoto i srebro. Podstawą energetyki są elektrownie cieplne. W ostatnim okresie rozwinął się przemysł przetwóczy i ciężki (montownie samochodów, huty żelaza i metali niezależnych, fabryki nawozów sztucznych, rafinerie ropy naftowej, cementownie).</p><p>Uprawia się ryż, jęczmień, pszenicę, proso, sorgo, soję, sezam, bawełnę, tytoń, kongrie, bataty, warzywa, drzewa owocowe, winorośl. hoduje się bydło, trzodę chlewną, jedwabniki. Duże znaczenie ma rybołówstwo.</p><p>Głównymi partnerami handlowymi Korei Południowej są Japonia, USA i RFN.</p>",
+        "map":"<div id='map'><img src='maps/jemenpołudniowy-min.jpg' alt='Southern Yemen map'></div>"
+       }
    ]
 }
