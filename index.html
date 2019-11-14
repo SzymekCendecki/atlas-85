@@ -7,252 +7,235 @@
     <meta name="keywords" content="Niewierne Psy Krupik polityczny atlas świata '86'">
     <meta name="author" content="Szymon Cendecki">
     <title>Polityczny atlas świata '85</title>
-    <script src="js/jquery-3.4.1.min.js"></script>
     <script src="js/engine.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Coiny|Righteous&display=swap" rel="stylesheet">
     <link rel="Stylesheet" type="text/css" href="css/main.css" />
 </head>
 <body>
-    
-    <div id="mainContainer">
-        <header>
-            <h1>POLITYCZNY ATLAS ŚWIATA '85</h1>
-        </header>
-            
-        <nav>
-            <ul id="mainList" class="hide">
-                <li><span id="europe" class="fontSize130p">EUROPA</span>
+
+    <header>
+        <h1>Polityczny Atlas Świata '85</h1>
+    </header>
+
+    <nav>
+
+        <ul id="menu">
+            <li>EUROPA
+                <ul>
+                    <li id="europeDescription">opis Europy</li>
+                    <li id="albania">Albania</li>
+                    <li id="andorra">Andora</li>
+                    <li id="austria">Austria</li>
+                    <li id="belgium">Belgia</li>
+                    <li id="westernBerlin">Berlin Zachodni</li>
+                    <li id="bulgaria">Bułgaria</li>
+                    <li id="czechoslovakia">Czechosłowacja</li>
+                    <li id="denmark">Dania</li>
+                    <li id="finland">Finlandia</li>
+                    <li id="france">Francja</li>
+                    <li id="gibraltar">Gibraltar</li>
+                    <li id="greece">Grecja</li>
+                    <li id="spain">Hiszpania</li>
+                    <li id="holland">Holandia</li>
+                    <li id="irleand">Irlandia</li>
+                    <li id="iceland">Islandia</li>
+                    <li id="yugoslavia">Jugosławia</li>
+                    <li id="liechtenstein">Liechtentein</li>
+                    <li id="luxembourg">Luksemburg</li>
+                    <li id="malta">Malta</li>
+                    <li id="monaco">Monako</li>
+                    <li id="eastGermany">Niem. Rep. Dem.</li>
+                    <li id="norway">Norwegia</li>
+                    <li id="poland">Polska</li>
+                    <li id="portugal">Portugalia</li>
+                    <li id="westGermany">Rep. Fed. Niem.</li>
+                    <li id="romania">Rumunia</li>
+                    <li id="sanMarino">San Marino</li>
+                    <li id="switzerland">Szwajcaria</li>
+                    <li id="sweden">Szwecja</li>
+                    <li id="vatican">Watykan</li>
+                    <li id="hungary">Węgry</li>
+                    <li id="england">Wielka Brytania</li>
+                    <li id="italy">Włochy</li>
+                    <li id="cccp">Związek Radziecki</li>
+                </ul>
+            </li>
+            <li>AMERYKA
+                <ul>
+                    <li>Ameryka Północna
+                        <ul>
+                            <li id="northAmericaDescription">Ameryka Północna</li>
+                            <li id="bermudas">Bermudy</li>
+                            <li id="greenland">Grenlandia</li>
+                            <li id="canada">Kanada</li>
+                            <li id="saintPierreMiquelon">Saint Pierre i Miquelon</li>
+                            <li id="usa">Stany Zjednoczone Ameryki</li>
+                        </ul>                        
+                    </li>
+                    <li>Ameryka Południowa
+                        <ul>
+                            <li id="southAmericaDescription">Ameryka Łacińska</li>
+                            <li id="anguilla">Anguilla</li>
+                            <li id="antiguaBarbuda">Antigua i Barbuda</li>
+                            <li id="dutchAntilles">Antyle Holenderskie</li>
+                            <li id="argentina">Argentyna</li>
+                            <li id="bahamas">Bahamy</li>
+                            <li id="barbados">Barbados</li>
+                            <li id="belize">Belize</li>
+                            <li id="bolivia">Boliwia</li>
+                            <li id="brazil">Brazylia</li>
+                            <li id="chile">Chile</li>
+                            <li id="dominica">Dominika</li>
+                            <li id="dominicanRepublic">Dominikana</li>
+                            <li id="britishVirginIslands">Dziewicze Wyspy Brytyjskie</li>
+                            <li id="usaVirginIslands">Dziewicze Wyspy Stanów Zjednoczonów</li>
+                            <li id="ecuador">Ekwador</li>
+                            <li id="falklandMalvinas">Falklandy - Malwiny</li>
+                            <li id="grenada">Grenada</li>
+                            <li id="guiana">Gujana</li>
+                            <li id="frenchGuiana">Gujana Francuska</li>
+                            <li id="guadeloupe">Gwadelupa</li>
+                            <li id="guatemala">Gwatemala</li>
+                            <li id="haiti">Haiti</li>
+                            <li id="honduras">Honduras</li>
+                            <li id="jamaica">Jamajka</li>
+                            <li id="caimans">Kajmany</li>
+                            <li id="columbia">Kolumbia</li>
+                            <li id="costaRica">Kostaryka</li>
+                            <li id="cuba">Kuba</li>
+                            <li id="martinique">Martynika</li>
+                            <li id="mexico">Meksyk</li>
+                            <li id="montserrat">Montserrat</li>
+                            <li id="nicaragua">Nikaragua</li>
+                            <li id="panama">Panama</li>
+                            <li id="paraguay">Parwgwaj</li>
+                            <li id="peru">Peru</li>
+                            <li id="puertorico">Puerto Rico</li>
+                            <li id="sanChristopherNevis">Saint Christopher (Saint Kitts) i Nevis</li>
+                            <li id="stLucia">Saint Lucia</li>
+                            <li id="stVincent">Saint Vincent</li>
+                            <li id="salvador">Salwador</li>
+                            <li id="surinam">Surinam</li>
+                            <li id="trynidadTobago">Trynidad i Tobago</li>
+                            <li id="turksCaicos">Turks i Caicos</li>
+                            <li id="uruguay">Urugwaj</li>
+                            <li id="venezuela">Wenezuela</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>AFRYKA
+                <ul>
+                    <li id="africaDescription">opis Afryki</li>
+                    <li id="algieria">Algieria</li>
+                    <li id="angola">Angola</li>
+                    <li id="benin">benin</li>
+                    <li id="bostwana">Bostwana</li>
+                    <li id="burkinafaso">Burkina Faso</li>
+                    <li id="burundi">Burundi</li>
+                    <li id="ceuta">Ceuta</li>
+                    <li id="czad">czad</li>
+                    <li id="djibouti">Dżibuti</li>
+                    <li id="egypt">Egipt</li>
+                    <li id="ethiopia">Etiopia</li>
+                    <li id="gabon">Gabon</li>
+                    <li id="gambia">Gambia</li>
+                    <li id="ghana">Ghana</li>
+                    <li id="guinea">Gwinea</li>
+                    <li id="equatorialGuinea">Gwinea Równikowa</li>
+                    <li id="cameroon">Kamerun</li>
+                    <li id="kenya">Kenia</li>
+                    <li id="comoros">Komory</li>
+                    <li id="kongo">Kongo</li>
+                    <li id="lesotho">Lesotho</li>
+                    <li id="livery">Liberia</li>
+                    <li id="libya">Libia</li>
+                    <li id="madagascar">Madagaskar</li>
+                    <li id="malawi">Malawi</li>
+                    <li id="mali">Mali</li>
+                    <li id="morocco">Maroko</li>
+                    <li id="mauretania">Mauretania</li>
+                    <li id="mauritius">Mauritius</li>
+                    <li id="melilla">Melilla</li>
+                    <li id="mozambique">Mozambik</li>
+                    <li id="namibia">Namibia</li>
+                    <li id="niger">Niger</li>
+                    <li id="nigeria">Nigeria</li>
+                    <li id="southAfrica">Rep. Poł. Afryki</li>
+                    <li id="centralAfricanRepublic">Rep. Śrd. Afrykańska</li>
+                    <li id="reunion">Reunion</li>
+                    <li id="rwanda">Rwanda</li>
+                    <li id="westernSahara">Sahara Zach.</li>
+                    <li id="senegal">Senegal</li>
+                    <li id="seychelles">Seszele</li>
+                    <li id="sierraLeone">Sierra Leone</li>
+                    <li id="somalia">Somalia</li>
+                    <li id="ndebele">Suazi</li>
+                    <li id="sudan">Sudan</li>
+                    <li id="saintHelena">Św. Helena</li>
+                    <li id="tanzania">Tanzania</li>
+                    <li id="togo">Togo</li>
+                    <li id="tunisia">Tunezja</li>
+                    <li id="uganda">Uganda</li>
+                    <li id="ivoryCoast">Wyb. Kości Słoniowej</li>
+                    <li id="saintThomasPrince">Wyspy Św. Tomasza i Książęca</li>
+                    <li id="zaire">Zair</li>
+                    <li id="zambia">Zambia</li>
+                    <li id="capeVerde">Zielony Przylądek</li>
+                    <li id="zimbabwe">Zimbabwe</li>
+                </ul>
+            </li>
+            <li>AZJA
+                <ul>
+                    <li id="asiaDescription">opis Azji</li>
+                    <li id="afghanistan">Afganistan</li>
+                    <li id="saudiArabia">Arabia Saudyjska</li>
+                    <li id="bahrain">Bahrajn</li>
+                    <li id="bangladesh">Bangladesz</li>
+                    <li id="bhutan">Buthan</li>
+                    <li id="burma">Birma</li>
+                    <li id="brunei">Brunei</li>
+                    <li id="china">Chiny</li>
+                    <li id="cyprus">Cypr</li>
+                    <li id="philippines">Filipiny</li>
+                    <li id="hongkong">Hongkong</li>
+                    <li id="india">Indie</li>
+                    <li id="indonesia">Indonezja</li>
+                    <li id="iraq">Irak</li>
+                    <li id="iran">Iran</li>
+                    <li id="izrael">Izrael</li>
+                    <li id="japan">Japonia</li>
+                    <li id="yemen">Jemen</li>
+                    <li id="southernYemen">Jemen Południowy</li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </li>
+            <li>AUSTRALIA</li>
+            <li>OCEANIA</li>
+            <li>ANTARKTYDA</li>
+        </ul>
+
+    </nav>
+
+    <div id="mainContainer">         
                     
-                    <ul id="subListEurope" class="hide">
-                        <li id="europeDescription">opis Europy</li>
-                        <li id="albania">Albania</li>
-                        <li id="andorra">Andora</li>
-                        <li id="austria">Austria</li>
-                        <li id="belgium">Belgia</li>
-                        <li id="westernBerlin">Berlin Zachodni</li>
-                        <li id="bulgaria">Bułgaria</li>
-                        <li id="czechoslovakia">Czechosłowacja</li>
-                        <li id="denmark">Dania</li>
-                        <li id="finland">Finlandia</li>
-                        <li id="france">Francja</li>
-                        <li id="gibraltar">Gibraltar</li>
-                        <li id="greece">Grecja</li>
-                        <li id="spain">Hiszpania</li>
-                        <li id="holland">Holandia</li>
-                        <li id="irleand">Irlandia</li>
-                        <li id="iceland">Islandia</li>
-                        <li id="yugoslavia">Jugosławia</li>
-                        <li id="liechtenstein">Liechtentein</li>
-                        <li id="luxembourg">Luksemburg</li>
-                        <li id="malta">Malta</li>
-                        <li id="monaco">Monako</li>
-                        <li id="eastGermany">Niem. Rep. Dem.</li>
-                        <li id="norway">Norwegia</li>
-                        <li id="poland">Polska</li>
-                        <li id="portugal">Portugalia</li>
-                        <li id="westGermany">Rep. Fed. Niem.</li>
-                        <li id="romania">Rumunia</li>
-                        <li id="sanMarino">San Marino</li>
-                        <li id="switzerland">Szwajcaria</li>
-                        <li id="sweden">Szwecja</li>
-                        <li id="vatican">Watykan</li>
-                        <li id="hungary">Węgry</li>
-                        <li id="england">Wielka Brytania</li>
-                        <li id="italy">Włochy</li>
-                        <li id="cccp">Związek Radziecki</li>
-                    </ul>
-                </li>
-
-                <li><span id="america" class="fontSize130p">AMERYKA</span>
-            
-                    <ul id="subListAmericas" class="hide">
-                        <li id="northAmerica">Ameryka Północna
-
-                            <ul id="subListNorthAmerica" class="hide">
-                                <li id="northAmericaDescription">Ameryka Północna</li>
-                                <li id="bermudas">Bermudy</li>
-                                <li id="greenland">Grenlandia</li>
-                                <li id="canada">Kanada</li>
-                                <li id="saintPierreMiquelon">Saint Pierre i Miquelon</li>
-                                <li id="usa">Stany Zjednoczone Ameryki</li>
-                            </ul>
-                        </li>
-                        
-                        <li id="southAmerica">Ameryka Południowa
-
-                            <ul id="subListSouthAmerica" class="hide">
-                                    <li id="southAmericaDescription">Ameryka Łacińska</li>
-                                    <li id="anguilla">Anguilla</li>
-                                    <li id="antiguaBarbuda">Antigua i Barbuda</li>
-                                    <li id="dutchAntilles">Antyle Holenderskie</li>
-                                    <li id="argentina">Argentyna</li>
-                                    <li id="bahamas">Bahamy</li>
-                                    <li id="barbados">Barbados</li>
-                                    <li id="belize">Belize</li>
-                                    <li id="bolivia">Boliwia</li>
-                                    <li id="brazil">Brazylia</li>
-                                    <li id="chile">Chile</li>
-                                    <li id="dominica">Dominika</li>
-                                    <li id="dominicanRepublic">Dominikana</li>
-                                    <li id="britishVirginIslands">Dziewicze Wyspy Brytyjskie</li>
-                                    <li id="usaVirginIslands">Dziewicze Wyspy Stanów Zjednoczonów</li>
-                                    <li id="ecuador">Ekwador</li>
-                                    <li id="falklandMalvinas">Falklandy - Malwiny</li>
-                                    <li id="grenada">Grenada</li>
-                                    <li id="guiana">Gujana</li>
-                                    <li id="frenchGuiana">Gujana Francuska</li>
-                                    <li id="guadeloupe">Gwadelupa</li>
-                                    <li id="guatemala">Gwatemala</li>
-                                    <li id="haiti">Haiti</li>
-                                    <li id="honduras">Honduras</li>
-                                    <li id="jamaica">Jamajka</li>
-                                    <li id="caimans">Kajmany</li>
-                                    <li id="columbia">Kolumbia</li>
-                                    <li id="costaRica">Kostaryka</li>
-                                    <li id="cuba">Kuba</li>
-                                    <li id="martinique">Martynika</li>
-                                    <li id="mexico">Meksyk</li>
-                                    <li id="montserrat">Montserrat</li>
-                                    <li id="nicaragua">Nikaragua</li>
-                                    <li id="panama">Panama</li>
-                                    <li id="paraguay">Parwgwaj</li>
-                                    <li id="peru">Peru</li>
-                                    <li id="puertorico">Puerto Rico</li>
-                                    <li id="sanChristopherNevis">Saint Christopher (Saint Kitts) i Nevis</li>
-                                    <li id="stLucia">Saint Lucia</li>
-                                    <li id="stVincent">Saint Vincent</li>
-                                    <li id="salvador">Salwador</li>
-                                    <li id="surinam">Surinam</li>
-                                    <li id="trynidadTobago">Trynidad i Tobago</li>
-                                    <li id="turksCaicos">Turks i Caicos</li>
-                                    <li id="uruguay">Urugwaj</li>
-                                    <li id="venezuela">Wenezuela</li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
-
-                <li><span id="africa" class="fontSize130p">AFRYKA</span>
-
-                    <ul id="subListAfrica" class="hide">
-                        <li id="africaDescription">opis Afryki</li>
-                        <li id="algieria">Algieria</li>
-                        <li id="angola">Angola</li>
-                        <li id="benin">benin</li>
-                        <li id="bostwana">Bostwana</li>
-                        <li id="burkinafaso">Burkina Faso</li>
-                        <li id="burundi">Burundi</li>
-                        <li id="ceuta">Ceuta</li>
-                        <li id="czad">czad</li>
-                        <li id="djibouti">Dżibuti</li>
-                        <li id="egypt">Egipt</li>
-                        <li id="ethiopia">Etiopia</li>
-                        <li id="gabon">Gabon</li>
-                        <li id="gambia">Gambia</li>
-                        <li id="ghana">Ghana</li>
-                        <li id="guinea">Gwinea</li>
-                        <li id="equatorialGuinea">Gwinea Równikowa</li>
-                        <li id="cameroon">Kamerun</li>
-                        <li id="kenya">Kenia</li>
-                        <li id="comoros">Komory</li>
-                        <li id="kongo">Kongo</li>
-                        <li id="lesotho">Lesotho</li>
-                        <li id="livery">Liberia</li>
-                        <li id="libya">Libia</li>
-                        <li id="madagascar">Madagaskar</li>
-                        <li id="malawi">Malawi</li>
-                        <li id="mali">Mali</li>
-                        <li id="morocco">Maroko</li>
-                        <li id="mauretania">Mauretania</li>
-                        <li id="mauritius">Mauritius</li>
-                        <li id="melilla">Melilla</li>
-                        <li id="mozambique">Mozambik</li>
-                        <li id="namibia">Namibia</li>
-                        <li id="niger">Niger</li>
-                        <li id="nigeria">Nigeria</li>
-                        <li id="southAfrica">Rep. Poł. Afryki</li>
-                        <li id="centralAfricanRepublic">Rep. Śrd. Afrykańska</li>
-                        <li id="reunion">Reunion</li>
-                        <li id="rwanda">Rwanda</li>
-                        <li id="westernSahara">Sahara Zach.</li>
-                        <li id="senegal">Senegal</li>
-                        <li id="seychelles">Seszele</li>
-                        <li id="sierraLeone">Sierra Leone</li>
-                        <li id="somalia">Somalia</li>
-                        <li id="ndebele">Suazi</li>
-                        <li id="sudan">Sudan</li>
-                        <li id="saintHelena">Św. Helena</li>
-                        <li id="tanzania">Tanzania</li>
-                        <li id="togo">Togo</li>
-                        <li id="tunisia">Tunezja</li>
-                        <li id="uganda">Uganda</li>
-                        <li id="ivoryCoast">Wyb. Kości Słoniowej</li>
-                        <li id="saintThomasPrince">Wyspy Św. Tomasza i Książęca</li>
-                        <li id="zaire">Zair</li>
-                        <li id="zambia">Zambia</li>
-                        <li id="capeVerde">Zielony Przylądek</li>
-                        <li id="zimbabwe">Zimbabwe</li>
-                    </ul>
-                </li>
-
-                <li><span id="asia" class="fontSize130p">AZJA</span>
-
-                    <ul id="subListAsia" class="hide">
-                        <li id="asiaDescription">opis Azji</li>
-                        <li id="afghanistan">Afganistan</li>
-                        <li id="saudiArabia">Arabia Saudyjska</li>
-                        <li id="bahrain">Bahrajn</li>
-                        <li id="bangladesh">Bangladesz</li>
-                        <li id="bhutan">Buthan</li>
-                        <li id="burma">Birma</li>
-                        <li id="brunei">Brunei</li>
-                        <li id="china">Chiny</li>
-                        <li id="cyprus">Cypr</li>
-                        <li id="philippines">Filipiny</li>
-                        <li id="hongkong">Hongkong</li>
-                        <li id="india">Indie</li>
-                        <li id="indonesia">Indonezja</li>
-                        <li id="iraq">Irak</li>
-                        <li id="iran">Iran</li>
-                        <li id="izrael">Izrael</li>
-                        <li id="japan">Japonia</li>
-                        <li id="yemen">Jemen</li>
-                        <li id="southernYemen">Jemen Południowy</li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                    </ul>
-                </li>
-                
-                <li><span id="australia" class="fontSize130p">AUSTRALIA</span>
-                </li>
-                <li><span id="oceania" class="fontSize130p">OCEANIA</span>
-                </li>
-                <li><span id="antarctica" class="fontSize130p">ANTARKTYDA</span>
-                </li>
-            </ul>
-
-            <button id="mainMenu">menu</button>
-        </nav>
-            
-        <div id="description">            
-        </div>
-            
-        <footer>
-            <h2>Niewierne Psy</h2>
-        </footer>
-
-
     </div>
+
+    <footer>
+        <h2>NIEWIERNE PSY</h2>
+    </footer>
+    
+  
     
 </body>
 </html>
