@@ -14,58 +14,6 @@ header, footer{
   padding: 1%;
 }
 
-
-#menu{
-  text-align: center;
-  list-style-type: none;
-  overflow: hidden;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-
-  li{
-    padding: 1% 2%;
-    color: #fff;
-    font-weight: bold;
-    background: #333FFF;
-    display : block;
-  }
-
-  li ul{
-    text-align: center;
-    list-style-type: none;
-    overflow: hidden;
-    display: none;  
-  }
-
-  li:hover{
-    background: #33A5FF;
-    color: #000;
-  }
-
-  li:hover ul{
-    position: absolute;
-    display: block;
-    background: #33A5FF;
-    color: #000;
-    height: 80%;
-    overflow: auto;
-
-    li{
-      padding: 2% 2%;
-    }
-  }
-}
-
-
-#mainContainer{
-  width: 90%;
-  height: 81%;
-  margin: 0 auto;
-  overflow: auto;
-}
-
-
 //stylowanie mapki
 
 img{
@@ -73,14 +21,110 @@ img{
   height: auto;
 }
 
-
-@media screen and ( max-width: 599px ){
- 
-
+@mixin width80p{
+  width: 80%;
+  margin: 0 auto;
 }
 
-@media screen and ( min-width: 600px ){
-  
-  
-
+@mixin auto-height{
+  height: 700%;
+  overflow: auto;
+  @include width80p;
 }
+
+
+@media screen and (max-width: 599px) {
+  #mainContainer{
+    width: 100%;
+    height: 85%;
+    overflow: auto;
+  }
+
+  #menu, #menu ul, #menu ol {
+    list-style-type:none;
+    padding:0;
+    margin:0;
+  }
+
+  #menu {
+    background-color:#FFF;
+    font-size:18px;
+    height:2em;
+    width:100%;
+    line-height:2em;
+    text-align:center;
+  }
+
+  #menu li {
+    width:100%;
+    display:block;
+    text-decoration:none;
+    color:#000;
+    padding:0 5px;
+  }
+
+  #menu > li {    
+    @include width80p;
+    background-color:#FDD700;
+    height:2em;
+  }
+
+  #menu > li:hover { background-color:#EEE; }
+  #menu > li:hover > li { color:#09C; }
+  #menu > li:hover > ul { display:block; }
+
+  #menu > li > ul { display:none; @include width80p; }    
+  #menu > li:first-child > ul{ @include auto-height; }
+  #menu > li:nth-child(3) > ul{ @include auto-height; }
+  #menu > li:nth-child(4) > ul{ @include auto-height; }
+      
+   #menu > li > ul > li {
+    position:relative;
+    background-color:#EEE;
+    border-top:1px solid #FFF;
+  }
+
+  #menu > li > ul > li:hover {
+    background-color:#DDD;
+    color:#09C;
+  }
+
+ #menu > li > ul > li > ol {
+    display:none;
+    width:80%;
+    height: 300%;
+    overflow: auto;
+    position:absolute;   
+    margin-top:-4em;
+  }
+
+  #menu > li > ul > li:hover > ol { display:block; }
+
+  #menu > li > ul > li > ol > li {
+    background-color:#CCC;
+    border-top:1px solid #FFF;
+    border-left:1px solid #FFF;
+  }
+
+  #menu > li > ul > li > ol > li:hover { color:#09C; }
+  #menu li, ol li { border-radius:6px;  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @media screen and (min-width: 600px){
+
+        }
