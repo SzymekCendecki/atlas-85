@@ -9,10 +9,53 @@ html, body{
   height: 100%;
 }
 
-header, footer{
-  text-align: center;
-  padding: 1%;
-}
+
+@media screen and (max-width: 425px){
+
+  header, footer{
+    display: none;
+  }
+
+  nav{
+    text-align: center;     
+    height: 20%;
+    overflow: auto;
+  }
+
+  #mainContainer{
+    height: 80%;
+    overflow: auto;
+  }
+
+  #menu, #menu ul, #menu ol {
+    list-style-type: none;     
+  }
+
+  #menu  {
+    width: 100%;
+    text-align:center;
+    color:#fff;
+    font-weight: bolder;
+    background-color: #0000ff;
+  }
+
+  #menu > li > ul{
+    background-color: khaki;
+    color: #000;
+    height: 150px;
+    overflow: auto;
+    display: none;
+    padding: 2% 0;
+  }
+
+  #menu > li > ul > li{
+    padding: 2% 0;
+  }
+
+  #menu > li:hover > ul{
+    display: block;
+  }
+}      
 
 //stylowanie mapki
 
@@ -20,113 +63,3 @@ img{
   width: 100%;
   height: auto;
 }
-
-@mixin width80p{
-  width: 80%;
-  margin: 0 auto;
-}
-
-@mixin auto-height{
-  height: 700%;
-  overflow: auto;
-  @include width80p;
-}
-
-
-@media screen and (max-width: 599px) {
-  #mainContainer{
-    width: 100%;
-    height: 85%;
-    overflow: auto;
-  }
-
-  #menu, #menu ul, #menu ol { list-style-type:none; }
-
-  #menu {
-    background-color:#FFF;
-    font-size:16px;
-    width:100%;
-    text-align:center;
-  }
-
-  #menu li {
-    padding: 1% 0;
-    width:100%;
-    display:block;
-    text-decoration:none;
-    color:#000;
-    border: 1px solid #000;
-  }
-
-  #menu > li {    
-    @include width80p;
-    background-color:#0066ff;
-    height:2em;
-    color: #fff;
-    font-weight: bold;
-  }
-
-  #menu > li:hover { background-color:#33cc33; }
-  #menu > li:hover > li { color:#fff; }
-  #menu > li:hover > ul { display:block; }
-
-  #menu > li > ul { display:none; @include width80p; }    
-  #menu > li:first-child > ul{ @include auto-height; }
-  #menu > li:nth-child(3) > ul{ @include auto-height; }
-  #menu > li:nth-child(4) > ul{ @include auto-height; }
-      
-   #menu > li > ul > li {
-    position:relative;
-    background-color:#33cc33;
-    border-top:1px solid #000;
-  }
-
-  #menu > li > ul > li:hover {
-    background-color:#33cc33;
-    color:#fff;
-  }
-
- #menu > li > ul > li > ol {
-    display:none;
-    width:80%;
-    height: 350%;
-    overflow: auto;
-    position:absolute;   
-    margin-top:-4.5em;
-  }
-
-  #menu > li > ul > li > ol#southAmerica{
-    margin-top: 0;
-  }
-
-  #menu > li > ul > li:hover > ol { display:block; }
-
-  #menu > li > ul > li > ol > li {
-    background-color:#993399;
-    border-top:1px solid #000;
-    border-left:1px solid #000;
-    color: #fff;
-  }
-
-  #menu > li > ul > li > ol > li:hover { color:#fff; }
-  #menu li, ol li { border-radius:6%;  }
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    @media screen and (min-width: 600px){
-
-        }
