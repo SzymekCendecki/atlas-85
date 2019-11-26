@@ -10,7 +10,7 @@ html, body{
 }
 
 
-@media screen and (max-width: 425px){
+@media screen and (max-width: 767px){
 
   header, footer{
     display: none;
@@ -19,11 +19,6 @@ html, body{
   nav{
     text-align: center;     
     height: 20%;
-    overflow: auto;
-  }
-
-  #mainContainer{
-    height: 80%;
     overflow: auto;
   }
 
@@ -42,10 +37,14 @@ html, body{
   #menu > li > ul{
     background-color: khaki;
     color: #000;
-    height: 150px;
+    width: 66%;
+    height: 200px;
     overflow: auto;
     display: none;
+    position: absolute;
     padding: 2% 0;
+    left: 17%;
+    top: 20%;
   }
 
   #menu > li > ul > li{
