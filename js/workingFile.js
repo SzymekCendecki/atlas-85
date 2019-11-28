@@ -1,83 +1,51 @@
-import {showCountryList, jsonIteration, clickCountry, clickCountryAmericas} from './functions.js';
+const path = 'https://szymekcendecki.github.io/atlas-85/json/';
 
-document.addEventListener("DOMContentLoaded", () => {
+const europeArrayJson = [];
 
-    const path = 'https://szymekcendecki.github.io/atlas-85/json/';
+const europeArray = ["europeDescription", "albania", "andorra", "austria", "belgium", "westernBerlin", "bulgaria", "czechoslovakia", "denmark", "finland", "france", "gibraltar", "greece", "spain", "holland", "irleand", "iceland", "yugoslavia", "liechtenstein", "luxembourg", "malta", "monaco", "eastGermany", "norway", "poland", "portugal", "westGermany", "romania", "sanMarino", "switzerland", "sweden", "vatican", "hungary", "england", "italy", "cccp"];
 
-    document.getElementById("mainMenu").addEventListener('click', ()=>{
-        document.getElementById("mainList").classList.toggle("hide");
-    });
+fetch(path + 'europa.json')
+.then(response => response.json())
+.then(data => {
+   // Object.keys(data).forEach(element => console.log(element, element.length));  
+   //jsonIteration(europeArrayJson, data);
+    //clickCountry(europeArray, europeArrayJson);
 
-    //europe
-    showCountryList("europe", "subListEurope");
+    document.getElementById("europeDescription").addEventListener("click", ()=>{
+        document.getElementById("mainContainer").innerHTML = "";
+        document.getElementById("mainContainer").innerHTML = data.europeDescription[0].title +
+        data.europeDescription[0].subtitle + data.europeDescription[0].position + data.europeDescription[0].area + data.europeDescription[0].adminDivision + data.europeDescription[0].capitol + data.europeDescription[0].biggestCities + data.europeDescription[0].population + data.europeDescription[0].naturalConditions + data.europeDescription[0].language + data.europeDescription[0].currency + data.europeDescription[0].historyPoliticalSystem + data.europeDescription[0].economy + data.europeDescription[0].map;
+   });     
 
-    const europeArrayJson = [];
-
-    const europeArray = ["europeDescription", "albania", "andorra", "austria", "belgium", "westernBerlin", "bulgaria", "czechoslovakia", "denmark", "finland", "france", "gibraltar", "greece", "spain", "holland", "irleand", "iceland", "yugoslavia", "liechtenstein", "luxembourg", "malta", "monaco", "eastGermany", "norway", "poland", "portugal", "westGermany", "romania", "sanMarino", "switzerland", "sweden", "vatican", "hungary", "england", "italy", "cccp"];
+    document.getElementById("albania").addEventListener("click", ()=>{
+        document.getElementById("mainContainer").innerHTML = "";
+        document.getElementById("mainContainer").innerHTML = data.albania[0].title +
+        data.albania[0].subtitle + data.albania[0].position + data.albania[0].area + data.albania[0].adminDivision + data.albania[0].capitol + data.albania[0].biggestCities + data.albania[0].population + data.albania[0].naturalConditions + data.albania[0].language + data.albania[0].currency + data.albania[0].historyPoliticalSystem + data.albania[0].economy + data.albania[0].map;
+   });     
    
-    fetch(path + 'europa.json')
-    .then(response => response.json())
-    .then(data => {
-        jsonIteration(europeArrayJson, data);
-        clickCountry(europeArray, europeArrayJson, "subListEurope");
-    })
-    .catch(error => console.error(error))
+   document.getElementById("andorra").addEventListener("click", ()=>{
+    document.getElementById("mainContainer").innerHTML = "";
+    document.getElementById("mainContainer").innerHTML = data.andorra[0].title +
+    data.andorra[0].subtitle + data.andorra[0].position + data.andorra[0].area + data.andorra[0].adminDivision + data.andorra[0].capitol + data.andorra[0].biggestCities + data.andorra[0].population + data.andorra[0].naturalConditions + data.andorra[0].language + data.andorra[0].currency + data.andorra[0].historyPoliticalSystem + data.andorra[0].economy + data.andorra[0].map;
+});  
+   
 
-    //america
-    showCountryList("america", "subListAmericas");
-    showCountryList("northAmerica", "subListNorthAmerica");
-    showCountryList("southAmerica", "subListSouthAmerica");
+})
+.catch(error => console.error(error))
 
-    const northAmericaJson = [];
-    const northAmerica = ["northAmericaDescription", "bermudas", "greenland", "canada", "saintPierreMiquelon", "usa"];
+//let jsonIteration = (arrayJson, data) =>{
+ //   Object.keys(data).forEach(element => arrayJson.push(element));  
+//}
 
-    fetch(path + 'northAmerica.json')
-    .then(response => response.json())
-    .then(data => {
-        jsonIteration(northAmericaJson, data);
-        clickCountryAmericas(northAmerica, northAmericaJson, "subListAmericas");
-    })
-    .catch(error => console.error(error))
+//let clickCountry = (countryArray, countryArrayJson) =>{
+   // for(let i=0; i<countryArray.length; i++){
+   //     document.getElementById(countryArray[i]).addEventListener("click", ()=>{
+   //         showCountry(countryArrayJson[i][0]);
+   //     });            
+   // }     
+//}
 
-    const southAmericaJson = [];
-    const southAmerica = ["southAmericaDescription", "anguilla", "antiguaBarbuda", "dutchAntilles", "argentina", "bahamas", "barbados", "belize", "bolivia", "brazil", "chile", "dominica", "dominicanRepublic", "britishVirginIslands", "usaVirginIslands", "ecuador", "falklandMalvinas", "grenada", "guiana", "frenchGuiana", "guadeloupe", "guatemala", "haiti", "honduras", "jamaica", "caimans", "columbia", "costaRica", "cuba", "martinique", "mexico", "montserrat", "nicaragua", "panama", "paraguay", "peru", "puertorico", "sanChristopherNevis", "stLucia", "stVincent", "salvador", "surinam", "trynidadTobago", "turksCaicos", "uruguay", "venezuela"];
-
-
-    fetch(path + 'southAmerica.json')
-    .then(response => response.json())
-    .then(data => {
-        jsonIteration(southAmericaJson, data);
-        clickCountryAmericas(southAmerica, southAmericaJson, "subListAmericas");
-    })
-    .catch(error => console.error(error))
-
-    //africa
-    showCountryList("africa", "subListAfrica");
-
-    const africaArrayJson = [];
-
-    const africaArray = ["africaDescription", "algieria", "angola", "benin", "bostwana", "burkinafaso", "burundi", "ceuta", "czad", "djibouti", "egypt", "ethiopia", "gabon", "gambia", "ghana", "guinea", "equatorialGuinea", "cameroon", "kenya", "comoros", "kongo", "lesotho", "livery", "libya", "madagascar", "malawi", "mali", "morocco", "mauretania", "mauritius", "melilla", "mozambique", "namibia", "niger", "nigeria", "southAfrica", "centralAfricanRepublic", "reunion", "rwanda", "westernSahara", "senegal", "seychelles", "sierraLeone", "somalia", "ndebele", "sudan", "saintHelena", "tanzania", "togo", "tunisia", "uganda", "ivoryCoast", "saintThomasPrince", "zaire", "zambia", "capeVerde", "zimbabwe"];
-
-    fetch(path + 'africa.json')
-    .then(response => response.json())
-    .then(data => {
-        jsonIteration(africaArrayJson, data);
-        clickCountry(africaArray, africaArrayJson, "subListAfrica");
-    })
-    .catch(error => console.error(error))
-    
-    //asia
-    showCountryList("asia", "subListAsia");
-
-    const asiaArrayJson = [];
-
-    const asiaArray = ["asiaDescription", "afghanistan", "saudiArabia", "bahrain", "bangladesh", "bhutan", "burma", "brunei", "china", "cyprus", "philippines", "hongkong", "india", "indonesia", "iraq", "iran", "izrael", "japan", "yemen", "southernYemen"];
-
-    fetch(path + 'asia.json')
-    .then(response => response.json())
-    .then(data => {
-        jsonIteration(asiaArrayJson, data);
-        clickCountry(asiaArray, asiaArrayJson, "subListAsia");
-    })
-    .catch(error => console.error(error))
-});
+const showCountry = country =>{
+    document.getElementById("mainContainer").innerHTML = "";
+    document.getElementById("mainContainer").innerHTML = `country.title,  country.subtitle, country.position, country.area, country.adminDivision, country.capitol, country.biggestCities, country.population, country.naturalConditions, country.language, country.currency, country.historyPoliticalSystem, country.economy, country.map`;
+}
