@@ -1,0 +1,124 @@
+{
+    "oceaniaDescription": [
+       {
+           "title":"<p><strong>OCEANIA</strong></p><p>(Ogólna charakterystyka polityczno-gospodarcza)</p>",
+           "position":"<p><strong>Położenie:</strong> Nazwa &bdquo;Oceania&rdquo; oznacza wyspy leżące w środkowej i południowo - zachodniej częśći Oceanu Spokojnego, w rejonie ograniczonym od zachodu przez Australię i Półwysep Malajski, a od północy, wschodu i południa przez szeroki, pozbawiony wysp pas oceanu</p>",
+           "area":"<p><strong>Powierzchnia:</strong> Całkowita - 30 000 000 km<sup>2</sup>, w tym ok. 1 000 000 km<sup>2</sup> lądu</p>",
+           "adminDivision":"<p><strong>Podział administracyjny:</strong> 10 niepodległych państw, 1 stan federaln USA, 14 terytoriów kolonialnych i zależnych</p>",
+           "biggestCities":"<p><strong>Największe miasta:</strong> Wellington na Nowej Zelandii (140 000 mieszk.), Honolulu na Hawajach (631 000 mieszk.), Noum&#233;a na Nowej Kaledonii (50 000 mieszk.)</p>",
+           "population":"<p><strong>Ludność:</strong> Ok. 4 500 000;l większość stanowią rdzenni mieszkańcy wysp Oceanii - Polinezyjczycy, Mikronezyjczycy i Melanezyjczycy, mniejszość - osadnicy europejscy (z wyjątkiem Nowej Zelandii), Chińczycy, Hindusi i przedstawiciele innych narodowości</p>",
+           "naturalConditions":"<p><strong>Warunki naturalne:</strong> Oceania leży częściowo na wyspach pochodzenia kontynentalnego, częściowo na wyspach pochodzenia wulkanicznego, a częściowo na atolach koralowych. Większość wysp Oceanii leży w strefie klimatów równikowych, część północna i południowa wkracza w strefę klimatów zwrotnikowych, a Nowa Zelandia - w strefę kliamtów podzwrotników i umiarkowanych</p>",
+           "historyPoliticalSystem":"<p><strong>Historia i zarys polityczny:</strong> Większość terytorium Oceanii została odkryta przez żeglarzy hiszpańskich, holenderskich i brytyjskich w okresie wielkich wypraw zamorskich. Niektóre archipelagi i wyspy z racji położenia na skrzyżowaniach ważnych szlaków morskich i dużego znaczenia strategicznego stały się w minionych wiekach areną ostrych starć między mocarstwami kolonialnymi, dążącymi do politycznego, gospodarczego, a przede wszystkim militarnego opanowania tej strefy Oceanu Spokojnego. Po II wojnie światowej w wielu wyspiarskich krajach Oceanii rozwinął się ruch narodowowyzwoleńczy. Poczynając od sześcdziesiątych naszego stulecia byłe posiadłości kolonialne zaczynają stopniowo uzyskiwać niepodległość. Jednak niektóre wyspy są do dziś uzależione od Wielkiej Brytanii, Francji, Nowej Zelandii, Australii i USA. W ostatnim okresie Waszyngton, zgodnie zw swoimi globalnymi planami strategicznymi i przy poparciu swych sojuszników -Australii i Nowej Zelandii, dąży do umocnienia własnych pozycji militarnych w tym rejonie, tworząc na wielu wyspach bazy wojskowe. W tym samym celu chce również wykorzystać terytorium Powierniczych Wysp Pacyfiku, których administracyję powierzyła mu ONZ. W ostatnich latach terytorium to zostało podzielone na kilka państewek całkowicie uzależnionych od USA pod względem politycznym i gospodarczym.</p>",
+           "economy":"<p><strong>Gospodarka:</strong> Podstawą gospodarki większości krajów Oceanii jest niemal wyłącznie rolnictwo, nastawione głównie na uprawę roślin eksportowych. Produkuję się tu koprę, olej kokosowy, uprawia wanilię, trzcinę cukrową, kakao, banany, ananasy, owoce cytrusowe.</p><p>Dość dobrze rozwinięte jest również rybołówstwo, służące do zaspokajaniu podstawowych potrzeb żywnościowych mieszkańców większości wysp. W niektórych rejonach Oceanii bardzo dobrze rozwinął się przemysł wydobywczy. Przemysł przetwórczy w większości krajów dopiero zaczyn się rozwijać. Decydującą pozycję gospodarczą w większości krajów Oceanii zajmuje kapitał zagraniczny, zwłaszcza północnoamerykański, australijski, nowozelandzki, a także brytyjski, francuski i częściowo japoński. Wymienione państwa należą do najpoważniejszych partnerów handlowych krajów Oceanii.</p>",
+           "map":"<div id='map'></div>"
+       }
+   ],
+   "fiji": [
+       {   
+        "title":"<p><strong>FIDŻI</strong></p>",
+        "subtitle":"<p><strong></strong>Fidżi</p><p>Fiji</p>",
+        "position":"<p><strong>Położenie:</strong> Państwo wyspiarskie w południowo - zachodniej części Oceanu Spokojnego. Leży na 844 wyspach, wysepkach i atolach otoczonych rafami koralowymi. Największymi wyspami archipelagu są Viti Levu (Większa Wyspa), Vanua Levu (Mniejsza Wyspa), Taveuni i Kandavu</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 18 272 km<sup>2</sup>, wraz z wyspą Rotuma</p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> 14 okręgów</p>",
+        "capitol":"<p><strong>Stolica:</strong> Suva (ok. 80 000 mieszkańców)</p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong> Lautoka, Singatoka, Mbua, Tutu</p>",
+        "population":"<p><strong>Ludność:</strong> Ok. 640 000. Większość populacji stanowią Fidżijczycy i Hindusi, oprócz nich mieszkają tu Europejczycy i Chińczycy</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Większość wysp jest pochodzenia wulkanicznego i ma górzystą powierzchnię. Klimat tropikalny</p>",
+        "language":"<p><strong>Język urzędowy:</strong> angielski i fidżi</p>",
+        "currency":"<p><strong>Waluta:</strong> Dolar Fidżi = 100 centów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Niektóre wyspy archipelagu Fidżi zostały odkryte w 1643 r. przez żeglarza holenderskiego Abla Tasmana, pozostałe - w latach 1774 - 1779 przez angielskiego żeglarza Jamesa Cooka. Europejska kolonizacja wysp rozpoczęła się jednak dopiero w II poł XIX w. W r. 1874 wyspy Fidżi zostały uznane za posiadłość korony brytyjskiej; kolonią brytyjską były aż do 10 października 1970 r., kiedy to Londyn pod naciskiem ruchu narodowowyzwoleńczego zmuszony był przyznać im niepodległość. Fidżi jest monarchią konstytucyjną, niepodległym państwem człownkowskim Wspólnoty Narodów. Głową państwa jest królowa brytyjska, reprezentowana na wyspach przez gubernatora generalnego. Gubernator, na wniosek premiera, mianuje ministrów. Parlament składa się z Senatu (którego członkowie są mianowani) oraz pochodzącej z wyboru Izby Reprezentantów, liczącej 52 deputownych.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Fidżi jest krajem słabo rozwinietym ekonomicznie. Gospodarka znajduje się pod silnym wpływem monopoli zagranicznych, zwłaszcza australijskich i północnoamerykańskich. Podstawę ekonomiki stanowi sektor usług i rolnictwa, nastawionego przede wszystkim na uprawę trzciny cukrowej, palmy kokosowej, bananów, cytryn, kawy, kakako, kauczuku, ryżu oraz tytoniu. W tropikalnych lasach prowadzi się wyrąb cennych gatunków drzew. Duże znaczenie ma również pozyskiwanie masy perłowej. Przemysł jest słabo rozwinięty. Na wyspie Vanua Levu znajdują się kopalnie złota. Głównymi partnerami handlowymi Fidżi są Australia, Wielka Brytania, Japonia, Nowa Zelandia i Indie. Eksport obejmuje cukier trzcinowy, koprę, olej kokosowy i mączkę kokosową, banany i złoto, import zaś - przede wszystkim towary konsumpcyjne.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "guam": [
+       {   
+        "title":"<p><strong>GUAM</strong></p>",
+        "subtitle":"<p><strong>Guam</strong></p><p>GUAM</p><p>(Terytorium zależne USA pod zarządem Departamentu Spraw Wewnętrrznych - tzw. terytorium nie wcielone)</p>",
+        "position":"<p><strong>Położenie:</strong> Wyspa Guam leży w najbardziej na południe wysuniętej części archipelagu Marianów w Mikronezji</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 549 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> Jedna całość organizacyjna</p><p><strong>Ośrodek administracyjny:</strong> Agana (ok. 5 000 mieszkańców)</p>",
+        "capitol":"<p><strong>Stolica:</strong></p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+        "population":"<p><strong>Ludność:</strong> 116 000, przeważnie Mikronezyjczycy, poza tym przybysze z Filipin i Malajów, potomkowie kolonistów hiszpańskich i in. Przebywa tu także 24 500 żołnierzy sił zbrojnych USA wraz z rodzinami</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wyspa pochodzenia wulkanicznego, stosunkowo płaska (przeciętna wysokość - 200 m. n. p. m.). Klimat tropikalny</p>",
+        "language":"<p><strong>Język urzędowy:</strong> angielski (tubtylcy mówią językiem chamorro)</p>",
+        "currency":"<p><strong>Waluta:</strong> Dolar USA = 100 centów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Wyspę - największą w archipelagu Marianów - odkrył w r. 1521 żeglarz hiszpański Ferdynand Magellan; do r. 1898 znajdowała się we władaniu Hiszpanii. Po wojnie amerykańsko - hiszpańskiej, w r. 1898 na podstawie traktatów paryskich przypadła Stanom Zjednoczonym, które włączyły ją do swego systemu kolonialnego. W latach 1941 - 1944 wyspa była okupowana przez faszystowską Japonię. W r. 1950 Guam uzyskał formalnie autonomię wewnętrzną (jego mieszkańcy posiadaja obywatelstwo USA, nie mogą jednak brać udziału w amerykańskich wyborach powszechnych). W r. 1972 weszła w życie ustawa, na mocy której Guam ma 1 przedstawiciela w Izbie Reprezenatntów USA (nie ma on jednak prawa głosu na posiedzeniach plenarnych). We wrześniu 1976 r. w drodze referendum zatwierdzono projekt, zgodnie z którym Guam w dalszym ciągu będzie utrzymywać związki z USA, zarazem jednak prowadzić z Waszyngtonem negocjacje w sprawie polepszenia swego statusu. Wyspą zarządza gubernator, wybierany co 4 lata. Wyspa Guam jest w chwili obecnej kluczową amerykańską bazą wojskową na Oceanie Spokojnym.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Guam jest krajem słabo rozwiniętym, większość tutejszej ludności pracuje w obiektach wojskowych USA. W sferze usług zatrudnione jest 80% populacji wyspy, pozostałe 20% - w przemyśle i rolnictwie, które nastawione jest na uprawę palmy koosowej, bananów, roślin strączkowych, manioku, trzciny cukrowej, kawy, kakao i cytrusów. Rozwinięta jest także hodowla drobiu, rybołówstwo, hodowla trzody chlewnej i bydła. Przemysł reprezentują zakłady produkujące napoje bezalkoholowe, browary, fabryka zegarków, zakłady przemysłu włókienniczego oraz rafinerie ropy naftowej. Rozwija się ruch turystyczny. Podstawowym artykułem eksportowym jest kopra; import obejmuje paliwa, artykuły spożywcze i towary konsumpcyjne. Głównym partnerem handlowym Guam są USA.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "hawaii": [
+       {   
+        "title":"<p><strong>HAWAJE</strong></p>",
+        "subtitle":"<p><strong>Wyspy Hawajskie</strong></p><p>Hawaiian Islands</p><p>Stan federalny USA)</p>",
+        "position":"<p><strong>Położenie:</strong> Środkowa część Oceanu Spokojnego; archipelag składa się z 24 wysp, z których największe to Hawaii, Maui, Molokai, Oahu, Kauai, Niihau i Lehai</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 16 705 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> Stan federalny USA</p>",
+        "capitol":"<p><strong>Stolica:</strong> Honolulu (631 000 mieszkańców)</p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong> Mahukona, Makapala, Hawi, Halawa, Ewa</p>",
+        "population":"<p><strong>Ludność:</strong> 900 000. Skład narodowościowy bardzo zróżnicowany; mieszkają tu m. in. Amerykanie, Europejczycy, Japończycy, Filipińczycy, Chińczycy; rdzenni mieszkańcy pochodzenia polinezyjskiego - Hawajczycy - stanowią niewielki procent populacji</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Hawaje sa wyspami pochodzenia wulkanicznego o powierzchni przeważnie górzystej. Klimat tropikalny</p>",
+        "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+        "currency":"<p><strong>Waluta:</strong> Dolar USA = 100 centów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Wyspy odkryli w XVI w. Hiszpanie. W tym okresie istniało tu kilka samodzielnych państw, które na początku XIX w. utworzyły zjednoczone królestwo hawajskie. W r. 1893 na wyspach ląduje amerykańska piechota morska. Amerykanie usuwają krółowa Hawajów i w 1894 r. proklamują Republikę Hawajską, całkowicie uzależnioną od Satnów Zjednoczonych. W 1898 r. USA anektuje Hawaje, a w 1900 r. ogłaszają je terytorium Stanów Zjednoczonych i tworzą na wyspach swoją główną bazę wojskową na Oceanie Spokojnym. W r. 1959 Hawaje stają się 50. stanem związkowym USA. Hawaje posiadają swych wybieralnych przedstawicieli w Senacie i Izbie Reprezentantów Kongresu USA, własnego gubernatora, Senat i Izbę Reprezentantów.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Hawaje są stanem rolniczym, specjalizującym się w uprawie - przeznaczonym na eksport - ananasów, trzciny cukrowej, kawy, sizalu i bananów. Na użytek wewnęterzny uprawia się ryż. Dość dobrze rozwinięta jest również hodowla bydła i trzody chlewnej. Przemysł nastawiony jest na przetwórstwo produktów rolnych. Duże znaczenie dla gospodarki wysp ma rozwinięty przemysł turystyczny.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "kiribati": [
+       {   
+        "title":"<p><strong>KIRIBATI</strong></p>",
+        "subtitle":"<p><strong>Republika Kiribati</strong></p><p>Republic of Kiribati</p>",
+        "position":"<p><strong>Położenie:</strong> Zachodnia część Oceanu Spokojnego; składa się z 33 wysp koralowych (16 atoli archipelagu Gilberta, 8 atoli archipelagu Feniks, 8 wysepek Line oraz wyspa Ocean) rozrzuconych na przestrzeni ok. 5 mln km<sup>2</sup> po obu stronach równika</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 861 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> Jedna całość administracyjna</p>",
+        "capitol":"<p><strong>Stolica:</strong> Tarawa na wyspie Tarawa (ok. 20 000 mieszkańców)</p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+        "population":"<p><strong>Ludność:</strong> 60 000, przeważnie Mikronezyjczycy</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wyspy są dość płaskie, otoczone licznymi rafami koralowymi. Klimat tropikalny</p>",
+        "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+        "currency":"<p><strong>Waluta:</strong> Dolar australijski = 100 centów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Pierwszym Europejczykiem, który pojawił się w tej części Oceanu Spokojnego, zamieszkałej przez Mikronezyjczyków, był angielski kapitan H. Gilbert. Miao to miejsce w r. 1765. Od jego nazwiska wziął jeden z archipelagów wchodzący w skład dzisiejszej Republiki Kiribati. Pozostałe wyspy koralowe w tym rejonie zostały odkryte w XVI, XVII i XVIII w. przez żeglarzy hiszpańskich, angielskich i francuskich. W r. 1892 stanowiące trzon obecnej Republiki Kiribati, Wyspy Gilberta wraz z Wyspami Ellice (Lagunowymi) uznano za protektorat brytyjski, a w r. 1915 - za kolonię Wielkiej Brytanii. W r. 1975 Londyn przyznał Wyspom Gilberta status samodzielnej kolonii, a po administracyjnym uniezależnieniu się Wysp Ellice przyznał im w 1977 r. autonomię wewnętrzną. 12 lipca 1979 r. kolonia uzyskała niepodległość i przyjęła nazwę Republika Kiribati. Głową państwa jest prezydent, stojący zarazem na czele rządu. Władza ustawodawcza należy do 1 - izbowej Izby Zgromadzenia, liczącej 36 członków. W kraju nie ma partii politycznych.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Republika Kiribati jest państwem słabo rozwiniętym. Głównym tutejszym bogactwem są fosforyty, będące najważniejszym artykułem eksportowym. Dość dobrze rozwinięte  jest rolnictwo, nastawione na uprawę palmy kokosowej, ananasów i batatów. Przemysl nie istnieje. Duże znaczenie dla gospodarki narodowej ma rybołówstwo, hodowla drobiu i trzody chlewnej. Oprócz fosforytów eksportuje się również koprę. Import obejmjue artykuły konsumpcyjne, paliwa i materiały budowlane. Najważniuejszymi partnerami handlowymi Republiki Kiribati są Australia, Fidżi, Nowa Zelandia i Wielka Brytania.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "midway": [
+       {   
+        "title":"<p><strong>MIDWAY</strong></p>",
+        "subtitle":"<p><strong>Wyspy Midway</strong></p><p>(Terytorium zależne USA)</p>",
+        "position":"<p><strong>Położenie:</strong> Grupa wysp (atol Midway i dwie wyspy) na Oceanie Spokojnym w archipelagu Hawaje, ok. 2 200 km na północny zachód od głównych wysp hawajskich</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 5,2 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong></p>",
+        "capitol":"<p><strong>Stolica:</strong></p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+        "population":"<p><strong>Ludność:</strong> 2 300,obywatele USA</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wyspy pochodzenia koralowego, płaskie. Kliamt subtropikalny</p>",
+        "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+        "currency":"<p><strong>Waluta:</strong> Dolar USA = 100 centów</p><p><strong>Charakterystyka:</strong> Wyspy Midway służą Stanom Zjednoczonym jako wojskowa baza morska i lotnicza na Oceanie Spokojnym. Poza tym USA zbudowały tu stację obsługi transpacyficznej kablowej linii telekomunikacyjnej.</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong></p>",
+        "economy":"<p><strong>Gospodarka:</strong></p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "nauru": [
+       {   
+        "title":"<p><strong>NAURU</strong></p>",
+        "subtitle":"<p><strong>Republika Nauru</strong></p><p>Republic of Nauru</p>",
+        "position":"<p><strong>Położenie:</strong> Zaachodnia część Oceanu Spokojnego, Mikronezja</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 21,4 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> 14 okręgów</p>",
+        "capitol":"<p><strong>Stolica:</strong> Siedziba rządu znajduje się w okręgu Jaren; kraj ten nie ma stolicy w tradycyjnym tego słowa znaczeniu</p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+        "population":"<p><strong>Ludność:</strong> Ok. 8 000, połowę populacji stanowią Nauryjczycy; oprócz nich mieszka tu ok. 1 800 Polinezyjczyków, 850 Chinczyków i ponad 500 Europejczyków</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wyspa Nauru, pochodzenia koralowego, leży w odległości ok. 50 km na południe od równika. powierzchnia wyspy jest dość płaska. Klimat tropikalny</p>",
+        "language":"<p><strong>Język urzędowy:</strong> angielski i nauru</p>",
+        "currency":"<p><strong>Waluta:</strong> Dolar australijski = 100 centów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Wyspę Nauru, zamieszkała przez Polinezyjczyków, odkrył w 1798 r. kapitan amerykańskiefgo statku wielorybniczego I. Pearn. W II poł. XIX w. Nauru dostaje się w sferę interesów kolonialnych cesarskich Niemiec, które w r. 1888 dokonują aneksji wyspy. Od wybuchu I wojny światowej aż do r. 1920 okupują ją Australijczycy. Od 1921 r. Nauru była terytorium mandatowym ówczesnej Ligi Narodó pod wspólnym zarządem Wielkiej Brytanii, Australii i Nowej Zelandii. W r. 1947 Nauru zostało uznane za terytorium powiernicze ONZ pod wspólnym zarządem Wielkiej Brytanii, Australii i Nowej Zelandii, który w imieniu tych trzech panstw sprawowała Australia. Pod presją ruchu narodowowyzwoleńczego w r. 1966 Australia zezwoliła na utworzenie rady Ustawodawczej Nauru, a 31 stycznia 1968 r. przyznała wyspie całkowitą niepodległość. Republik Nauru jest niepodległym państwem, członkiem brytyjskiej Wspólnoty Narodów (nie ma jednal prawa brać udziału w konferencjach premierów krajów członkowskich Commonwealthu). Głową państwa jest prezydent wybierany na 3 lata, stojący jednocześnie na czele rządu i piastujący m. in. urząd ministra spraw zagranicznych. Władza ustawodawcza należy do 18 - osobowego parlamentu.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Republika Nauru jest państwem słabo rozwiniętym. Jej gospodarka narodowa jest prawie całkowicie nastawiona na eksploatację bogactw wysokoprocentowych złóż fosforytów. Wydobycie znajduje się w rękach towarzystwa państwowego. Eksport fosforytów jest źródłem znacznych dochodów państwa i podstawą stosunkowo wysokiej stopy życiowej ludności Nauru. Wskutek zakrojonego na szeroką skalę wydobycia fosforytów zniszczono całkowicie 80% ziemi uprawnej i wnętrze wyspy przypomina martwy &bdquo;krajobraz księżycowy&rdquo;.</p><p>Głównymi partnerami handlowymi Republiki Nauru są Wielka Brytania, Australia, Nowa Zelandia i Japonia.</p><p>Podstawowym artykułem eksportowym są fosforyty. Import obejmuje szeroki asortyment towarów przemysłowych większość artykułów spożywczych i wodę pitną.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ]
+}
