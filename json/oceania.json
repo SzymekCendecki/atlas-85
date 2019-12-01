@@ -170,9 +170,280 @@
         "naturalConditions":"<p><strong>Warunki naturalne:</strong></p>",
         "language":"<p><strong>Język urzędowy:</strong> francuski</p>",
         "currency":"<p><strong>Waluta:</strong> Franl CFP = 100 centów</p>",
-        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Nową Kaledonię odkrył w 1774 r. angielski żeglarz James Cook. W 1853 r. wyspę zajęła Francja. W latach 1864 - 1894 była kolonią karną. Pod francuskim zarządem kolonialnym pozostawała do 1946 r., kiedy Paryż uznał ją za tzw. terytorium zamorskie. W r. 1976 rząd francuski przyznał Nowej Kaledonii status znacznie rozszerzający uprawnienia administracji lokalnej, który został jednak przez większość tutejszych partii politycznych dążących do całkowitej niepodległości odrzucony jako niewystarczjący. Archipelag podlega wysokiemu komisarzowi francuskiemu, mianowanemu przez rząd w Paryżu. Organem ustawodawczym jest 36 - osobowe Zgromadznie Terytorialne</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Nową Kaledonię odkrył w 1774 r. angielski żeglarz James Cook. W 1853 r. wyspę zajęła Francja. W latach 1864 - 1894 była kolonią karną. Pod francuskim zarządem kolonialnym pozostawała do 1946 r., kiedy Paryż uznał ją za tzw. terytorium zamorskie. W r. 1976 rząd francuski przyznał Nowej Kaledonii status znacznie rozszerzający uprawnienia administracji lokalnej, który został jednak przez większość tutejszych partii politycznych dążących do całkowitej niepodległości odrzucony jako niewystarczjący. Archipelag podlega wysokiemu komisarzowi francuskiemu, mianowanemu przez rząd w Paryżu. Organem ustawodawczym jest 36 - osobowe Zgromadznie Terytorialne. Władzę wykonawczą sprawuje Rada Rządząca (rząd), której przewodniczący wysoki komisarz. We francuskim Zgromadzeniu Narodowym Nową Kaledonię reprezentują 2 deputowanych i 1 senator.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Nowa Kaledonia jest krajem słabo rozwiniętym gospodarczo. Kluczowe znaczenie dla jej ekonomiki ma wydobycie i wytop niklu - wyspa należy do czołówki światowych producentów tego metalu. Na Nowej Kaledonii znajdują się znaczne zasoby innych minerałó: chromu, żelaza, kobaltu i miedzi. Produkcja rolna nastawiona jest na uprawę kukurydzy, kawy, ziemniaków, manioku, orzechów kokosowych itp. Hoduje się konie, bydło, drób i trzodę chlewną.</p><p>Do najważniejszych artykułó eksportowych należą nikiel i kawa. Sprowadza się żywność, paliwa, maszyny, urządzenia przemysłowe, środki transportu, tekstylia, artykuły konsumpcyjne. Głównymi partnerami handlowymi Nowej Kaledonii są Francja i Australia.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "newZealandDominium": [
+       {   
+        "title":"<p><strong>NOWA ZELANDIA</strong></p>",
+        "subtitle":"<p><strong>Dominium Nowej Zelandii</strong></p><p>Dominion of New Zealand</p>",
+        "position":"<p><strong>Położenie:</strong> Południowo - zachodnia część Oceanu Spokojnego; składa się z 2 dużych wysp (ółnocnej i Południowej) oraz wielu drobnych wysepek</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 268 676 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> 10 prowincji</p>",
+        "capitol":"<p><strong>Stolica:</strong> Wellington (ok. 350 000 mieszkańców) na Wyspie Północnej</p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong> Auckland (743 000 mieszk.), Chrsitchurch (295 000 mieszk.)</p>",
+        "population":"<p><strong>Ludność:</strong> Ok. 3 100 000; większość populacji stanowią potomkowie osadników europejskich (brytyjskich). Oprócz nicj mieszka tu ok. 275 000 tubylców - Maorysów</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wyspę Północną o łagodnie pofalowanej powierzchni, w części środkowej przechodzącej w płaskowyż wulkaniczny z czynnymi wulkanami, gejzerami i jeziorami, oddziela od Wyspy Południowej, na której zachodnim wybrzeżu ciągnie się masyw Alp Południowych, wąska Cieśnian Cooka. Klimat morski: podzwrotnikowy na Wyspie Północnej i umiarkowany, ciepły na Wyspie Południowej</p>",
+        "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+        "currency":"<p><strong>Waluta:</strong> Dolar nowozelandzki = 100 centów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Za odkrywcę Nowej Zelandii uważa się holenderskiego żeglarza Abla Tasmana, który w grudniu 1642 r. przybił do brzegów Wyspy Południowej, a następnie dotarł do Wyspy Północnej. Dokładniej jednak zbadał wyspy dopiero angielski żeglarz James Cook w r. 1769. Pierwsi osadnicy europejscy (przede wszystkim Brytyjczycy) zaczynają przybywać tu w I poł. XIX w., odbnierając ziemie rdzennym mieszkańcom - Maorysom. W r. 1840 w Waitangi została zawarta umowa między Londynem a wodzami maoryskimi, na mocy której Nowa Zelandia stała się kolonią brytyjską. W 1852 r. uzyskała autonomię wewnętrzną, a w cztery lata później w kraju utworzono parlament i powołano rząd. W 1907 r. Nowa Zelndia uzyskała status dominium. W czasie I wojny światowej walczyła u boku Wielkiej Brytanii przeciw cesarskim Niemcom, a jej wojska zajęły część kolonii niemieckich na Oceanii (m. in. wyspę Nauru i Samoa Zachodnie).</p><p>Na mocy postanowień konferencji Imperium Brytyjskiego z 1926 r. Nowa Zelandia uzyskała prawo do całkowitej samodzielności. W czasie II wojny światowej oddziały nowozelandzkie wałczyły wraz z żołnierzami brytyjskimi, australijskimi i amerykańskimi przeciw faszystowskiej Japonii. W okresie powojennym - mimo że kraj do dziś jest członkiem brytyjskiej Wspólnoty Narodów - wpływy brytyjskie stopniowo słabną.</p><p>Nowa Zelandia jest monarchią konstytucyjną o ststusie dominum. Głową państwa jest królowa brytyjska, reprezentowana przez gubernatora generalnego. Władza ustawodawcza należy do 1 - izbowej Izby Reprezentantów, w której zasiada 95 deputowanych, wybieranych na 3 lata. Władza wykonawcza należy do rządu (Rady Wykonawczej) z premierem na czele.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Nowa Zelandia jest wysoko rozwiniętym kapitalistycznym krajem rolniczo - przemysłowym. Podstawę jej gospodarki stanowi rozwinięte rolnictwo, nastawione przede wszystkim na produkcję eksportową. Ważną pozycję w gospodarce narodowej zajmuje kapitał zagraniczny, przede wszystkim brytyjski i amerykański.</p><p>Nowa Zelandia ma sporo ogactw mineralnych, jak dotąd wykorzystuje się jednak tylko niektóre złoża gazu ziemnego, węgla kamiennego i brunatnego, rudy żelaza, tytanu i złota. Występują tu również, choć w mniejszych ilościach srebro, wolfram, mangan, miedź, magnezyt, cyna, rtęć i niektóre inne minerały.</p><p>Wiodącą gałęzią przemysłu jest przemysł spożywczy, przetwarzający przeznaczone na eksport produkty rolne. W ostatnich latach zaczął się stopniowo rozwijać przemysł maszynowy, chemiczny, drzewny (produkcja celulozy, papieru i drewna budowlanego) oraz hutnictwo; są tu również zakłady przemysłu włókienniczego, a także dość dobrze rozwinięta poligrafia.</p><p>Rolnictwo nastawione jest na wąsko wyspecjalizowaną produkcję zwierzęcą i pracuje głównie na potrzeby eksportu. W produkcji rolnej dominującą pozycję zajmuje hodowla owiec i bydła, dzięki której Nowa Zelandia należy do czołówki światowych producentów masła, wełny owczej i mięsa. Produkcja roślinna ma znaczenie drugorzędne.</p><p>Eksport nowozelnadzki obejmuje przedewszystkim produkty rolne (nabiał, mięso, wełnę owczą, skóry, futra, owoce i warzywa), import zaś - głównie maszyny, kompleksy inwestycyjne, artykuły przemysłowe, nawozy sztczne, pasze i żywność. Najważniejszymi partnerami handlowymi Nowej Zelandii są Wielka Brytania, Australia, Japonia, USA i kraje EWG.</p>",
+        "map":"<div id='map'><img src='maps/nowazelandia-min.jpg' alt='New Zeland map'></div>"
+       }
+   ],
+   "papuaNewGuinea": [
+       {   
+        "title":"<p><strong>PAPUA - NOWA GWINEA</strong></p>",
+        "subtitle":"<p><strong>Papua -  Nowa Gwinea</strong></p><p>Papua - New Guinea</p>",
+        "position":"<p><strong>Położenie:</strong> Zachodnia część Oceanu Spokojnego; obejmuje wschodnią część wyspy Nowa Gwinea i 2 785 przyległych wysp i wysepek (m. in. Archipelag Bismarcka, północną część Wysp Salomona, wyspy Nowa Bytania, Nowa Irlandia i in.)</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 461 691 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> 19 dystryktów oraz stolica</p>",
+        "capitol":"<p><strong>Stolica:</strong> Konedubu (dawniej Port Moresby - 114 000mieszkańców)</p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong> Lae, Rabaul</p>",
+        "population":"<p><strong>Ludność:</strong> 3 100 000. Większość populacji stanowią Papuasi, Melanezyjczycy i Mikronezyjczycy, poza tym mieszkają tu Europejczycy, Chińczycy i Japończycy</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wyspy są górzyste. Mniejsze wyspy i wysepki pochodzenia wulkanicznego lub koralowego. Klimat tropikalny</p>",
+        "language":"<p><strong>Język urzędowy:</strong> angielski (najbardziej rozpowszechniony językami tubyczymi są pidgin police motu, prócz nich w użyciu jest ok. 750 narzeczy i języków plemiennych)</p>",
+        "currency":"<p><strong>Waluta:</strong> Kina = 100 toes</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Żeglarze hiszpańscy i portugalscy po raz pierwszy dotarli do rejonu Papui - Nowej Gwinei w r. 1512. Obszar ten stal się zależny od europejskich mocarstw kolonialnych dopiero w II poł. XIXw., kiedy w 1884 r. Wielka Brytania zajęła południowo - wschodnią część Nowej Gwinei (określaną później jako Papua) i ogłosiła ją swym protektoratem. W tym samym roku północno - wschodnia część wyspy została zaanektowana przez cesarskie Niemcy, które pod nazwą Ziemi Cesarza Wilhelma włączyły ją do swych posiadłości kolonialnych. Od 1905 r. Papua znajdowała się pod zarządem Australii; od r. 1921 Związek Australijski na mocy mandatu ówczesnej Ligi Narodów sprawował zarząd również nad dawną kolonią niemiecką na wyspie Nowa Gwinea. Podczas II wojny światowej znaczną część tego terytorium okupowały wojska japońskie. W 1949 r. Australia połączyła Papuę i dawną koloni e niemiecką w jedną całość administracyjną, określaną jako Terytorium Papua i Nowa Gwinea.</p><p>W r. 1972 odbyły się tu pierwsze wybory powszechne, w grudniu 1973 r. Australia przyznała Papui - Nowej Gwinei autonomię wewnętrzną, a 16 września 1975 r. proklamowano niepodległość kraju.</p><p>Papua - Nowa Gwinea jest członkiem brytyjskiej Wspólnoty Narodów. Głową państwa jest królowa brytyjska, reprezentowana przez gubernatora generalnego. Władza wykonawcza należy do rządu z premierem na czele, a ustawodawcza - do 1 - izbowego parlamentu (Izby Zgromadzenia).</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Papua - Nowa Gwinea jest słabo rozwiniętym krajem rolniczym. Ponad 80% ludności pracuje w rolnictwie. Na użytek wewnętrzny uprawia się m. in. bataty, ryż, trzcinę cukrową i orzeszki ziemne, na eksport - kakao, kawę, palmę kokosową, kauczuk i herbatę. Duże znaczenie ma rybołówstwo i wyrąb cennych gatunków drzew. Stopniowo rozwija się hodowla bydła.</p><p>W ostatnich latach rozwija się przemysł wydobywczy, znajdujący się całkowicie w rękach monopoli zagranicznych. W kraju odkryto dotąd złoża miedzi, złota, srebra i ropy naftowej. Podstawą eksportu są surowce oraz produkty rolne. Import obejmuje głównie towary przemysłowe. Najważniejszymi partnerami handlowymi Papui - Nowej Gwinei są  Australia, Japonia i RFN.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "pitcairn": [
+       {   
+        "title":"<p><strong>PITCAIRN</strong></p>",
+        "subtitle":"<p><strong>Pitcairn</strong></p><p>Pitcairn Islands Group</p><p>(Kolonia Wielkiej Brytanii)</p>",
+        "position":"<p><strong>Położenie:</strong> Południowo - zachodnia część Oceanu Spokojnego; terytorium składa się z wyspy Pitcairn oraz wysp Henderson, Ducie i Oeno</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 47,3 km<sup>2</sup> (wyspa Pitcairn - 5,6 km<sup>2</sup>)</p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> Jedna całość administracyjna</p><p><strong>Ośrodek administracyjny:</strong> Adamstown (ok. 65 mieszkańców, jedyne skupisko ludności)</p>",
+        "capitol":"<p><strong>Stolica:</strong></p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+        "population":"<p><strong>Ludność:</strong> Ok. 65 osób; są to mieszańcy angielsko - polinezyjscy (wszyscy mieszkają w Adamstwon, pozostałe wyspy są bezludne)</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wyspy są na ogół płaskie, klimat tropikalny</p>",
+        "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+        "currency":"<p><strong>Waluta:</strong> Dolar nowozelandzki = 100 centów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Wyspa Pitcairn została odkryta w 1767 r. przez angielskiego żeglarza Philipa Cartereta. W 1789 r. osiedlili się tu zbuntowani marynarze z załogi brytyjskiego statku &bdquo;Bounty&rdquo; oraz porwane przez marynarzy kobiety tahitańskie. Dzisiejsi mieszkańcy Pitcairn są ich potomkami. W 1838 r. wyspa została proklamowana brytyjską kolonią koronną, w 1902 r. przyłączono do niej bezludne wyspy Henderson, Ducie i Oeno. Wyspami zarządza gubernator, którym jest wysoki komisarz brytyjski urzędujący w Nowej Zelandii. Lokalnym organem władzy jest 10 - osobowa Rada Wyspy (4 członkowie z wyboru, 5 mianowanych przez gubernatora i 1 z urzędu).</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Ludność utzrymuje się z rolnictwa i rybołóstwa. Jedynym partnerem handlowym Pitcairn jest Nowa Zelandia, dokąd eksportuje się owoce cytrusowe i ananasy i skąd sprowadza się niezbędne artykuły i żywność.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "polinezja": [
+       {   
+        "title":"<p><strong>POLINEZJA FRANCUSKA</strong></p>",
+        "subtitle":"<p><strong>Polinezja Francuska</strong></p><p>Polyn&#233;sie Fran&#231;aise</p><p>(Autonomiczne terytorium zamorskie Francji)</p>",
+        "position":"<p><strong>Położenie:</strong> Południowa część Oceanu Spokojnego; na polinezję Francuską składa się ogółem 130 wysp, należących do 5 grup. Są to wyspy: Towarzystwa, Tuamotu, Gambiera, Markizy i Tubuai</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 4 000 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> 5 okręgów</p><p><strong>Ośrodek administracyjny:</strong> Papeete na wyspie Tahiti (60 500 mieszkańców)</p>",
+        "capitol":"<p><strong>Stolica:</strong></p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong>Papenoo, Tautira i Atimaono na Tahiti</p>",
+        "population":"<p><strong>Ludność:</strong> 150 000, przeważnie Polinezyjczycy; oprócz nich mieszkają tu Europejczycy i przedstawiciel niektórych narodowości azjatyckich</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wyspy są częściowo pochodzenia wulkanicznego, częściowo koralowego. Klimat tropikalny</p>",
+        "language":"<p><strong>Język urzędowy:</strong> francuski</p>",
+        "currency":"<p><strong>Waluta:</strong> Frank CFP = 100 centymów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Wyspa Tahiti, największa i najważniejsza w Polinezji Francuskiej, została odkryta w 1767 r. przez brytyjskiego żeglarza Sammuela Wallisa. Jako drugi Europejczyk przybił do jej brzegów w r. 1768 Francuz - kapitan Bougainville, który uznał ten obszar za posiadłość Paryża. Rządy francuskie zostały jednak wprowadzone na wyspie dopiero w poł XIX w., kiedy królowa Tahiti została zmuszona dfo uznania protektoratu francuskiego. W późniejszym okresie Paryż przyłączył do Tahiti pozostałe wyspy obecnej Polinezji Francuskiej. W r. 1903 nazwą Polinezja Francuska objęto pięć grup wysp. W r. 1958 obszar ten otrzymał status terytorium zamorskiego. W 1977 r. zwiększono zakres uprawnień administracyjnych wyspy, która podejmuje obecnie wszystkie decyzje, z wyjątkiem tych, które dotyczą polityki zagranicznej, obronności, prawodastwa i zagadnień walutowych. Na czele administracji stoi wysoki komisarz, będący zarazem premierem. Ciałem ustawodawczym jest 30 - osobowe Zgromadzenie Terytorialne.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Najważniejszą gałęzią gospodarki Polinezji Francuskiej jest rolnictwo. na eksport produkuje się koprę, wanilię, kawę, a na użytek krajowy m. in. - banany, ananasy i pomarańcze. Rozwinięta jest również hodowla bydła i rybołówstwo. Przemysł na wyspach praktycznie nie istnieje. Zaczyna rozwijać się wydobycie fosforytów. Głównymi partnerami handlowymi Polinezji Francuskiej są Francja, Nowa Zelandia i USA.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "wyspyPowierniczePacyfiku": [
+       {   
+        "title":"<p><strong>POWIERNICZE WYSPY PACYFIKU</strong></p>",
+        "subtitle":"<p><strong>Powiernicze Wyspy Pacyfiku</strong></p><p>Trust Territory of the Pacific Islands</p><p>(Terytorium powiernicze ONZ administrowane przez USA)</p><p><strong>Terytorium to obejmuje obecnie trzy jednostki państwowe:</strong></p><p><strong>Federację Stanów Mikronezji</strong> (zrzeszającą wyspy Jap, Kosrae, Ponape i Truk)</p><p><strong>Wyspy Marshalla</strong></p><p><strong>Republikę Belau</strong> (d. Wyspy Palau)</p><p>Poprzednio w skład Powierniczych Wysp Pacyfiku wchodziły również Mariany (bez wyspy Guam). Od 9 stycznie 1978 r. wyspy te pod nazwą <strong>Wspólnota Marianów północnych</strong> (The Commonwealth of the Northern Mariana Islands) mają status terytorium stowarzyszonego za Stanami Zjednoczonymi</p>",
+        "position":"<p><strong>Położenie:</strong> Zachodnia część Oceanu Spokojnego</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 1 331 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong></p><p><strong>Ośrodek administracyjny:</strong> Kolonia (na wyspie Ponape)</p>",
+        "capitol":"<p><strong>Stolica:</strong></p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+        "population":"<p><strong>Ludność:</strong> Ok. 117 000, przeważnie Mikronezyjczycy i Polinezyjczycy</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Większość wysp pochodzenia koralowego, dość płaska. Klimat tropikalny</p>",
+        "language":"<p><strong>Język urzędowy:</strong> angielski, w powszechnym użyciu chamorro (dialekt malajski)</p>",
+        "currency":"<p><strong>Waluta:</strong> Dolar USA = 100 centów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Od XVII w. wyspy należały do Hiszpanii. W r. 1885 Niemcy zajęły Wyspy Marshalla, a w r. 1899 odkupiły od Hiszpanii Karoliny i Mariany. W czasie I wojny światowej zostały zaanektowane przez Japonię. Latem 1944 r, zdobyły je wojska USA (w sierpniu 1945 r. z wyspy Tinian wystartowały amerykańskie bombowce, które zrzuciły bomby atomowe na Hiroszimię i Nagasaki). Od 1947 r. są terytorium powierniczym ONZ pod administracją USA. Na wyspach znajdują się ważne amerykańskie bazy wojskowe. W latach pięćdziesiątych Stany Zjednoczone wykorzystywały wyspy do prób z bronią jądrową (Bikini). W 1978 r. USA oderwały jednostronnie od Powierniczych Wysp Pacyfiku Mariany Pónocne i samowolnie (akt ten do tej pory nie został zatwierdzony przez ONZ) proklamowały je terytorium stowarzyszonym z USA. Dążąc do utrzymania swego panowania w tym rejonie, USA podzieliły pozostałą część terytorium powierniczego na trzy części (federację Stanów Mikronezji, Wyspy Marshalla i Republikę Belau). Każda wchodząca w skład terytorium jednostka państwowa zawarła z USA układ o &bdquo;wolnym stowarzyszeniu&rdquo;. Zgodniez tymi układami, a także z lokalnymi konstytucjami, Federacja Stanów Mikronezji, Wyspy Marshalla i Republika Belau posiadaja własne organy władzy ustawodawczej i wykonawczej. W gestii USA leżą jedynie sprawy obrony i polityki wojskowej. Na obszarze Powierniczych Wysp Pacyfiku władze amerykańskie reprezentuje wysoki komisarz mianowany przez prezydenta USA i podlegający Departamentowi Spraw Wewnętrrznych.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Jest to obszar zacofany gospodarczo. Przeważająca większość rdzennej ludności pracuje na roli. Uprawia się palmę kokosową, drzewo chlebowe, banany, taro, kakao, korzenie i cytrusy. podstawowym artykułem eksportowym jest kopra. Sprowadza się wsztystkie towary przemysłowe i konsumpcyjne, paliwa itp. Handel zagraniczny jest nastawiony na USA.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "samoaAmerykańskie": [
+       {   
+        "title":"<p><strong>SAMOA AMERYKAŃSKIE</strong></p>",
+        "subtitle":"<p><strong>Samoa Amerykańskie</strong></p><p>American Samoa</p><p>(Terytorium zamorskie USA)</p>",
+        "position":"<p><strong>Położenie:</strong> Południowo - zachodnia część Oceanu Spokojnego; obejmuje wyspy Tutuila, Manua, Aunnu i kilka innych we wschodniej części archipelagu Samoa</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 197 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> Jedna całość administracyjna</p><p><strong>Ośrodek administracyjny:</strong> Pago Pago na wyspie Tutuila (2 500 mieszkańców)</p>",
+        "capitol":"<p><strong>Stolica:</strong></p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+        "population":"<p><strong>Ludność:</strong> 31 000, przeważnie Polinezyjczycy. 27 000 mieszkańców żyje na wyspie Tutuila</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wyspy pochodzenia wulkanicznego, przewaznie górzyste. Klimat tropikalny</p>",
+        "language":"<p><strong>Język urzędowy:</strong> angielski i samoański</p>",
+        "currency":"<p><strong>Waluta:</strong> Dolar USA = 100 centów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong>Do r. 1899 historia dzisiejszego niepodległego państwa Samoa Zachodnie (Samoa i Sisifo - Wstern Samoa) oraz Samoa Amerykańskiego jest identyczna. W 1899 r. wschodnia część archipelagu Samoa stała się kolonią USA (przedtem archipelag pozostawał pod wspólnym zarządem Wielkiej Brytanii, cesarskich Niemiec i USA). Samoa Amerykańskim zarządza gubernator. W r. 1967 weszła w życie nowa konstytucja, zgodnie z którą mieszkańcy Samoa Amerykańskiego są formalnie obywatelami USA. Lokalne ciało ustawodawcze, składające się z 20 - osobowej Izby Reprezentanów i 18 - osobowego Senatu ma bardzo ograniczone uprawnienia. Samoa Amerykańskie jest ważną bazą wojskową USA na Oceanie Spokojnym.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Głównym zajęciem mieszkańców jest rybołówstwo, produkcja rzemieślnicza i rolnictwo, specjalizujące się w uprawie palmy kokosowej, bananowca, drzewa chlebowego, kolokazji, owoców i warzyw. Eksport obejmuje produkty rybne i koprę.</p><p>Głównym partnerem handlowym Samoa Amerykańskiego są USA.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "samoaZachodnie": [
+       {   
+        "title":"<p><strong>SAMOA ZACHODNIE</strong></p>",
+        "subtitle":"<p><strong>Samoa Zachodnie</strong></p><p>Samoa i Sisifo</p><p>Western Samoa</p>",
+        "position":"<p><strong>Położenie:</strong> Zachodnia część Oceanu Spokojnego, Polinezja. Obejmuje wyspy Upolu, Sava&#700;i oraaz szereg mniejszych wysp w zachodniej części archipelagu Samoa</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 2 842 km<sup>2</sup> (Upolu i małe wysepki - 1 127 km<sup>2</sup>, wyspa Sava&#700i - 1 715 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> Jedna całość administracyjna</p>",
+        "capitol":"<p><strong>Stolica:</strong> Apia (33 000 mieszkanców - na wyspie Upolu)</p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+        "population":"<p><strong>Ludność:</strong> Ok. 160 000. 99% populacji stanowią Samoańczycy. 1/5 ludnosci mieszka w miastach</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wyspy pochodzenia koralowego lub wulkanicznego, pokryte, zwłaszcza w górach, wilgotnymi lasami równikowymi. Klimat tropikalny</p>",
+        "language":"<p><strong>Język urzędowy:</strong> samoanski i angielski</p>",
+        "currency":"<p><strong>Waluta:</strong> Tala = 100 sene</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Obszar dzisiejszego Samoa Zachodniego został zasiedlony przez Polinezyjczyków już w I w. n. e. Początki kolonizacji europejskiej sięgają  XVIIIw., kiedy to wyspy zostały odkryte przez Holendra J. Roggeveena. Później docuerali tu także Francuzi. Pierwszymi europejskimi osadnikami byli jednak Brytyjczycy. W XIX w. zainteresowanie Samoa Zachodnim zaczęły przejawiać USA u cesarskie Niemcy. Na konferencji berlińskiej w 1889r. Stany Zjednoczone, Niemcy i Wielka Brytania podzieliły między sobą strefy wpływów i przez 10 lat wspólnie zarządzały tym terytorium. W r. 1899, w wyniku układów, Samoa Zachodnie przypadło Niemcom. W czasie I wojny światowej okupowały je wojska nowozelandzkie i australijskie. W 1920 r. Samoa Zachodnie zostało uznane za terytorium mandatowe ówczesnej Ligi Narodów pod zarządem Nowej Zelandii. W r. 1947 przekształcono je w terytorium powiernicze ONZ, a zarząd nad nim ponownie powierzono Nowej Zelandii. W r. 1927 rodzi się tu ruch narodowowyzwoleńczy, który uaktywnia się zwłaszcza po II wojnie  swiatowej. Pod presją Nowa Zelandia przyznała w 195t9 r. Samoa Zachodniemu autonomię wewnętrzną, a 1 stycznia 1962 wwyniku plebiscytu przeprowadzonego w 1961 r. Zgromadzenie Ogólne ONZ przyznało mu niepodległość.</p><p>Samoa Zachodnie jest monarchią konstytucyjną, członkiem brytyjskiej Wspólnoty Narodów. Głową państwa jest dożywotnio władca Malietoa Tanumafili II. Po jego śmierci przywódca państwa ma być wybierany  na 5 - letnią kadencję przez 45 - osobowe Zgromadzenie Ustawodawcze, które jest najwyższym ciałem ustawodwaczym. Władzę wykonawczą sprawuje rząd złożony z premiera i 8 mianowanych przez niego ministrów.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Samoa Zachodnie jest państwem słabo rozwiniętym. Podstawę gospodarki narodowej stanowi rolnictwo, którym trudni się ponad 60% zawodowo czynnej ludności. Na planatcjach uprawia się - przeznaczone na eksport - orzechy kokosowe, ziarno kakaowe, banany oraz - na mniejszą skalę - kawę. Na użytek wewnętrzny uprawia się kukurydzę, ryż, banany i buraki cukrowe. Dość dobrze rozwinięta jest hodowla trzody chlewnej i koni. Duże znaczenie ma wyrąb cennych gatunków drzew.</p><p>Przemysł jest jak dotąd słabo rozwinięty. Kraj nie ma praktycznie żadnych bogactw mineralnych. Po uzyskaniu niepodległości zbudowano kilka zakładów meblarskich i przetwórstwa orzechów kokosowych. Głównymi partnerami handlowymi Samoa Zachodniego są Nowa Zelandia, Australia, USA, Japonia, Fidżi i RFN. Eksport obejmuje produkty rolne, import - żywność, maszyny i artykuły konsumpcyjne.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "tokelau": [
+       {   
+        "title":"<p><strong>TOKELAU</strong></p>",
+        "subtitle":"<p><strong>Tokelau</strong></p><p>Tokelau</p><p>(Terytorium zależne Nowej Zelandii)</p>",
+        "position":"<p><strong>Położenie:</strong> Nowozelandzka posiadłość Tokelaum na którą składają się 3 atole - Atafu, Nukunono i Fakaofo, leży na północ od Samoa Zachodniego w środkowej części Oceanu Spokojnego</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 10 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> Jedna całość administracyjna</p><p><strong>Ośrodek administracyjny:</strong> Fakoafo na wyspie o tej samej nazwie(ok. 700 mieszkańców). Administrator nowozelandzki urzęduje w Apia (Samoa Zachodnie)</p>",
+        "capitol":"<p><strong>Stolica:</strong></p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+        "population":"<p><strong>Ludność:</strong> 2 000, przeważnie Polinezyjczycy</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Atole pochodzenia koralowego, dość płaskie i niskie. Klimat tropikalny</p>",
+        "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+        "currency":"<p><strong>Waluta:</strong> Dolar nowozelandzki = 100 centów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Archipelag został odkryty w 1765 r. przez angielskiego żeglarza Johna Byrona, a w r. 1877 - ogłoszony kolonią Brytyjską. W 1926 r. Londyn przekazał zarząd tą posiadłością rządowi nowozelandzkiemu, który 1 stycznia 1949 r. proklamował Tokelau swym terytorium zależnym. Od 1974 r. archipealgiem administruje nowozelandzkie ministerstwo spraw zagranicznych; administratorem wysp jest sekreterz stanu w ministerstwie spraw zagranicznych. Tokelau nie ma własnego parlamentu, wybierane są wyłącznie organy samorządu lokalnego. Archipelag obejmują postanowienia deklaracji Zgromadzenia Ogólnego ONZ z 14 grudnia 1960 r. w sprawie przyznania niepodległości krajom i narodom kolonialnym.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Kraj słabo rozwiniety gospodarczo. Mieszkańcy utrzymują się wyłącznie z rolnictwa: uprawiają plamę kokosową, drzewo chlebowe, banany i papaje; hodują trzodę chlewną i drób. Rozwinięte jest rybołóstwo. Tokelau eksportuje koprę, sprowadza zaś żywność, materiały budowlane i paliwa. Jedynym partnerem handlowym wysp jest Nowa Zelandia.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "tonga": [
+       {   
+        "title":"<p><strong>TONGA</strong></p>",
+        "subtitle":"<p><strong>Królestwo Tonga</strong></p><p>Pule&#700;anga Tonga</p><p>Kingdom of Tonga</p>",
+        "position":"<p><strong>Położenie:</strong> Południowo - zachodnia część Oceanu Spokojnego, na archipelagu Tonga. Należą do niego trzy grupy wysp: południowa - Tongatapu, środkowa - Ha&#700;apai i północna - Vava&#700;u, a także ok. 200 innych wysp leżących na północ i południe od głównego łańcucha archipelagu</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 699 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> 6 dystryktów</p>",
+        "capitol":"<p><strong>Stolica:</strong> Nuku&#700; alofa (ok. 1 500 mieszkańców, miasto portowe na największe wyspie Tongatapu)</p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+        "population":"<p><strong>Ludność:</strong> 100 000. 98% stanowią Tongatańczycy, oprócznich mieszkają tu Polinezyjczycy z wysp południowych, Europejczycy i mieszancy. Większość wysp jest bezludna</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong></p>",
+        "language":"<p><strong>Język urzędowy:</strong> tongański i angielski</p>",
+        "currency":"<p><strong>Waluta:</strong> Paanga = 100 seniti</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Królestwo Tonga jest jedną z najstarszych organizacji państwowych w Oceanii. Europejczycy zaczęli docierać do archipelagu Tonga w XVII w.; w w. XVIII osiedlili się tu pierwsi koloniści - przede wszystkim Brytyjczycy. W r. 1900 władcy Tonga uznali protektorat brytyjski, a w kilka lat później królestwo zostało zmuszone do zawarcia z Londynem tzw. układu o obronie. Pod presją ruchu narodowowyzwoleńczego w 1953 r. Wielka Brytania zezwoliła krajowi na zawarcie samodzielnych kontraktów gospodarczych z zagranicą, w r. 1960 przyznała kobietom prawo wyborcze, w 1967 r. poważnie rozszerzyła uprawnienia administracji wysp, a 4 czerwca 1970 r. przyznała Królestwu Tonga niepodległość w ramach brtyjskiej Wspólnoty Narodów. Tonga jest monarchią konstytucyjną. Głową państwa jest król, pochodzący z dziedziczącej ten tytuł dynastii Tupou. Władca mianuje rząd. Członkowie rządu tworzą Tajną Radę (będącą naczelnym organem władzy i uprawnieniach zarówno ustawodawczych jak i wykonawczych, przewodniczącym rady jest monarcha) i są zarazemz urzędu członkami parlamentu. Najwyższym organem ustawodawczym jest 1 - izbowe Zgromadzenie Ustawodawcze. Partie Polityczne nie istnieją, w kraju działa tylko kilka organizacji społecznych.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Tonga jest słabo rozwiniętym krajem rolniczym. Główną gałęzią gospodarki jest rolnictwo, w którym pracuje 3/4 czynnje zawodowo ludności. Uprawia się głównie palmę kokosową i banany, na mniejszą skalę - owoce cytrusowe i ananasy, a na użytek wewnętrzny - melony, rosliny bulwiaste, orzeszki ziemne, taro. Przemysł nie odgrywa większej roli i jak dotąd nastawiony jest na przetwórstwo drewna i płodów rolnych. W 1977 r. na południu kraju odkryto złoża ropy naftowej; obecnie trwaja przygotowania do jej eksploatacji. Coraz wiekszego znaczenia nabiera turystyka, której rozwój wspierają Wielka Brytania i Australia.</p><p>Eksportuje się głównie koprę, zielone orzechy kokosowe i banany, sprowadza się zaś żywność i maszyny, Głównymi partnerami handlowymi Królestwa Tonga są Wielka Brytania, Australia, Nowa Zelandia i Japonia.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "tuvalu": [
+       {   
+        "title":"<p><strong>TUVALU</strong></p>",
+        "subtitle":"<p><strong>Terytorium Tuvalu</strong></p><p>Territory of Tuvalu</p>",
+        "position":"<p><strong>Położenie:</strong> Zachodnia część Oceanu Spokojnego; składa się liczący 6 km długości pas 9 wysp - Nanumea, Niutao, Nanumanga, Nui, Vaitupu, Nukufateu, Funafuti, Nukulaelae i Nurakita</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 26 km<sup>2</sup>, ogółem obejmuje 1,3 mln km<sup>2</sup> oceanu</p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> jedna całość administracyjna</p>",
+        "capitol":"<p><strong>Stolica:</strong> Funafuti (ok. 1 600 mieszakańców - na wyspie o tej samej nazwie)</p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+        "population":"<p><strong>Ludność:</strong></p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wyspy są bardzo niskie i płaskie, osiągają wysokość mniej więcej 4 m. n. p. m. Przed falami chronią ją okoliczne rafy koralowe. Klimat tropikalny</p>",
+        "language":"<p><strong>Język urzędowy:</strong> angielski i tuvalu</p>",
+        "currency":"<p><strong>Waluta:</strong> Dolar australijski = 100 centów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Tuvalu pierwotnie Wyspy Lagunowe (Ellice), były stopniowo odkrywane przez Hiszpanów, Francuzów, Brytyjczyków od XVI do XIX w. W r. 1892 Wielka Brytania ustanowiła protektorat nad wyspami Gilberta i Lagunowym, a w r. 1915 zaanektowała je tworząc kolonię Wysp Gilberta i Lagunowych (Ellice), do której należał jeszcze archipelag Feniks, wyspy Line oraz wyspa Ocean (Banaba). W czasie II wojny światowej Wyspy Lagunowe były okupowane przez Japończyków. W wynikureferendum z sierpnia 1974 r., w którym 90% ludności wypowiedziało się za oderwaniem archipelagu od dotychczasowej posiadłości kolonialnej Wysp Gilberta, w 1975 r. z Wysp Lagunowych utworzono samodzielną kolonię brytyjską o nazwie Tuvalu. W maju 1978 r. stała się niepodległym państwem w ramach brytyjskiej Wspólnoty Narodów. Głową tej monarchii konstytucyjnej jest królowa brytyjska, reprezentowana przez gubernatora generalnego. Najwyższym organem ustawodawczym jest 14 osobowa Izba Zgromadzeń.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Tuvalu jest słabo rozwiniętym krajem rolniczym. Gospodarka nastawiona jest na uprawę palmy kokosowej, hodowlę trzody chlewnej, drobiu oraz rybołówstwo. W kraju praktycznie nie ma przemysłu. Eksport obejmuje koprę, import zaś - żywność, tkaniny bawełniane, ropę naftową, tytoń, mydło, materiały budowlane itp. Głównymi partnerami handlowymi Tuvalu są Australia i Nowa Zelandia.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "vanuatu": [
+       {   
+        "title":"<p><strong>VANUATU</strong></p>",
+        "subtitle":"<p><strong>Republika Vanuatu</strong></p><p>Republic of Vanuatu</p><p>R&#233;publique Vanuatu</p>",
+        "position":"<p><strong>Położenie:</strong> Południowo - zachodnia część Oceanu Spokojnego, obejmuje ok. 80 wysp i wysepek</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 14 763 km<sup>2</sup> (głównie wyspy: Espiritu Santo - 4 860 km<sup>2</sup>, Malekula - 2 539 km<sup>2</sup>, Eromanga - 1 113 km<sup>2</sup>, Efate - 1 049 km<sup>2</sup>)</p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> Jedna całość administracyjna</p>",
+        "capitol":"<p><strong>Stolica:</strong> Vila (16 000 mieszkańców, na wyspie Efate)</p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+        "population":"<p><strong>Ludność:</strong>ok. 120 000. 91% populacji stanowią Melanezyjczycy, oprócz nich mieszkają tu Europejczycy, Polinezyjczycy i Mikronezyjczycy, Chińczycy oraz przedstawiciele innych narodowości.</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Archipelag Vanuatu (dawniej Nowe Hybrydy) składa się z łańcucha 12 dużych i ok. 70 mniejszych wysp, ciągnących się z północy na południe na przestrzeni 800 km. Większość wysp jest pochodzenia wulkanicznego (czynne wulkany), reszta to wyspy koralowe. Klimat tropikalny</p>",
+        "language":"<p><strong>Język urzędowy:</strong> angielski i francuski (rdzenna ludność posługuje się ok. 60 językami i dialektami malajsko - olinezyjskimi)</p>",
+        "currency":"<p><strong>Waluta:</strong> Dolar australijski = 100 centów i frank Vanuatu = 100 centymów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Najstarsze dowody świadczące o osadnictwie ludzkim w północnej części archipelagu pochodzą z XIV w. p. n. e. Pierwszym Europejczykiem, który przybił do tutejszych brzegów w kwietniu 1606 r. był żeglarz portugalski Pedro Fern&#225;ndez de Queiros. Mocarstwa europejskie zainteresowały się możliwością przyłącznie archipelagu do swych kolonii dopiero w ostatnim trzydziestoleciu XIX w. 1886 r. Francja i Wielka Brytania postanowiły powołać tzw. wspólne komisje &bdquo;broniące&rdquo; interesów kolonistów europejskich na Nowych Hybrydach. W 1906 r. archipelag został uznany za wspólne kondominium brytjsko - francuskie. W 70 lat później - w 1975 r. - Nowe Hybrydy otrzymały częściową autonomię.</p><p>W ramach przygotowań do przyznania niepodległości, w listopadzie 1979 r. odbyły się wybory do parlamentu, w których zwycięstwo odniosła partia Vanuaaku (Vanuaaku Pati), uzyskując 26 z ogólnej liczby 39 mandatów. W ostatnich dniach maja 1980 r. na Espiritu Santo wybuchło powstanie separatystyczne. Rebelianci, popierani przez miejscowych plantatorów francuskich oraz działaczy amerykańskiej organizacji Phoenix Fundation, zainteresowanej eksploatacją złóż mineralnych, znajdujących się na wyspie, dążyli do oderwania Espiritu Santo i stworzenia &bdquo;samodzielnego&rdquo; państwa. Próba ta nie powiodła się i terytorialna jedność archipelagu została zachowana. 30 lipca 1980 r. nastąił definitywny kres brytyjsko - francuskiego panowania kolonialnego na Nowych Hybrydach: archipelag stał się niepodległym państwem - republiką Vanuatu. Głową republiki jest prezydent zaś organem ustawodawczym - 1 izbowe Zgromadzenie Reprezentantów.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Republika Vanuatu jest krajem rolniczym - w rolnictwie pracuje 80% zawosdowo czynnej ludności. Mniej więcej połowa gruntów rolnych znajduje się w rękach obcego kapitału; uprawia się na nich rośliny eksportowe - palmę kokosową, kakao i kawę.</p><p>Bogactwa mineralne nie są jeszcze całkowicie zbadane; w przeszłości odkryto tu dość bogate złoża manganu, którego wydobycie znajduje się w rękach kapitału zagranicznego. Mangan jest ważnym artykułem eksportowym.</p><p>Głównymi partnerami handlowymi Vanuatu są Francja, Wielka Brytania, USA, Japonia, Nowa Kaledonia i Australia.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "wake": [
+       {   
+        "title":"<p><strong>WAKE</strong></p>",
+        "subtitle":"<p><strong>Wake</strong></p><p>Wake</p><p>(Związkowe terytorium zamorskie USA)</p>",
+        "position":"<p><strong>Położenie:</strong> Wyspa w zachodniej częśći Oceanu Spokojnego, między Hawajami a Marianami</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 7,8 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong></p>",
+        "capitol":"<p><strong>Stolica:</strong></p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+        "population":"<p><strong>Ludność:</strong> 2 000, obywatele USA</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wyspa pochodzenia koralowego, stosunkowo płaska. Klimat subtropikalny</p>",
+        "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+        "currency":"<p><strong>Waluta:</strong> Dolar USA = 100 centów</p><p><strong>Charakterystyka:</strong> Wyspa Wake została zajęta przez USA w 1898 r. Od r. 1935 jest ważną wojskową bazą morską i lotniczą Stanów Zjednoczonych. Wyspą zarządza marynarka wojenna USA.</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong></p>",
         "economy":"<p><strong>Gospodarka:</strong></p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "wallisFutuna": [
+       {   
+        "title":"<p><strong>WALLIS I FUTUNA</strong></p>",
+        "subtitle":"<p><strong>Wallis i Futuna</strong></p><p>&#206;les Wallis et Futuna</p><p>(Terytorium zamorskie Francji)</p>",
+        "position":"<p><strong>Położenie:</strong> Terytorium skłąda się z 2 grup wysp (w tym 3 wysp głónych - Wallis, Futuna i Alofi), leżących w zachodniej części Oceanu Spokojnego na północny wschód od archipelagu Fidżi</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 274 km<sup>2</sup>, (Wallis - 159 km<sup>2</sup>, Futuna i Alofi - 115 km<sup>2</sup>)</p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> Jedna całość administracyjna</p><p><strong>Ośrodek administracyjny:</strong> Mata - Utu na wyspie Wallis (ok. 600 mieszkańców)</p>",
+        "capitol":"<p><strong>Stolica:</strong></p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+        "population":"<p><strong>Ludność:</strong> 10 000, głównie Polinezyjczycy</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wyspy obu archipelagów są częściowo pochodzenia wulkanicznego, częściowo zaś koralowego. Klimat tropikalny</p>",
+        "language":"<p><strong>Język urzędowy:</strong> francuski</p>",
+        "currency":"<p><strong>Waluta:</strong> Frank CFP = 100 centymów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> archipelag Futuna odkrył w 1616 r. holenderski żeglarz Willen Schouten zaś wyspy Wallis - w r. 1767 angielski żeglarz Samuel Wallis. W r. 1842 oba archipelagi zostały zajęte przez Francuzów, którzy w latach 1886 - 1887 objęli je protektoratem francuskim. W czasie II wojny światowej znajdowała się tu baza wojskowa USA. W lipcu 1961 r. obie grupy wysp uzyskały status terytorium zamorskiego Francji, zarządzanego przez tzw. największego administratora. Jego organe,m doradczym jest 1 - izbowe Zgromadzenie Terytorialne, liczące 20 członków. We francuskim Zgromadzeniu Narodowym Wallis i Futunę reprezentuje 1 senator i 1 deputowany.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Wyspy są słabo rozwinięte gospodarczo. Podstawę tutejszej ekonomiki stanowi rolnictwo: uprawia się głównie palmę kokosową,pochrzyn, taro i banany. Rozwinięte jest rybołówstwo i połów pereł. Przemysł nie istnieje. Importuje się praktycznie wszystkie towary.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "cookIslands": [
+       {   
+        "title":"<p><strong>WYSPY COOKA</strong></p>",
+        "subtitle":"<p><strong>Wyspy Cooka</strong></p><p>Cook Islands</p><p>(Terytorium autonomiczne stowarzyszone z Nową Zelandią)</p>",
+        "position":"<p><strong>Położenie:</strong> Na terytorium to składają się 2 grupy wysp, leżących na zachód od Polinezji Francuskiej</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 234 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> Jedna całość adnministracyjna</p><p><strong>Ośrodek administracyjny:</strong> Avarua na wyspie Rarotonga (ok. 1 000 mieszkańców)</p>",
+        "capitol":"<p><strong>Stolica:</strong></p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+        "population":"<p><strong>Ludność:</strong> 18 000, przewaźnie Maorysi, należący do polinezyjskiej grupy etnicznej</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Północną grupę wysp tworzy 7 atoli koralowych, południowa część archipelagu skłąda się z 8 wysp wulkanicznych, wśród których największa jest Rarotonga. Klimat tropikalny</p>",
+        "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+        "currency":"<p><strong>Waluta:</strong> Dolar nowozelandzki = 100 centów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Wyspy zostały odkryte w 1773 r. przez angielskiego żeglarza Jamesa Cooka, od którego wzięły również swoje nazwę. W latach 1888 - 1901 były protektoratem brytyjskim, a następnie nowozelandzkim. W sierpniu 1965 r. weszła w życie nowa konstytucja, zgodnie z którą Wyspy Cooka stały się formalnie tzw. terytorium autonomicznym stowarzyszonym z Nową Zelandią. Do kompetencji rządu w Wellington należą jednak zagadnienia polityki zagranicznej i obronności Wysp Cooka. Na czele administracji stoi prezes Sądu Najwyższego Wysp Cooka, tymczasowo reprezentujący królową brytyjską. Rząd Nowej Zelandii również posiada  swego przedstawiciela. Władza legislacyjna należy do 24 - osobowego Zgromadzenia Ustawodawczego.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Główną gałęzią gospodarki Wysp Cooka jest rolnictwo. Uprawia się palmę kokosową, maniok, owoce cytrusowe, banany, ananasy, mango. Hoduje się kozy, świnie, drób. Przemysł reprezentują dwie fabryki włókiennicze oraz zakład przetwórstwa owocowego. Rozwija się ruch turystyczny. Głównymi partnerami handlowymi Wysp Cooka są Nowa Zelandia, kraje EWG, Japonia, USA, Hongkong i Australia, dokąd eksportuje się banany, koprę, owoce cytrusowe i skąd sprowadza się żywność, paliwa i artykuły przemysłowe.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "salomonsIslands": [
+       {   
+        "title":"<p><strong>WYSPY SALOMONA</strong></p>",
+        "subtitle":"<p><strong>Wyspy Salomona</strong></p><p>Solomon Islands</p>",
+        "position":"<p><strong>Położenie:</strong> Zachodnia część Oceanu Spokojnego (melanezja); terytorium niepodległego państwa Wyspy Salomona (z wyjątkiem zachodniej części archipelagu, należącej do Papui Nowej Gwinei). Składa się nań 6 głównych wysp, z których  największą jest Guadalcanal (6 470 km<sup>2</sup>) oraz 10 mniejszych wysepek i atoli</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 28 446 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> 4 dystrykty</p>",
+        "capitol":"<p><strong>Stolica:</strong> Honiara na wyspie Guadalcanal (15 000 mieszkańców)</p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+        "population":"<p><strong>Ludność:</strong> 240 000; 40% populacji stanowią Melanezyjczycy, oprócz nich mieszkają tu Mikronezyjczycy, Polinezyjczycy i Europejczycy</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Główne wyspy są pochodzenia wulkanicznego, najwyższy punkt na wyspie Guadalcanal osiąga 2440 m n. p. m.</p>",
+        "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+        "currency":"<p><strong>Waluta:</strong> Dolar Wysp Salomona = 100 centów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Wyspy Salomona zostały odkryte w 1568 r. przez hiszpańskiego żeglarza Alvaro Menda&#241;a de Neyrę. W 1884 r. Wielka Brytania zawładnęła częścią archipelagu, a częścią Niemcy i w 1893 r. utworzyła tu swój protektorat (Brytyjskie Wyspy Salomona). W 1976 r. przyznano wyspom autonomię wewnętrzną, a 7 lipca 1978 r. - niepodległość. Wyspy Salomona są członkiem brytyjskiej Wspólnoty Narodów, formalną głową państwa jest królowa brytyjska, reprezentowana przez gubernatora. Najważniejszym ciałem ustawodawczym jest 1 - izbowy Parlament Narodowy, liczący 38 członków.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Wyspy Salomona są słabo rozwiniętym państwem rolniczym, W rolnictwie, nastawionym jednostronnie na uprawę kopry, pracuje 75% ludności w wieku produkcyjnym. Przemsył jest słabo rowinięty. Na wyspach istnieją niewielkie zakłady przemysłu lekkiego i spożywczego. Dość dobrze rozwinięte jest rybołówstwo. Rozwija się turystyka, w sektorze usług zatrudnione jest 20% zawodowo czynnej ludności.</p><p>Głównymi towarami eksportowymi są kopra, drewno i ryby. Eksport ukierunkowany jest na Japonię i Wielką Brytanię; do kraju sprowadza się austyralijskie wyroby przemysłowe i maszyny.</p>",
         "map":"<div id='map'></div>"
        }
    ]
 }
+
