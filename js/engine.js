@@ -224,5 +224,26 @@ fetch(path + 'northAmerica.json').then(function (response) {
     return console.error(error);
 });
 
+fetch(path + 'australia.json').then(function (response) {
+    return response.json();
+}).then(function (data) {
+
+    var keys = Object.keys(data);
+    var z = ["australia"];
+
+    var _loop = function _loop(i) {
+        document.getElementById(z[i]).addEventListener("click", function () {
+            document.getElementById("mainContainer").innerHTML = "";
+            document.getElementById("mainContainer").innerHTML = data[keys[i]];
+        });
+    };
+
+    for (var i = 0; i < keys.length; i++) {
+        _loop(i);
+    }
+}).catch(function (error) {
+    return console.error(error);
+});
+
 /***/ })
 /******/ ]);

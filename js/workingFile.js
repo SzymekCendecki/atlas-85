@@ -7,7 +7,7 @@ let clickCountry = (country) =>{
 
 fetch(path + 'europa.json')
 .then(response => response.json())
-.then(data => {         
+.then(data => {        
     document.getElementById("europeDescription").addEventListener("click", ()=>{ clickCountry(data.europeDescription[0]); });     
     document.getElementById("albania").addEventListener("click", ()=>{ clickCountry(data.albania[0]); });        
     document.getElementById("andorra").addEventListener("click", ()=>{ clickCountry(data.andorra[0]); });     
@@ -57,5 +57,22 @@ fetch(path + 'northAmerica.json')
     document.getElementById("canada").addEventListener("click", ()=>{ clickCountry(data.canada[0]); });
     document.getElementById("saintPierreMiquelon").addEventListener("click", ()=>{ clickCountry(data.saintPierreMiquelon[0]); });
     document.getElementById("usa").addEventListener("click", ()=>{ clickCountry(data.usa[0]); });          
+})
+.catch(error => console.error(error))
+
+
+fetch(path + 'australia.json')
+.then(response => response.json())
+.then(data => {         
+
+    const keys = Object.keys(data);
+    const z = ["australia"];
+ 
+    for(let i = 0; i<keys.length; i++){
+        document.getElementById(z[i]).addEventListener("click", ()=>{ 
+            document.getElementById("mainContainer").innerHTML = "";
+            document.getElementById("mainContainer").innerHTML = data[keys[i]]; 
+        });
+    }
 })
 .catch(error => console.error(error))

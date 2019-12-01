@@ -120,5 +120,59 @@
         "economy":"<p><strong>Gospodarka:</strong> Republika Nauru jest państwem słabo rozwiniętym. Jej gospodarka narodowa jest prawie całkowicie nastawiona na eksploatację bogactw wysokoprocentowych złóż fosforytów. Wydobycie znajduje się w rękach towarzystwa państwowego. Eksport fosforytów jest źródłem znacznych dochodów państwa i podstawą stosunkowo wysokiej stopy życiowej ludności Nauru. Wskutek zakrojonego na szeroką skalę wydobycia fosforytów zniszczono całkowicie 80% ziemi uprawnej i wnętrze wyspy przypomina martwy &bdquo;krajobraz księżycowy&rdquo;.</p><p>Głównymi partnerami handlowymi Republiki Nauru są Wielka Brytania, Australia, Nowa Zelandia i Japonia.</p><p>Podstawowym artykułem eksportowym są fosforyty. Import obejmuje szeroki asortyment towarów przemysłowych większość artykułów spożywczych i wodę pitną.</p>",
         "map":"<div id='map'></div>"
        }
+   ],
+   "niue": [
+       {   
+        "title":"<p><strong>NIUE</strong></p>",
+        "subtitle":"<p><strong>Wyspa Niue</strong></p><p>Niue Island</p><p>(terytorium autonomiczne związane z Nową Zelandią)</p>",
+        "position":"<p><strong>Położenie:</strong> Środkowa część Oceanu Spokojnego, na wschód od archipelagu Tonga</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 259 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> Jedna całość administracyjna</p><p><strong>Ośrodek administracyjny:</strong> Alofi (ok. 500 mieszkańców)</p>",
+        "capitol":"<p><strong>Stolica:</strong></p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+        "population":"<p><strong>Ludność:</strong> 4 200, przeważnie Polinezyjczycy</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wyspa koralowa, w najwyższym punkcie osiąga wysokość 61 m n. p. m. 13% powierzchni zajmują lasy. Klimat tropikalny</p>",
+        "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+        "currency":"<p><strong>Waluta:</strong> Dolar nowozelandzki = 100 centów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Wyspę odkrył w r. 1774 angielski żeglarz i podróżnik James Cook. Początkowo wchodziła w skład brytyjskich posiadłości kolonialnych na Pacyfiku. W r. 1901 Londyn przekazał zarząd nad nią Nowej Zelandii. 19 października 1974 r. na podstawie referendum z września tegoż roku rząd nowozelandzki przyznał wyspie pełną autonomię wewnętrzną. Rząd w Wellington odpowiada jednak za obronną i zagraniczną politykę wyspy. Mieszkańcy Niue posiadają obywatelsktwo nowozelandzkie.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Głównym źródłem utrzymania ludności wyspy jest prymitywne rolnictwo i rzemiosło. Na Niue uprawia się m. in. palnmę kokosową, banany, taro. Rozwija się turystyka. Najważniejszym partnerem handlowym wyspy jest Nowa Zelandia, dokąd eksportuje się przede wszystkim koprę i skąd sprowadza się większość artykułów powszechnego użytku.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "norfolk": [
+       {   
+        "title":"<p><strong>Norfolk</strong></p>",
+        "subtitle":"<p><strong>Norfolk</strong></p><p>Norfolk</p><p>(Terytorium zamorskie Australii)</p>",
+        "position":"<p><strong>Położenie:</strong> Południowo - zachodnia część Oceanu Spokojnego, między Australią a Nową Zelandią</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 36 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> Jedna całość administracyjna</p><p><strong>Ośrodek administracyjny:</strong> Kingston (ok. 800 mieszkańców)</p>",
+        "capitol":"<p><strong>Stolica:</strong></p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong></p>",
+        "population":"<p><strong>Ludność:</strong> 1 800, przeważnie potomkowie kolonistów i więźniów, deportowanych tu w przeszłości z Wielkiej Brytanii</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong> Wyspa ma urodzajną glebę, jest stosunkowo płaska, klimat podzwrotnikowy</p>",
+        "language":"<p><strong>Język urzędowy:</strong> angielski</p>",
+        "currency":"<p><strong>Waluta:</strong> Dolar australijski = 100 centów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Wyspa została odkryta w 1774 r. przezz Jamesa Cooka, a w cztery lata później zaanektowana przez Wielką Brytanię. W latach 1788 - 1855 była z krótką przerwą kolonią karną. W r. 1856 osiedlili się na niej potomkowie butowników z &bdquo;Bounty&rdquo;, którzy przenieśli się tu z wyspy Pitcairn. Od r. 1913 wyspa ma status terytorium zamorskiego Australii; zarządza nią administrator mianowany przez australijskiego gubernatora generalnego. Władzę ustawodawczą i wykonawczą w zakresie spraw lokalnych sprawuje Zgromadzenie Ustawodawcze Wyspy Norfolk oraz Rada Wykonawcza.</p>",
+        "economy":"<p><strong>Gospodarka:</strong> Najważniejszą rolę w gospodarce Norfolku odgrywa turystyka (ok. 20 tys. turystów rocznie). Ludność utrzymuje się z rybołówstwa i rolnictwa: uprawia się ananasy, banany, owoce cytrusowe, kawę i kukurydzę. Eksportuje się niewielkie ilości cytrusów i ananasów, sprowadza zaś - żywność i artykuły przemysłowe. Głównymi partnerami handlowymi wyspy są Australia i Nowa Zelandia.</p>",
+        "map":"<div id='map'></div>"
+       }
+   ],
+   "nouvelleCal&#233;donie": [
+       {   
+        "title":"<p><strong>NOWA KALEDONIA</strong></p>",
+        "subtitle":"<p><strong>Nowa Kaledonia</strong></p><p>Nouvelle Cal&#233;donie</p><p>(Terytorium zamorskie Francji)</p>",
+        "position":"<p><strong>Położenie:</strong> Południowp - zachodnia część Oceanu Spokojnego; obejmuje wyspę Nowa Kaledonia, Wyspy Lojalności oraz szereg mniejszych wysepek</p>",
+        "area":"<p><strong>Powierzchnia:</strong> 19 103 km<sup>2</sup></p>",
+        "adminDivision":"<p><strong>Podział administracyjny:</strong> Jedna całość administracyjna</p><p><strong>Ośrodek administracyjny:</strong> Noum&#233;a na wyspie Nowa Kaledonia (ok. 75 000 mieszkańców)</p>",
+        "capitol":"<p><strong>Stolica:</strong></p>",
+        "biggestCities":"<p><strong>Inne duże miasta:</strong> Koumac, Mu&#233;o i Koua na wyspie Nowa Kaledonia, Ch&#233;p&#233;neh&#233; na wyspie Lifou, Tadine na wyspie Mar&#233; i Ouv&#233;a na wyspie Ouv&#233;a</p>",
+        "population":"<p><strong>Ludność:</strong> 140 000, w tym 39% Melanezyjczyków i 41% Francuzów; mieszkają tu także Hindusi, Polinezyjczyzy, Wietnamczycy i przedstawiciele innych narodowości</p>",
+        "naturalConditions":"<p><strong>Warunki naturalne:</strong></p>",
+        "language":"<p><strong>Język urzędowy:</strong> francuski</p>",
+        "currency":"<p><strong>Waluta:</strong> Franl CFP = 100 centów</p>",
+        "historyPoliticalSystem":"<p><strong>Historia i ustrój polityczny:</strong> Nową Kaledonię odkrył w 1774 r. angielski żeglarz James Cook. W 1853 r. wyspę zajęła Francja. W latach 1864 - 1894 była kolonią karną. Pod francuskim zarządem kolonialnym pozostawała do 1946 r., kiedy Paryż uznał ją za tzw. terytorium zamorskie. W r. 1976 rząd francuski przyznał Nowej Kaledonii status znacznie rozszerzający uprawnienia administracji lokalnej, który został jednak przez większość tutejszych partii politycznych dążących do całkowitej niepodległości odrzucony jako niewystarczjący. Archipelag podlega wysokiemu komisarzowi francuskiemu, mianowanemu przez rząd w Paryżu. Organem ustawodawczym jest 36 - osobowe Zgromadznie Terytorialne</p>",
+        "economy":"<p><strong>Gospodarka:</strong></p>",
+        "map":"<div id='map'></div>"
+       }
    ]
 }
