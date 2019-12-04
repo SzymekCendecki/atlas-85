@@ -110,11 +110,11 @@ var southAmerica = ["southAmerica", "anguilla", "antiguaBarbuda", "dutchAntilles
 
 var africa = ["africa", "algieria", "angola", "benin", "bostwana", "burkinafaso", "burundi", "ceuta", "czad", "djibouti", "egypt", "ethiopia", "gabon", "gambia", "ghana", "guinea", "equatorialGuinea", "cameroon", "kenya", "comoros", "kongo", "lesotho", "livery", "libya", "madagascar", "malawi", "mali", "morocco", "mauretania", "mauritius", "melilla", "mozambique", "namibia", "niger", "nigeria", "southAfrica", "centralAfricanRepublic", "reunion", "rwanda", "westernSahara", "senegal", "seychelles", "sierraLeone", "somalia", "ndebele", "sudan", "saintHelena", "tanzania", "togo", "tunisia", "uganda", "ivoryCoast", "saintThomasPrince", "zaire", "zambia", "capeVerde", "zimbabwe"];
 
-var asia = ["asia", "afghanistan", "saudiArabia", "bahrain", "bangladesh", "bhutan", "burma", "brunei", "china", "cyprus", "philippines", "hongkong", "india", "indonesia", "iraq", "iran", "izrael", "japan", "yemen", "southernYemen"];
+var asia = ["asia", "afghanistan", "saudiArabia", "bahrain", "bangladesh", "bhutan", "burma", "brunei", "china", "cyprus", "philippines", "hongkong", "india", "indonesia", "iraq", "iran", "izrael", "japan", "yemen", "southernYemen", "jordan", "kampucza", "katar", "korea", "northKorea", "southKorea", "kuwait", "laos", "lebanon", "macao", "maldives", "malaysia", "mongolia", "nepal", "oman", "pakistan", "singapore", "srilanka", "syria", "thailand", "turkey", "vietnam", "christmasIsland", "coconutIslands", "unitedArabEmirates"];
 
 var australia = ["australia"];
 
-var oceania = [];
+var oceania = ["oceania", "fiji", "guam", "hawaii", "kiribati", "midway", "nauru", "niue", "norfolk", "newCaledonia", "newZeland", "papuaNewGuinea", "pitcairn", "pacificTrustIslands", "americanSamoa", "westernSamoa", "tokelau", "tonga", "tuvalu", "vanuatu", "wake", "wallisFutun", "cookIslands", "salomonsIslands"];
 
 var antarctica = ["antarctica"];
 
