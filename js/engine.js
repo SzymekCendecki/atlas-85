@@ -114,7 +114,7 @@ var asia = ["asia", "afghanistan", "saudiArabia", "bahrain", "bangladesh", "bhut
 
 var australia = ["australia"];
 
-var oceania = ["oceania", "fiji", "guam", "hawaii", "kiribati", "midway", "nauru", "niue", "norfolk", "newCaledonia", "newZeland", "papuaNewGuinea", "pitcairn", "pacificTrustIslands", "americanSamoa", "westernSamoa", "tokelau", "tonga", "tuvalu", "vanuatu", "wake", "wallisFutun", "cookIslands", "salomonsIslands"];
+var oceania = ["oceania", "fiji", "guam", "hawaii", "kiribati", "midway", "nauru", "niue", "norfolk", "newCaledonia", "newZeland", "papuaNewGuinea", "pitcairn", "polinezja", "pacificTrustIslands", "americanSamoa", "westernSamoa", "tokelau", "tonga", "tuvalu", "vanuatu", "wake", "wallisFutuna", "cookIslands", "salomonsIslands"];
 
 var antarctica = ["antarctica"];
 

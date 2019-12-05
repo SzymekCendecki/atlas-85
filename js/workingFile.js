@@ -27,7 +27,7 @@ const asia = ["asia", "afghanistan", "saudiArabia", "bahrain", "bangladesh", "bh
 
 const australia = ["australia"];
 
-const oceania = ["oceania", "fiji", "guam", "hawaii", "kiribati", "midway", "nauru", "niue", "norfolk", "newCaledonia", "newZeland", "papuaNewGuinea", "pitcairn", "pacificTrustIslands", "americanSamoa", "westernSamoa", "tokelau", "tonga", "tuvalu", "vanuatu", "wake", "wallisFutun", "cookIslands", "salomonsIslands"];
+const oceania = ["oceania", "fiji", "guam", "hawaii", "kiribati", "midway", "nauru", "niue", "norfolk", "newCaledonia", "newZeland", "papuaNewGuinea", "pitcairn", "polinezja", "pacificTrustIslands", "americanSamoa", "westernSamoa", "tokelau", "tonga", "tuvalu", "vanuatu",  "wake", "wallisFutuna", "cookIslands", "salomonsIslands"];
 
 const antarctica = ["antarctica"];
 
