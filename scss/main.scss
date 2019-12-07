@@ -10,7 +10,7 @@ html, body{
 }
 
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 374px){
 
   header, footer{
     display: none;
@@ -57,6 +57,110 @@ html, body{
     display: block;
   }
   
+}      
+
+@media screen and (min-width: 375px){
+
+  header, footer{
+    display: none;
+  }
+
+  nav{
+    text-align: center;     
+    height: 16%;
+    overflow: auto;
+    list-style-type: none; 
+    }
+
+  #menu {
+    width: 100%;
+    text-align:center;
+    color:#fff;
+    font-weight: bolder;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style-type: none; 
+  }
+
+  #menu > li {
+    width: 48%;
+    margin: 2% 0 0 0;
+    background-color: #0000ff; 
+  }
+
+  #menu > li > ul{
+    color: #fff;
+    width: 66%;
+    height: 200px;
+    overflow: auto;
+    position: absolute;
+    padding: 2% 0;
+    left: 17%;
+    top: 10%;
+    display: none;
+  }
+
+  #menu > li > ul > li{
+    padding: 2% 0;
+    background-color: #0000ff; 
+    margin: 2% 0 0 0;
+  }
+
+  #menu > li:hover > ul{
+    display: block;
+  }
+  
+}      
+
+
+@media screen and (min-width: 768px){
+  nav{
+    text-align: center;     
+    height: 16%;
+    overflow: auto;
+    list-style-type: none; 
+    }
+
+  #menu {
+    width: 100%;
+    text-align:center;
+    color:#fff;
+    font-weight: bolder;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style-type: none; 
+  }
+
+  #menu > li {
+    width: 11%;
+    background-color: #0000ff; 
+  }
+
+  #menu > li > ul{
+    color: #fff;
+    width: 66%;
+    height: 200px;
+    overflow: auto;
+    position: absolute;
+    padding: 2% 0;
+    left: 17%;
+    top: 5%;
+    display: none;
+  }
+
+  #menu > li > ul > li{
+    padding: 2% 0;
+    background-color: #0000ff; 
+    margin: 2% 0 0 0;
+  }
+
+  #menu > li:hover > ul{
+    display: block;
+    left: 17%;
+  }
+
 }      
 
 //stylowanie mapki
