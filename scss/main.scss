@@ -18,6 +18,7 @@ header, footer{
 #menu{
   font-weight: bolder;
   color: #000;
+  list-style-type: none; 
 
   li{
     text-align: center;
@@ -43,6 +44,28 @@ header, footer{
 
   li:hover > ul {
     display: block;
+  }
+}
+
+//tablet
+@media screen and (min-width: 768px){
+
+  #menu{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    li{
+      width: 33%;
+
+      ul{
+        top: 25%;
+
+        li{
+          width: 100%;
+        }          
+      }
+    }
   }
 }
 
