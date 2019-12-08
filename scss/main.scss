@@ -10,7 +10,7 @@ html, body{
 }
 
 //mobile
-@media screen and (max-width: 767px){
+@media screen and (max-device-width:425px), screen and (max-width:425px){ 
 header, footer{
   display: none;
 }
@@ -50,7 +50,7 @@ header, footer{
 }
 
 //tablet
-@media screen and (min-width: 768px){
+@media screen and (min-device-width:768px), screen and (min-width:768px){ 
 
   header, footer{
     display: none;
