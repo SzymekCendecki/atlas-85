@@ -10,6 +10,7 @@ html, body{
 }
 
 //mobile
+@media screen and (max-width: 767px){
 header, footer{
   display: none;
 }
@@ -46,25 +47,50 @@ header, footer{
     display: block;
   }
 }
+}
 
 //tablet
 @media screen and (min-width: 768px){
 
+  header, footer{
+    display: none;
+  }
+  
+
   #menu{
+    font-weight: bolder;
+    color: #000;
+    list-style-type: none; 
     display:flex;
     flex-wrap: wrap;
     justify-content: space-around;
 
     li{
+      text-align: center;
+      background-color: #d2d2e0;
+      padding: 1% 0;
       width: 33%;
 
       ul{
-        top: 25%;
-
+        width: 80%;
+        height: 50%;
+        left: 10%;
+        top: 20%;
+        position: absolute;
+        overflow: auto;
+        color: #fff;
+        display: none;
+     
         li{
           width: 100%;
+          padding: 3% 0;
+          background-color: rgba(42, 42, 60, 0.7);
         }          
       }
+    }
+
+    li:hover > ul {
+      display: block;
     }
   }
 }
