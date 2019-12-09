@@ -159,7 +159,25 @@ header, footer{ display: none; }
 //desktop
 @media screen and (min-width:1024px){ 
 
-  header, footer{ display: none; }  
+  header, footer{ 
+    text-align: center;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: 10%;
+  }  
+
+  nav{
+    height: 10%;
+  }
+
+  #mainContainer{
+    width: 85%;
+    height: 70%;
+    margin: 0 auto;
+    overflow: auto;
+  }
 
   #menu{
     @include a;
@@ -178,7 +196,7 @@ header, footer{ display: none; }
         width: 80%;
         height: 50%;
         left: 10%;
-        top: 3%;
+        top: 13%;
         @include c;
      
         li{
