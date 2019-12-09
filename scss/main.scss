@@ -9,32 +9,42 @@ html, body{
   height: 100%;
 }
 
-//mobile
-@media screen and (min-width:320px){ 
-header, footer{
-  display: none;
-}
-
-
-#menu{
+@mixin a{
   font-weight: bolder;
   color: #000;
   list-style-type: none; 
+}
+
+@mixin b{
+  text-align: center;
+  padding: 2% 0;
+  background-color: #d2d2e0;
+}
+
+@mixin c{
+  position: absolute;
+  overflow: auto;
+  color: #fff;
+  display: none;
+}
+
+//mobile
+@media screen and (min-width:320px){ 
+
+header, footer{ display: none; }
+
+#menu{
+ @include a;
 
   li{
-    text-align: center;
-    padding: 2% 0;
-    background-color: #d2d2e0;
+    @include b;
   
     ul{
       width: 50%;
       height: 160px;
       left: 25%;
       top: 250px;
-      position: absolute;
-      overflow: auto;
-      color: #fff;
-      display: none;
+      @include c;
       
       li{
         padding: 3% 0;
@@ -43,37 +53,26 @@ header, footer{
     }
   }
 
-  li:hover > ul {
-    display: block;
-  }
+  li:hover > ul { display: block; }
 }
 }
 
 @media screen and (min-width:375px){ 
-  header, footer{
-    display: none;
-  }
-  
+
+  header, footer{ display: none; }  
   
   #menu{
-    font-weight: bolder;
-    color: #000;
-    list-style-type: none; 
+    @include a;
   
     li{
-      text-align: center;
-      padding: 2% 0;
-      background-color: #d2d2e0;
+      @include b;
     
       ul{
         width: 50%;
         height: 180px;
         left: 25%;
         top: 265px;
-        position: absolute;
-        overflow: auto;
-        color: #fff;
-        display: none;
+        @include c;
         
         li{
           padding: 3% 0;
@@ -95,24 +94,17 @@ header, footer{
     
     
     #menu{
-      font-weight: bolder;
-      color: #000;
-      list-style-type: none; 
+      @include a;
     
       li{
-        text-align: center;
-        padding: 2% 0;
-        background-color: #d2d2e0;
+        @include b;
       
         ul{
           width: 50%;
           height: 190px;
           left: 25%;
           top: 280px;
-          position: absolute;
-          overflow: auto;
-          color: #fff;
-          display: none;
+          @include c;
           
           li{
             padding: 3% 0;
@@ -130,14 +122,10 @@ header, footer{
 //tablet
 @media screen and (min-width:768px){ 
 
-  header, footer{
-    display: none;
-  }
-  
+  header, footer{ display: none; }  
 
   #menu{
-    font-weight: bolder;
-    color: #000;
+    @include a;
     list-style-type: none; 
     display:flex;
     flex-wrap: wrap;
@@ -154,10 +142,7 @@ header, footer{
         height: 50%;
         left: 10%;
         top: 17%;
-        position: absolute;
-        overflow: auto;
-        color: #fff;
-        display: none;
+        @include c;
      
         li{
           width: 100%;
@@ -167,9 +152,44 @@ header, footer{
       }
     }
 
-    li:hover > ul {
-      display: block;
+    li:hover > ul { display: block; }
+  }
+}
+
+//desktop
+@media screen and (min-width:1024px){ 
+
+  header, footer{ display: none; }  
+
+  #menu{
+    @include a;
+    list-style-type: none; 
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    li{
+      text-align: center;
+      background-color: #d2d2e0;
+      padding: 1% 0;
+      width: 10%;
+
+      ul{
+        width: 80%;
+        height: 50%;
+        left: 10%;
+        top: 3%;
+        @include c;
+     
+        li{
+          width: 100%;
+          padding: 1% 0;
+          background-color: rgba(42, 42, 60, 0.7);
+        }          
+      }
     }
+
+    li:hover > ul { display: block; }
   }
 }
 
@@ -184,5 +204,3 @@ img{
   width: 100%;
   height: auto;
 }
-
-
