@@ -40,10 +40,7 @@ header, footer{ display: none; }
     @include b;
   
     ul{
-      width: 50%;
-      height: 160px;
-      left: 25%;
-      top: 250px;
+      height: 50%;
       @include c;
       
       li{
@@ -68,13 +65,11 @@ header, footer{ display: none; }
       @include b;
     
       ul{
-        width: 50%;
-        height: 180px;
-        left: 25%;
-        top: 265px;
+        height: 50%;
         @include c;
         
         li{
+          width: 100%;
           padding: 3% 0;
           background-color: rgba(42, 42, 60, 0.7);
         }
@@ -100,13 +95,11 @@ header, footer{ display: none; }
         @include b;
       
         ul{
-          width: 50%;
-          height: 190px;
-          left: 25%;
-          top: 280px;
+          height: 50%;
           @include c;
           
           li{
+            width: 100%;
             padding: 3% 0;
             background-color: rgba(42, 42, 60, 0.7);
           }
@@ -138,10 +131,7 @@ header, footer{ display: none; }
       width: 33%;
 
       ul{
-        width: 80%;
         height: 50%;
-        left: 10%;
-        top: 17%;
         @include c;
      
         li{
@@ -193,10 +183,7 @@ header, footer{ display: none; }
       width: 10%;
 
       ul{
-        width: 80%;
         height: 50%;
-        left: 10%;
-        top: 13%;
         @include c;
      
         li{
