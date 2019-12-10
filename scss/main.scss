@@ -22,7 +22,6 @@ html, body{
 }
 
 @mixin c{
-  position: absolute;
   overflow: auto;
   color: #fff;
   display: none;
@@ -185,6 +184,7 @@ header, footer{ display: none; }
       ul{
         height: 50%;
         @include c;
+        background-color: #d2d2e0;
      
         li{
           width: 100%;
